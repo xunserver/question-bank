@@ -5,7 +5,7 @@ import { DataPanel } from './views/DataPanel';
 import { EmptyWrongBook } from './views/EmptyWrongBook';
 import { Overview } from './views/Overview';
 import { PracticeView } from './views/PracticeView';
-import { countOptions, normalizeAnswer, sortQuestions } from './lib/questions';
+import { countOptions, isAnswerCorrect, isMultipleChoice, sortQuestions, toggleAnswerLabel } from './lib/questions';
 import {
   dateStamp,
   defaultState,
@@ -23,6 +23,7 @@ export function App() {
   const [state, setState] = useState(readState);
   const [questionBank, setQuestionBank] = useState(readQuestionBank);
   const [showAnswer, setShowAnswer] = useState(false);
+  const [draftAnswer, setDraftAnswer] = useState('');
   const dataImportRef = useRef(null);
 
   const orderedQuestions = useMemo(() => sortQuestions(questionBank.questions), [questionBank.questions]);
@@ -40,9 +41,12 @@ export function App() {
   const wrongCount = Object.keys(state.wrongBook).length;
   const correctCount = Object.values(state.answers).filter((item) => item.correct).length;
   const progressPercent = orderedQuestions.length ? Math.round((answeredCount / orderedQuestions.length) * 100) : 0;
-  const selectedAnswer = currentQuestion ? state.answers[currentQuestion.id]?.selected : null;
-  const answered = Boolean(selectedAnswer);
-  const isCorrect = answered && normalizeAnswer(selectedAnswer) === normalizeAnswer(currentQuestion.answer);
+  const savedAnswer = currentQuestion ? state.answers[currentQuestion.id]?.selected : null;
+  const multipleChoice = currentQuestion ? isMultipleChoice(currentQuestion) : false;
+  const retryingWrongMultiple = state.mode === 'wrong' && multipleChoice && !showAnswer;
+  const answered = Boolean(savedAnswer) && !retryingWrongMultiple;
+  const selectedAnswer = multipleChoice && !answered && !showAnswer ? draftAnswer : savedAnswer;
+  const isCorrect = answered && isAnswerCorrect(currentQuestion, savedAnswer);
 
   function commitState(updater) {
     setState((prev) => {
@@ -55,12 +59,13 @@ export function App() {
   function switchMode(mode) {
     commitState((prev) => ({ ...prev, mode }));
     setShowAnswer(false);
+    setDraftAnswer('');
   }
 
-  function selectAnswer(answer) {
+  function commitAnswer(answer) {
     if (!currentQuestion) return;
 
-    const correct = normalizeAnswer(answer) === normalizeAnswer(currentQuestion.answer);
+    const correct = isAnswerCorrect(currentQuestion, answer);
     commitState((prev) => {
       const wrongBook = { ...prev.wrongBook };
       if (correct) {
@@ -88,6 +93,28 @@ export function App() {
       };
     });
     setShowAnswer(true);
+    setDraftAnswer('');
+  }
+
+  function selectAnswer(answer) {
+    if (!currentQuestion) return;
+
+    if (isMultipleChoice(currentQuestion) && !answered && !showAnswer) {
+      setDraftAnswer((prev) => toggleAnswerLabel(prev, answer));
+      return;
+    }
+
+    commitAnswer(answer);
+  }
+
+  function submitAnswer() {
+    if (!currentQuestion || !draftAnswer) return;
+    commitAnswer(draftAnswer);
+  }
+
+  function retryAnswer() {
+    setShowAnswer(false);
+    setDraftAnswer('');
   }
 
   function move(delta) {
@@ -100,6 +127,7 @@ export function App() {
       ),
     }));
     setShowAnswer(false);
+    setDraftAnswer('');
   }
 
   function jumpToQuestion(index) {
@@ -109,6 +137,7 @@ export function App() {
       currentIndex: index,
     }));
     setShowAnswer(false);
+    setDraftAnswer('');
   }
 
   function resetAll() {
@@ -116,6 +145,7 @@ export function App() {
     writeState(defaultState);
     setState(defaultState);
     setShowAnswer(false);
+    setDraftAnswer('');
   }
 
   function exportAllData() {
@@ -137,6 +167,7 @@ export function App() {
       setQuestionBank(backup.bank);
       setState(nextState);
       setShowAnswer(false);
+      setDraftAnswer('');
       alert(`完整数据导入成功，共 ${backup.bank.questions.length} 题。`);
     } catch (error) {
       alert(error instanceof Error ? error.message : '完整数据导入失败');
@@ -148,28 +179,30 @@ export function App() {
   return (
     <main className="app-viewport bg-slate-100 text-slate-950">
       <div className="app-shell mx-auto flex w-full max-w-md flex-col bg-white shadow-soft">
-        <AppHeader
-          answeredCount={answeredCount}
-          correctCount={correctCount}
-          wrongCount={wrongCount}
-          progressPercent={progressPercent}
-          onOpenData={() => switchMode('data')}
-          onReset={resetAll}
-        />
+        <div className="sticky top-0 z-10 bg-white/95 backdrop-blur">
+          <AppHeader
+            answeredCount={answeredCount}
+            correctCount={correctCount}
+            wrongCount={wrongCount}
+            progressPercent={progressPercent}
+            onOpenData={() => switchMode('data')}
+            onReset={resetAll}
+          />
 
-        <nav className="grid grid-cols-3 gap-2 px-4 py-3">
-          <Tab active={state.mode === 'practice'} onClick={() => switchMode('practice')}>
-            顺序练习
-          </Tab>
-          <Tab active={state.mode === 'overview'} onClick={() => switchMode('overview')}>
-            题目总览
-          </Tab>
-          <Tab active={state.mode === 'wrong'} onClick={() => switchMode('wrong')}>
-            错题本
-          </Tab>
-        </nav>
+          <nav className="grid grid-cols-3 gap-2 border-b border-slate-200 px-4 py-2">
+            <Tab active={state.mode === 'practice'} onClick={() => switchMode('practice')}>
+              顺序练习
+            </Tab>
+            <Tab active={state.mode === 'overview'} onClick={() => switchMode('overview')}>
+              题目总览
+            </Tab>
+            <Tab active={state.mode === 'wrong'} onClick={() => switchMode('wrong')}>
+              错题本
+            </Tab>
+          </nav>
+        </div>
 
-        <section className="flex flex-1 flex-col px-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
+        <section className="flex flex-1 flex-col mt-2 px-4 pb-[max(1rem,env(safe-area-inset-bottom))]">
           {state.mode === 'data' ? (
             <DataPanel
               questionCount={orderedQuestions.length}
@@ -193,7 +226,10 @@ export function App() {
               showAnswer={showAnswer}
               answered={answered}
               isCorrect={isCorrect}
+              canRetryAnswer={state.mode === 'wrong' && multipleChoice}
               onSelectAnswer={selectAnswer}
+              onSubmitAnswer={submitAnswer}
+              onRetryAnswer={retryAnswer}
               onMove={move}
             />
           )}

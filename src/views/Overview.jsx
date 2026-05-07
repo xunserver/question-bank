@@ -1,3 +1,5 @@
+import { questionTypeLabel } from '../lib/questions';
+
 function LegendDot({ color, label, value }) {
   return (
     <div className="rounded-lg bg-slate-100 px-2 py-2">
@@ -10,10 +12,27 @@ function LegendDot({ color, label, value }) {
   );
 }
 
+function groupQuestionsByType(questions) {
+  return questions.reduce((groups, question, index) => {
+    const lastGroup = groups.at(-1);
+    if (lastGroup?.type === question.type) {
+      lastGroup.items.push({ question, index });
+    } else {
+      groups.push({
+        type: question.type,
+        label: questionTypeLabel(question.type),
+        items: [{ question, index }],
+      });
+    }
+    return groups;
+  }, []);
+}
+
 export function Overview({ questions, answers, onJump }) {
   const correctCount = questions.filter((question) => answers[question.id]?.correct).length;
   const wrongCount = questions.filter((question) => answers[question.id]?.correct === false).length;
   const untouchedCount = questions.length - correctCount - wrongCount;
+  const questionGroups = groupQuestionsByType(questions);
 
   return (
     <div className="flex flex-1 flex-col">
@@ -33,27 +52,38 @@ export function Overview({ questions, answers, onJump }) {
         </div>
       </div>
 
-      <div className="mt-4 grid grid-cols-8 gap-2 pb-4">
-        {questions.map((question, index) => {
-          const answer = answers[question.id];
-          const tone =
-            answer?.correct === true
-              ? 'border-emerald-500 bg-emerald-500 text-white'
-              : answer?.correct === false
-                ? 'border-rose-500 bg-rose-500 text-white'
-                : 'border-slate-300 bg-white text-slate-700';
+      <div className="mt-4 space-y-5 pb-4">
+        {questionGroups.map((group) => (
+          <section key={`${group.type}-${group.items[0].index}`}>
+            <div className="mb-2 flex items-center justify-between">
+              <h3 className="text-sm font-semibold text-slate-800">{group.label}</h3>
+              <span className="text-xs text-slate-500">{group.items.length} 题</span>
+            </div>
 
-          return (
-            <button
-              key={question.id}
-              className={`aspect-square rounded-md border text-xs font-semibold leading-none active:scale-95 ${tone}`}
-              onClick={() => onJump(index)}
-              aria-label={`跳转到第 ${index + 1} 题`}
-            >
-              {index + 1}
-            </button>
-          );
-        })}
+            <div className="grid grid-cols-8 gap-2">
+              {group.items.map(({ question, index }) => {
+                const answer = answers[question.id];
+                const tone =
+                  answer?.correct === true
+                    ? 'border-emerald-500 bg-emerald-500 text-white'
+                    : answer?.correct === false
+                      ? 'border-rose-500 bg-rose-500 text-white'
+                      : 'border-slate-300 bg-white text-slate-700';
+
+                return (
+                  <button
+                    key={question.id}
+                    className={`aspect-square rounded-md border text-xs font-semibold leading-none active:scale-95 ${tone}`}
+                    onClick={() => onJump(index)}
+                    aria-label={`跳转到第 ${index + 1} 题`}
+                  >
+                    {index + 1}
+                  </button>
+                );
+              })}
+            </div>
+          </section>
+        ))}
       </div>
     </div>
   );
