@@ -1,0 +1,4082 @@
+[
+  {
+    "id": 1,
+    "question_id": 101,
+    "label": "A",
+    "content": "-10%或+5%"
+  },
+  {
+    "id": 2,
+    "question_id": 101,
+    "label": "B",
+    "content": "-10%或+15%"
+  },
+  {
+    "id": 3,
+    "question_id": 101,
+    "label": "C",
+    "content": "-5%或+10%"
+  },
+  {
+    "id": 4,
+    "question_id": 101,
+    "label": "D",
+    "content": "-5%或+15%"
+  },
+  {
+    "id": 5,
+    "question_id": 102,
+    "label": "A",
+    "content": "计划用电"
+  },
+  {
+    "id": 6,
+    "question_id": 102,
+    "label": "B",
+    "content": "节约用电"
+  },
+  {
+    "id": 7,
+    "question_id": 102,
+    "label": "C",
+    "content": "经济运行"
+  },
+  {
+    "id": 8,
+    "question_id": 102,
+    "label": "D",
+    "content": "负荷调整"
+  },
+  {
+    "id": 9,
+    "question_id": 103,
+    "label": "A",
+    "content": "选频作用较差"
+  },
+  {
+    "id": 10,
+    "question_id": 103,
+    "label": "B",
+    "content": "振幅不够稳定"
+  },
+  {
+    "id": 11,
+    "question_id": 103,
+    "label": "C",
+    "content": "频率调节不便"
+  },
+  {
+    "id": 12,
+    "question_id": 103,
+    "label": "D",
+    "content": "电路复杂"
+  },
+  {
+    "id": 13,
+    "question_id": 104,
+    "label": "A",
+    "content": "放大能力降低"
+  },
+  {
+    "id": 14,
+    "question_id": 104,
+    "label": "B",
+    "content": "击穿"
+  },
+  {
+    "id": 15,
+    "question_id": 104,
+    "label": "C",
+    "content": "必定过热甚至烧坏"
+  },
+  {
+    "id": 16,
+    "question_id": 104,
+    "label": "D",
+    "content": "工作正常"
+  },
+  {
+    "id": 17,
+    "question_id": 105,
+    "label": "A",
+    "content": "1年"
+  },
+  {
+    "id": 18,
+    "question_id": 105,
+    "label": "B",
+    "content": "3年"
+  },
+  {
+    "id": 19,
+    "question_id": 105,
+    "label": "C",
+    "content": "5～10年"
+  },
+  {
+    "id": 20,
+    "question_id": 105,
+    "label": "D",
+    "content": "15～20年"
+  },
+  {
+    "id": 21,
+    "question_id": 106,
+    "label": "A",
+    "content": "模数变换"
+  },
+  {
+    "id": 22,
+    "question_id": 106,
+    "label": "B",
+    "content": "数模变换"
+  },
+  {
+    "id": 23,
+    "question_id": 106,
+    "label": "C",
+    "content": "电平变换"
+  },
+  {
+    "id": 24,
+    "question_id": 106,
+    "label": "D",
+    "content": "放大"
+  },
+  {
+    "id": 25,
+    "question_id": 107,
+    "label": "A",
+    "content": "动作电流大于最大负荷电流"
+  },
+  {
+    "id": 26,
+    "question_id": 107,
+    "label": "B",
+    "content": "动作电流等于额定负荷电流"
+  },
+  {
+    "id": 27,
+    "question_id": 107,
+    "label": "C",
+    "content": "动作电流小于最大负荷电流"
+  },
+  {
+    "id": 28,
+    "question_id": 107,
+    "label": "D",
+    "content": "返回电流小于最大负荷电流"
+  },
+  {
+    "id": 29,
+    "question_id": 108,
+    "label": "A",
+    "content": "提高电压放大倍数"
+  },
+  {
+    "id": 30,
+    "question_id": 108,
+    "label": "B",
+    "content": "增加输出阻抗"
+  },
+  {
+    "id": 31,
+    "question_id": 108,
+    "label": "C",
+    "content": "提高工作稳定性"
+  },
+  {
+    "id": 32,
+    "question_id": 108,
+    "label": "D",
+    "content": "减小输入阻抗"
+  },
+  {
+    "id": 33,
+    "question_id": 109,
+    "label": "A",
+    "content": "欧姆"
+  },
+  {
+    "id": 34,
+    "question_id": 109,
+    "label": "B",
+    "content": "伏"
+  },
+  {
+    "id": 35,
+    "question_id": 109,
+    "label": "C",
+    "content": "1/亨"
+  },
+  {
+    "id": 36,
+    "question_id": 109,
+    "label": "D",
+    "content": "亨"
+  },
+  {
+    "id": 37,
+    "question_id": 110,
+    "label": "A",
+    "content": "69mA"
+  },
+  {
+    "id": 38,
+    "question_id": 110,
+    "label": "B",
+    "content": "110mA"
+  },
+  {
+    "id": 39,
+    "question_id": 110,
+    "label": "C",
+    "content": "170mA"
+  },
+  {
+    "id": 40,
+    "question_id": 110,
+    "label": "D",
+    "content": "50mA"
+  },
+  {
+    "id": 41,
+    "question_id": 111,
+    "label": "A",
+    "content": "相同"
+  },
+  {
+    "id": 42,
+    "question_id": 111,
+    "label": "B",
+    "content": "相反"
+  },
+  {
+    "id": 43,
+    "question_id": 111,
+    "label": "C",
+    "content": "无关"
+  },
+  {
+    "id": 44,
+    "question_id": 111,
+    "label": "D",
+    "content": "相同或相反"
+  },
+  {
+    "id": 45,
+    "question_id": 112,
+    "label": "A",
+    "content": "二极管具有单向导电性"
+  },
+  {
+    "id": 46,
+    "question_id": 112,
+    "label": "B",
+    "content": "不改变输入脉冲的形状"
+  },
+  {
+    "id": 47,
+    "question_id": 112,
+    "label": "C",
+    "content": "正向电流大于反向电流"
+  },
+  {
+    "id": 48,
+    "question_id": 112,
+    "label": "D",
+    "content": "同负载有关"
+  },
+  {
+    "id": 49,
+    "question_id": 113,
+    "label": "A",
+    "content": "β＝IB/IC"
+  },
+  {
+    "id": 50,
+    "question_id": 113,
+    "label": "B",
+    "content": "β＝IC/IB"
+  },
+  {
+    "id": 51,
+    "question_id": 113,
+    "label": "C",
+    "content": "β＝IB-IC"
+  },
+  {
+    "id": 52,
+    "question_id": 113,
+    "label": "D",
+    "content": "β＝IC-IB"
+  },
+  {
+    "id": 53,
+    "question_id": 114,
+    "label": "A",
+    "content": "90°"
+  },
+  {
+    "id": 54,
+    "question_id": 114,
+    "label": "B",
+    "content": "180°"
+  },
+  {
+    "id": 55,
+    "question_id": 114,
+    "label": "C",
+    "content": "270°"
+  },
+  {
+    "id": 56,
+    "question_id": 114,
+    "label": "D",
+    "content": "150°"
+  },
+  {
+    "id": 57,
+    "question_id": 115,
+    "label": "A",
+    "content": "发电机电压的平均值等于电网电压平均值"
+  },
+  {
+    "id": 58,
+    "question_id": 115,
+    "label": "B",
+    "content": "发电机电压相位与电网电压相位相同"
+  },
+  {
+    "id": 59,
+    "question_id": 115,
+    "label": "C",
+    "content": "发电机频率与电网频率相同"
+  },
+  {
+    "id": 60,
+    "question_id": 115,
+    "label": "D",
+    "content": "发电机电压相序和电网电压相序一致"
+  },
+  {
+    "id": 61,
+    "question_id": 116,
+    "label": "A",
+    "content": "一"
+  },
+  {
+    "id": 62,
+    "question_id": 116,
+    "label": "B",
+    "content": "二"
+  },
+  {
+    "id": 63,
+    "question_id": 116,
+    "label": "C",
+    "content": "三"
+  },
+  {
+    "id": 64,
+    "question_id": 116,
+    "label": "D",
+    "content": "四"
+  },
+  {
+    "id": 65,
+    "question_id": 117,
+    "label": "A",
+    "content": "用开口三角形电压互感器发出电压信号"
+  },
+  {
+    "id": 66,
+    "question_id": 117,
+    "label": "B",
+    "content": "在三相电流互感器二次中性线上加装电流继电器"
+  },
+  {
+    "id": 67,
+    "question_id": 117,
+    "label": "C",
+    "content": "用零序电流互感器"
+  },
+  {
+    "id": 68,
+    "question_id": 117,
+    "label": "D",
+    "content": "无要求"
+  },
+  {
+    "id": 69,
+    "question_id": 118,
+    "label": "A",
+    "content": "中间"
+  },
+  {
+    "id": 70,
+    "question_id": 118,
+    "label": "B",
+    "content": "两极"
+  },
+  {
+    "id": 71,
+    "question_id": 118,
+    "label": "C",
+    "content": "两侧面"
+  },
+  {
+    "id": 72,
+    "question_id": 118,
+    "label": "D",
+    "content": "内部"
+  },
+  {
+    "id": 73,
+    "question_id": 119,
+    "label": "A",
+    "content": "韦帕"
+  },
+  {
+    "id": 74,
+    "question_id": 119,
+    "label": "B",
+    "content": "享"
+  },
+  {
+    "id": 75,
+    "question_id": 119,
+    "label": "C",
+    "content": "1/享"
+  },
+  {
+    "id": 76,
+    "question_id": 119,
+    "label": "D",
+    "content": "特斯拉"
+  },
+  {
+    "id": 77,
+    "question_id": 120,
+    "label": "A",
+    "content": "电流方向"
+  },
+  {
+    "id": 78,
+    "question_id": 120,
+    "label": "B",
+    "content": "磁场方向"
+  },
+  {
+    "id": 79,
+    "question_id": 120,
+    "label": "C",
+    "content": "电流产生的磁场方向"
+  },
+  {
+    "id": 80,
+    "question_id": 120,
+    "label": "D",
+    "content": "导体受力"
+  },
+  {
+    "id": 81,
+    "question_id": 121,
+    "label": "A",
+    "content": "适应于要求频率范围较宽的场所"
+  },
+  {
+    "id": 82,
+    "question_id": 121,
+    "label": "B",
+    "content": "不引起振荡波形中高次谐波分量的增大"
+  },
+  {
+    "id": 83,
+    "question_id": 121,
+    "label": "C",
+    "content": "输出波形好"
+  },
+  {
+    "id": 84,
+    "question_id": 121,
+    "label": "D",
+    "content": "用于工作频率低的场所"
+  },
+  {
+    "id": 85,
+    "question_id": 122,
+    "label": "A",
+    "content": "开环增益很大，体积小"
+  },
+  {
+    "id": 86,
+    "question_id": 122,
+    "label": "B",
+    "content": "开环增益很大，输入阻抗很小"
+  },
+  {
+    "id": 87,
+    "question_id": 122,
+    "label": "C",
+    "content": "开环增益很大，输出阻抗高"
+  },
+  {
+    "id": 88,
+    "question_id": 122,
+    "label": "D",
+    "content": "开环增益很大，输入阻抗高，输出阻抗小"
+  },
+  {
+    "id": 89,
+    "question_id": 123,
+    "label": "A",
+    "content": "副边电压为零"
+  },
+  {
+    "id": 90,
+    "question_id": 123,
+    "label": "B",
+    "content": "副边产生危险高压，铁心过热"
+  },
+  {
+    "id": 91,
+    "question_id": 123,
+    "label": "C",
+    "content": "副边电流为零，促使原边电流近似为零"
+  },
+  {
+    "id": 92,
+    "question_id": 123,
+    "label": "D",
+    "content": "副边产生危险高压，变换到原边，使原边电压更高"
+  },
+  {
+    "id": 93,
+    "question_id": 124,
+    "label": "A",
+    "content": "反馈环节，放大环节"
+  },
+  {
+    "id": 94,
+    "question_id": 124,
+    "label": "B",
+    "content": "补偿环节，稳定环节"
+  },
+  {
+    "id": 95,
+    "question_id": 124,
+    "label": "C",
+    "content": "给定环节"
+  },
+  {
+    "id": 96,
+    "question_id": 124,
+    "label": "D",
+    "content": "执行环节"
+  },
+  {
+    "id": 97,
+    "question_id": 125,
+    "label": "A",
+    "content": "选在交流负载线的中点"
+  },
+  {
+    "id": 98,
+    "question_id": 125,
+    "label": "B",
+    "content": "沿交流负载线下移，使静态集电极电流降低"
+  },
+  {
+    "id": 99,
+    "question_id": 125,
+    "label": "C",
+    "content": "沿交流负载线继续下移，使静态集电极电流等于零"
+  },
+  {
+    "id": 100,
+    "question_id": 125,
+    "label": "D",
+    "content": "选在交流负载线的上方"
+  },
+  {
+    "id": 101,
+    "question_id": 126,
+    "label": "A",
+    "content": "绕组的匝比等于电压比"
+  },
+  {
+    "id": 102,
+    "question_id": 126,
+    "label": "B",
+    "content": "原、副边绕组的耦合"
+  },
+  {
+    "id": 103,
+    "question_id": 126,
+    "label": "C",
+    "content": "由于磁通的变化而产生电势"
+  },
+  {
+    "id": 104,
+    "question_id": 126,
+    "label": "D",
+    "content": "根据电磁感应原理"
+  },
+  {
+    "id": 105,
+    "question_id": 127,
+    "label": "A",
+    "content": "0.5分钟"
+  },
+  {
+    "id": 106,
+    "question_id": 127,
+    "label": "B",
+    "content": "1分钟"
+  },
+  {
+    "id": 107,
+    "question_id": 127,
+    "label": "C",
+    "content": "2分钟"
+  },
+  {
+    "id": 108,
+    "question_id": 127,
+    "label": "D",
+    "content": "3分钟"
+  },
+  {
+    "id": 109,
+    "question_id": 128,
+    "label": "A",
+    "content": "提高设备自动化程度"
+  },
+  {
+    "id": 110,
+    "question_id": 128,
+    "label": "B",
+    "content": "合理布置工作场地"
+  },
+  {
+    "id": 111,
+    "question_id": 128,
+    "label": "C",
+    "content": "延长工人休息时间"
+  },
+  {
+    "id": 112,
+    "question_id": 128,
+    "label": "D",
+    "content": "缩短设备修理时间"
+  },
+  {
+    "id": 113,
+    "question_id": 129,
+    "label": "A",
+    "content": "输入电动机的无功功率"
+  },
+  {
+    "id": 114,
+    "question_id": 129,
+    "label": "B",
+    "content": "电动机输出转矩"
+  },
+  {
+    "id": 115,
+    "question_id": 129,
+    "label": "C",
+    "content": "输入电动机有功功率"
+  },
+  {
+    "id": 116,
+    "question_id": 129,
+    "label": "D",
+    "content": "同步电动机的转速"
+  },
+  {
+    "id": 117,
+    "question_id": 130,
+    "label": "A",
+    "content": "增大励磁电流"
+  },
+  {
+    "id": 118,
+    "question_id": 130,
+    "label": "B",
+    "content": "减小励磁电流"
+  },
+  {
+    "id": 119,
+    "question_id": 130,
+    "label": "C",
+    "content": "提高发电机的转速"
+  },
+  {
+    "id": 120,
+    "question_id": 130,
+    "label": "D",
+    "content": "降低发电机的转速"
+  },
+  {
+    "id": 121,
+    "question_id": 131,
+    "label": "A",
+    "content": "水平安装的电机只须纵向水平即可"
+  },
+  {
+    "id": 122,
+    "question_id": 131,
+    "label": "B",
+    "content": "水平安装的电机只须纵向、横向水平即可"
+  },
+  {
+    "id": 123,
+    "question_id": 131,
+    "label": "C",
+    "content": "轴传动的电机只要轴向在一个中心线即可"
+  },
+  {
+    "id": 124,
+    "question_id": 131,
+    "label": "D",
+    "content": "电机安装必须纵向、横向水平校正和传动装置校正"
+  },
+  {
+    "id": 125,
+    "question_id": 132,
+    "label": "A",
+    "content": "施工方法及平面布置，操作注意事项"
+  },
+  {
+    "id": 126,
+    "question_id": 132,
+    "label": "B",
+    "content": "施工方法及平面布置，安全措施"
+  },
+  {
+    "id": 127,
+    "question_id": 132,
+    "label": "C",
+    "content": "施工方法及平面布置，操作注意事项，安全措施"
+  },
+  {
+    "id": 128,
+    "question_id": 132,
+    "label": "D",
+    "content": "施工方法及平面布置，工器具的选择，操作注意事项，安全措施"
+  },
+  {
+    "id": 129,
+    "question_id": 133,
+    "label": "A",
+    "content": "1"
+  },
+  {
+    "id": 130,
+    "question_id": 133,
+    "label": "B",
+    "content": "1/2"
+  },
+  {
+    "id": 131,
+    "question_id": 133,
+    "label": "C",
+    "content": "1/3"
+  },
+  {
+    "id": 132,
+    "question_id": 133,
+    "label": "D",
+    "content": "1/6"
+  },
+  {
+    "id": 133,
+    "question_id": 134,
+    "label": "A",
+    "content": "机加工时机床自动走刀时间"
+  },
+  {
+    "id": 134,
+    "question_id": 134,
+    "label": "B",
+    "content": "机加工电钻钻孔时间"
+  },
+  {
+    "id": 135,
+    "question_id": 134,
+    "label": "C",
+    "content": "利用手工制造工件的刮、锉时间"
+  },
+  {
+    "id": 136,
+    "question_id": 134,
+    "label": "D",
+    "content": "在金属切削加工中退刀时间"
+  },
+  {
+    "id": 137,
+    "question_id": 135,
+    "label": "A",
+    "content": "1"
+  },
+  {
+    "id": 138,
+    "question_id": 135,
+    "label": "B",
+    "content": "2"
+  },
+  {
+    "id": 139,
+    "question_id": 135,
+    "label": "C",
+    "content": "3"
+  },
+  {
+    "id": 140,
+    "question_id": 135,
+    "label": "D",
+    "content": "4"
+  },
+  {
+    "id": 141,
+    "question_id": 136,
+    "label": "A",
+    "content": "150mm"
+  },
+  {
+    "id": 142,
+    "question_id": 136,
+    "label": "B",
+    "content": "225mm"
+  },
+  {
+    "id": 143,
+    "question_id": 136,
+    "label": "C",
+    "content": "300mm"
+  },
+  {
+    "id": 144,
+    "question_id": 136,
+    "label": "D",
+    "content": "325mm"
+  },
+  {
+    "id": 145,
+    "question_id": 137,
+    "label": "A",
+    "content": "桥式触头"
+  },
+  {
+    "id": 146,
+    "question_id": 137,
+    "label": "B",
+    "content": "指形触头"
+  },
+  {
+    "id": 147,
+    "question_id": 137,
+    "label": "C",
+    "content": "辫形触头"
+  },
+  {
+    "id": 148,
+    "question_id": 137,
+    "label": "D",
+    "content": "对接式触头"
+  },
+  {
+    "id": 149,
+    "question_id": 138,
+    "label": "A",
+    "content": "运算器"
+  },
+  {
+    "id": 150,
+    "question_id": 138,
+    "label": "B",
+    "content": "控制器"
+  },
+  {
+    "id": 151,
+    "question_id": 138,
+    "label": "C",
+    "content": "寄存器"
+  },
+  {
+    "id": 152,
+    "question_id": 138,
+    "label": "D",
+    "content": "微处理器"
+  },
+  {
+    "id": 153,
+    "question_id": 139,
+    "label": "A",
+    "content": "有支柱绝缘子，金属框架，灭弧，操作机构"
+  },
+  {
+    "id": 154,
+    "question_id": 139,
+    "label": "B",
+    "content": "有动静触头，熔断器，操作机构，支柱绝缘子"
+  },
+  {
+    "id": 155,
+    "question_id": 139,
+    "label": "C",
+    "content": "有分闸弹簧，刀闸，支柱绝缘子，缓冲装置"
+  },
+  {
+    "id": 156,
+    "question_id": 139,
+    "label": "D",
+    "content": "有操作机构，金属框架，熔断器，缓冲装置"
+  },
+  {
+    "id": 157,
+    "question_id": 140,
+    "label": "A",
+    "content": "电压"
+  },
+  {
+    "id": 158,
+    "question_id": 140,
+    "label": "B",
+    "content": "电流"
+  },
+  {
+    "id": 159,
+    "question_id": 140,
+    "label": "C",
+    "content": "电动势"
+  },
+  {
+    "id": 160,
+    "question_id": 140,
+    "label": "D",
+    "content": "功率"
+  },
+  {
+    "id": 161,
+    "question_id": 141,
+    "label": "A",
+    "content": "交流无触点"
+  },
+  {
+    "id": 162,
+    "question_id": 141,
+    "label": "B",
+    "content": "交流有触点"
+  },
+  {
+    "id": 163,
+    "question_id": 141,
+    "label": "C",
+    "content": "直流无触点"
+  },
+  {
+    "id": 164,
+    "question_id": 141,
+    "label": "D",
+    "content": "直流有触点"
+  },
+  {
+    "id": 165,
+    "question_id": 142,
+    "label": "A",
+    "content": "立即将刀闸合上"
+  },
+  {
+    "id": 166,
+    "question_id": 142,
+    "label": "B",
+    "content": "继续拉开刀闸至全开"
+  },
+  {
+    "id": 167,
+    "question_id": 142,
+    "label": "C",
+    "content": "停止操作"
+  },
+  {
+    "id": 168,
+    "question_id": 142,
+    "label": "D",
+    "content": "赶快离开至安全地方"
+  },
+  {
+    "id": 169,
+    "question_id": 143,
+    "label": "A",
+    "content": "等于0"
+  },
+  {
+    "id": 170,
+    "question_id": 143,
+    "label": "B",
+    "content": "小于0"
+  },
+  {
+    "id": 171,
+    "question_id": 143,
+    "label": "C",
+    "content": "越大越好"
+  },
+  {
+    "id": 172,
+    "question_id": 143,
+    "label": "D",
+    "content": "越小越好"
+  },
+  {
+    "id": 173,
+    "question_id": 144,
+    "label": "A",
+    "content": "铸铁"
+  },
+  {
+    "id": 174,
+    "question_id": 144,
+    "label": "B",
+    "content": "铸钢"
+  },
+  {
+    "id": 175,
+    "question_id": 144,
+    "label": "C",
+    "content": "钢板焊接"
+  },
+  {
+    "id": 176,
+    "question_id": 144,
+    "label": "D",
+    "content": "钢管"
+  },
+  {
+    "id": 177,
+    "question_id": 145,
+    "label": "A",
+    "content": "直接耦合放大器"
+  },
+  {
+    "id": 178,
+    "question_id": 145,
+    "label": "B",
+    "content": "差动式直流放大器"
+  },
+  {
+    "id": 179,
+    "question_id": 145,
+    "label": "C",
+    "content": "调制式直流放大器和直流运算放大器"
+  },
+  {
+    "id": 180,
+    "question_id": 145,
+    "label": "D",
+    "content": "含C"
+  },
+  {
+    "id": 181,
+    "question_id": 146,
+    "label": "A",
+    "content": "90°"
+  },
+  {
+    "id": 182,
+    "question_id": 146,
+    "label": "B",
+    "content": "120°"
+  },
+  {
+    "id": 183,
+    "question_id": 146,
+    "label": "C",
+    "content": "150°"
+  },
+  {
+    "id": 184,
+    "question_id": 146,
+    "label": "D",
+    "content": "180°"
+  },
+  {
+    "id": 185,
+    "question_id": 147,
+    "label": "A",
+    "content": "增大"
+  },
+  {
+    "id": 186,
+    "question_id": 147,
+    "label": "B",
+    "content": "减小"
+  },
+  {
+    "id": 187,
+    "question_id": 147,
+    "label": "C",
+    "content": "不变"
+  },
+  {
+    "id": 188,
+    "question_id": 147,
+    "label": "D",
+    "content": "可能减小"
+  },
+  {
+    "id": 189,
+    "question_id": 148,
+    "label": "A",
+    "content": "法拉第定律"
+  },
+  {
+    "id": 190,
+    "question_id": 148,
+    "label": "B",
+    "content": "楞次定律"
+  },
+  {
+    "id": 191,
+    "question_id": 148,
+    "label": "C",
+    "content": "安培定则"
+  },
+  {
+    "id": 192,
+    "question_id": 148,
+    "label": "D",
+    "content": "欧姆定律"
+  },
+  {
+    "id": 193,
+    "question_id": 149,
+    "label": "A",
+    "content": "6mA"
+  },
+  {
+    "id": 194,
+    "question_id": 149,
+    "label": "B",
+    "content": "0"
+  },
+  {
+    "id": 195,
+    "question_id": 149,
+    "label": "C",
+    "content": "∞"
+  },
+  {
+    "id": 196,
+    "question_id": 149,
+    "label": "D",
+    "content": "5.3mA"
+  },
+  {
+    "id": 197,
+    "question_id": 150,
+    "label": "A",
+    "content": "5℃"
+  },
+  {
+    "id": 198,
+    "question_id": 150,
+    "label": "B",
+    "content": "10℃"
+  },
+  {
+    "id": 199,
+    "question_id": 150,
+    "label": "C",
+    "content": "15℃"
+  },
+  {
+    "id": 200,
+    "question_id": 150,
+    "label": "D",
+    "content": "20℃"
+  },
+  {
+    "id": 201,
+    "question_id": 151,
+    "label": "A",
+    "content": "铁芯、绕组、外壳"
+  },
+  {
+    "id": 202,
+    "question_id": 151,
+    "label": "B",
+    "content": "铁芯、外壳、套管"
+  },
+  {
+    "id": 203,
+    "question_id": 151,
+    "label": "C",
+    "content": "绕组、导电杆、变压器"
+  },
+  {
+    "id": 204,
+    "question_id": 151,
+    "label": "D",
+    "content": "铁芯、绕组、外壳、套管及冷却系统"
+  },
+  {
+    "id": 205,
+    "question_id": 152,
+    "label": "A",
+    "content": "作业时间"
+  },
+  {
+    "id": 206,
+    "question_id": 152,
+    "label": "B",
+    "content": "工人开会学习时间"
+  },
+  {
+    "id": 207,
+    "question_id": 152,
+    "label": "C",
+    "content": "休息时间"
+  },
+  {
+    "id": 208,
+    "question_id": 152,
+    "label": "D",
+    "content": "准备与结束时间"
+  },
+  {
+    "id": 209,
+    "question_id": 153,
+    "label": "A",
+    "content": "50%"
+  },
+  {
+    "id": 210,
+    "question_id": 153,
+    "label": "B",
+    "content": "80%"
+  },
+  {
+    "id": 211,
+    "question_id": 153,
+    "label": "C",
+    "content": "85%"
+  },
+  {
+    "id": 212,
+    "question_id": 153,
+    "label": "D",
+    "content": "90%"
+  },
+  {
+    "id": 213,
+    "question_id": 154,
+    "label": "A",
+    "content": "相同"
+  },
+  {
+    "id": 214,
+    "question_id": 154,
+    "label": "B",
+    "content": "相反"
+  },
+  {
+    "id": 215,
+    "question_id": 154,
+    "label": "C",
+    "content": "无关"
+  },
+  {
+    "id": 216,
+    "question_id": 154,
+    "label": "D",
+    "content": "相同或相反"
+  },
+  {
+    "id": 217,
+    "question_id": 155,
+    "label": "A",
+    "content": "电磁、负载、化学、温度"
+  },
+  {
+    "id": 218,
+    "question_id": 155,
+    "label": "B",
+    "content": "机械、电热、化学、绝缘"
+  },
+  {
+    "id": 219,
+    "question_id": 155,
+    "label": "C",
+    "content": "电磁、机械、电热、化学"
+  },
+  {
+    "id": 220,
+    "question_id": 155,
+    "label": "D",
+    "content": "电磁、机械、温度、绝缘"
+  },
+  {
+    "id": 221,
+    "question_id": 156,
+    "label": "A",
+    "content": "金刚砂布"
+  },
+  {
+    "id": 222,
+    "question_id": 156,
+    "label": "B",
+    "content": "板锉"
+  },
+  {
+    "id": 223,
+    "question_id": 156,
+    "label": "C",
+    "content": "N320细砂布"
+  },
+  {
+    "id": 224,
+    "question_id": 156,
+    "label": "D",
+    "content": "车床"
+  },
+  {
+    "id": 225,
+    "question_id": 157,
+    "label": "A",
+    "content": "1/4"
+  },
+  {
+    "id": 226,
+    "question_id": 157,
+    "label": "B",
+    "content": "1/3"
+  },
+  {
+    "id": 227,
+    "question_id": 157,
+    "label": "C",
+    "content": "1/2"
+  },
+  {
+    "id": 228,
+    "question_id": 157,
+    "label": "D",
+    "content": "2/3"
+  },
+  {
+    "id": 229,
+    "question_id": 158,
+    "label": "A",
+    "content": "选择适当电刷"
+  },
+  {
+    "id": 230,
+    "question_id": 158,
+    "label": "B",
+    "content": "装置补偿绕组"
+  },
+  {
+    "id": 231,
+    "question_id": 158,
+    "label": "C",
+    "content": "移动电刷位置"
+  },
+  {
+    "id": 232,
+    "question_id": 158,
+    "label": "D",
+    "content": "更换换向极"
+  },
+  {
+    "id": 233,
+    "question_id": 159,
+    "label": "A",
+    "content": "减小"
+  },
+  {
+    "id": 234,
+    "question_id": 159,
+    "label": "B",
+    "content": "增大"
+  },
+  {
+    "id": 235,
+    "question_id": 159,
+    "label": "C",
+    "content": "不变"
+  },
+  {
+    "id": 236,
+    "question_id": 159,
+    "label": "D",
+    "content": "不确定"
+  },
+  {
+    "id": 237,
+    "question_id": 160,
+    "label": "A",
+    "content": "切断短路电流"
+  },
+  {
+    "id": 238,
+    "question_id": 160,
+    "label": "B",
+    "content": "切断小电流，隔离带电设备"
+  },
+  {
+    "id": 239,
+    "question_id": 160,
+    "label": "C",
+    "content": "隔离电源，倒闸操作，切断小电流"
+  },
+  {
+    "id": 240,
+    "question_id": 160,
+    "label": "D",
+    "content": "隔离电源，隔离故障，侧面操作"
+  },
+  {
+    "id": 241,
+    "question_id": 161,
+    "label": "A",
+    "content": "支路电流法"
+  },
+  {
+    "id": 242,
+    "question_id": 161,
+    "label": "B",
+    "content": "回路电流法"
+  },
+  {
+    "id": 243,
+    "question_id": 161,
+    "label": "C",
+    "content": "叠加原理"
+  },
+  {
+    "id": 244,
+    "question_id": 161,
+    "label": "D",
+    "content": "节点电压法"
+  },
+  {
+    "id": 245,
+    "question_id": 162,
+    "label": "A",
+    "content": "输出波形好"
+  },
+  {
+    "id": 246,
+    "question_id": 162,
+    "label": "B",
+    "content": "适用于工作频率低的场所"
+  },
+  {
+    "id": 247,
+    "question_id": 162,
+    "label": "C",
+    "content": "频率调节容易"
+  },
+  {
+    "id": 248,
+    "question_id": 162,
+    "label": "D",
+    "content": "高次谐波分量大"
+  },
+  {
+    "id": 249,
+    "question_id": 163,
+    "label": "A",
+    "content": "粘度大"
+  },
+  {
+    "id": 250,
+    "question_id": 163,
+    "label": "B",
+    "content": "闪点高"
+  },
+  {
+    "id": 251,
+    "question_id": 163,
+    "label": "C",
+    "content": "击穿电压高"
+  },
+  {
+    "id": 252,
+    "question_id": 163,
+    "label": "D",
+    "content": "稳定性高"
+  },
+  {
+    "id": 253,
+    "question_id": 164,
+    "label": "A",
+    "content": "大功率"
+  },
+  {
+    "id": 254,
+    "question_id": 164,
+    "label": "B",
+    "content": "控制精度要求高"
+  },
+  {
+    "id": 255,
+    "question_id": 164,
+    "label": "C",
+    "content": "小功率，控制精度要求高"
+  },
+  {
+    "id": 256,
+    "question_id": 164,
+    "label": "D",
+    "content": "小功率，控制精度要求不高"
+  },
+  {
+    "id": 257,
+    "question_id": 165,
+    "label": "A",
+    "content": "30%"
+  },
+  {
+    "id": 258,
+    "question_id": 165,
+    "label": "B",
+    "content": "50%"
+  },
+  {
+    "id": 259,
+    "question_id": 165,
+    "label": "C",
+    "content": "75～90%"
+  },
+  {
+    "id": 260,
+    "question_id": 165,
+    "label": "D",
+    "content": "90～100%"
+  },
+  {
+    "id": 261,
+    "question_id": 166,
+    "label": "A",
+    "content": "直流电流"
+  },
+  {
+    "id": 262,
+    "question_id": 166,
+    "label": "B",
+    "content": "交流电流"
+  },
+  {
+    "id": 263,
+    "question_id": 166,
+    "label": "C",
+    "content": "直流电压"
+  },
+  {
+    "id": 264,
+    "question_id": 166,
+    "label": "D",
+    "content": "交流电压"
+  },
+  {
+    "id": 265,
+    "question_id": 167,
+    "label": "A",
+    "content": "0.8"
+  },
+  {
+    "id": 266,
+    "question_id": 167,
+    "label": "B",
+    "content": "0.85"
+  },
+  {
+    "id": 267,
+    "question_id": 167,
+    "label": "C",
+    "content": "0.9"
+  },
+  {
+    "id": 268,
+    "question_id": 167,
+    "label": "D",
+    "content": "0.95"
+  },
+  {
+    "id": 269,
+    "question_id": 168,
+    "label": "A",
+    "content": "油干燥时过热"
+  },
+  {
+    "id": 270,
+    "question_id": 168,
+    "label": "B",
+    "content": "油内水分含量高"
+  },
+  {
+    "id": 271,
+    "question_id": 168,
+    "label": "C",
+    "content": "油内产生过电弧"
+  },
+  {
+    "id": 272,
+    "question_id": 168,
+    "label": "D",
+    "content": "油严重老化"
+  },
+  {
+    "id": 273,
+    "question_id": 169,
+    "label": "A",
+    "content": "25～30mm"
+  },
+  {
+    "id": 274,
+    "question_id": 169,
+    "label": "B",
+    "content": "30～40mm"
+  },
+  {
+    "id": 275,
+    "question_id": 169,
+    "label": "C",
+    "content": "40～50mm"
+  },
+  {
+    "id": 276,
+    "question_id": 169,
+    "label": "D",
+    "content": "60～100mm"
+  },
+  {
+    "id": 277,
+    "question_id": 170,
+    "label": "A",
+    "content": "机械损伤，绝缘受潮，绝缘老化"
+  },
+  {
+    "id": 278,
+    "question_id": 170,
+    "label": "B",
+    "content": "绝缘受潮，绝缘老化，保护层腐蚀"
+  },
+  {
+    "id": 279,
+    "question_id": 170,
+    "label": "C",
+    "content": "过电压，过热"
+  },
+  {
+    "id": 280,
+    "question_id": 170,
+    "label": "D",
+    "content": "机械损伤，绝缘受潮，绝缘老化，保护层腐蚀，过电压，过热"
+  },
+  {
+    "id": 281,
+    "question_id": 171,
+    "label": "A",
+    "content": "1年"
+  },
+  {
+    "id": 282,
+    "question_id": 171,
+    "label": "B",
+    "content": "2年"
+  },
+  {
+    "id": 283,
+    "question_id": 171,
+    "label": "C",
+    "content": "3年"
+  },
+  {
+    "id": 284,
+    "question_id": 171,
+    "label": "D",
+    "content": "4年"
+  },
+  {
+    "id": 285,
+    "question_id": 172,
+    "label": "A",
+    "content": "补偿负载时电枢回路的电阻压降"
+  },
+  {
+    "id": 286,
+    "question_id": 172,
+    "label": "B",
+    "content": "补偿电枢反应的的去磁作用"
+  },
+  {
+    "id": 287,
+    "question_id": 172,
+    "label": "C",
+    "content": "串励绕组与并励绕组产生的磁通方向相反"
+  },
+  {
+    "id": 288,
+    "question_id": 172,
+    "label": "D",
+    "content": "使发电机在一定负载范围内，基本上保持端电压的恒定"
+  },
+  {
+    "id": 289,
+    "question_id": 173,
+    "label": "A",
+    "content": "适用合适的可返回时间系数的热继电器"
+  },
+  {
+    "id": 290,
+    "question_id": 173,
+    "label": "B",
+    "content": "合理选用热继电器"
+  },
+  {
+    "id": 291,
+    "question_id": 173,
+    "label": "C",
+    "content": "选带防震装置的专用热继电器"
+  },
+  {
+    "id": 292,
+    "question_id": 173,
+    "label": "D",
+    "content": "更换适合工作条件的热继电器"
+  },
+  {
+    "id": 293,
+    "question_id": 174,
+    "label": "A",
+    "content": "三"
+  },
+  {
+    "id": 294,
+    "question_id": 174,
+    "label": "B",
+    "content": "四"
+  },
+  {
+    "id": 295,
+    "question_id": 174,
+    "label": "C",
+    "content": "五"
+  },
+  {
+    "id": 296,
+    "question_id": 174,
+    "label": "D",
+    "content": "六"
+  },
+  {
+    "id": 297,
+    "question_id": 175,
+    "label": "A",
+    "content": "过热现象，甚至烧毁整个变压器"
+  },
+  {
+    "id": 298,
+    "question_id": 175,
+    "label": "B",
+    "content": "放电打火使变压器老化"
+  },
+  {
+    "id": 299,
+    "question_id": 175,
+    "label": "C",
+    "content": "一次电流不稳定，使变压器绕组发热"
+  },
+  {
+    "id": 300,
+    "question_id": 175,
+    "label": "D",
+    "content": "产生过电压"
+  },
+  {
+    "id": 301,
+    "question_id": 176,
+    "label": "A",
+    "content": "通电"
+  },
+  {
+    "id": 302,
+    "question_id": 176,
+    "label": "B",
+    "content": "不通电"
+  },
+  {
+    "id": 303,
+    "question_id": 176,
+    "label": "C",
+    "content": "通电或不通电均可"
+  },
+  {
+    "id": 304,
+    "question_id": 176,
+    "label": "D",
+    "content": "无规定"
+  },
+  {
+    "id": 305,
+    "question_id": 177,
+    "label": "A",
+    "content": "1.5"
+  },
+  {
+    "id": 306,
+    "question_id": 177,
+    "label": "B",
+    "content": "2.5"
+  },
+  {
+    "id": 307,
+    "question_id": 177,
+    "label": "C",
+    "content": "4.0"
+  },
+  {
+    "id": 308,
+    "question_id": 177,
+    "label": "D",
+    "content": "6.0"
+  },
+  {
+    "id": 309,
+    "question_id": 178,
+    "label": "A",
+    "content": "明显下降"
+  },
+  {
+    "id": 310,
+    "question_id": 178,
+    "label": "B",
+    "content": "下降至零"
+  },
+  {
+    "id": 311,
+    "question_id": 178,
+    "label": "C",
+    "content": "急剧增加"
+  },
+  {
+    "id": 312,
+    "question_id": 178,
+    "label": "D",
+    "content": "不变"
+  },
+  {
+    "id": 313,
+    "question_id": 179,
+    "label": "A",
+    "content": "10001"
+  },
+  {
+    "id": 314,
+    "question_id": 179,
+    "label": "B",
+    "content": "10101"
+  },
+  {
+    "id": 315,
+    "question_id": 179,
+    "label": "C",
+    "content": "10111"
+  },
+  {
+    "id": 316,
+    "question_id": 179,
+    "label": "D",
+    "content": "10010"
+  },
+  {
+    "id": 317,
+    "question_id": 180,
+    "label": "A",
+    "content": "HTL比TTL集成度高"
+  },
+  {
+    "id": 318,
+    "question_id": 180,
+    "label": "B",
+    "content": "HTL比TTL运行速度高"
+  },
+  {
+    "id": 319,
+    "question_id": 180,
+    "label": "C",
+    "content": "HTL比TTL抗干扰能力高"
+  },
+  {
+    "id": 320,
+    "question_id": 180,
+    "label": "D",
+    "content": "各种性能都一样"
+  },
+  {
+    "id": 321,
+    "question_id": 181,
+    "label": "A",
+    "content": "电磁系"
+  },
+  {
+    "id": 322,
+    "question_id": 181,
+    "label": "B",
+    "content": "感应系"
+  },
+  {
+    "id": 323,
+    "question_id": 181,
+    "label": "C",
+    "content": "磁电系"
+  },
+  {
+    "id": 324,
+    "question_id": 181,
+    "label": "D",
+    "content": "电动系"
+  },
+  {
+    "id": 325,
+    "question_id": 182,
+    "label": "A",
+    "content": "阻容触发"
+  },
+  {
+    "id": 326,
+    "question_id": 182,
+    "label": "B",
+    "content": "桥式移相触发"
+  },
+  {
+    "id": 327,
+    "question_id": 182,
+    "label": "C",
+    "content": "饱和电抗器触发"
+  },
+  {
+    "id": 328,
+    "question_id": 182,
+    "label": "D",
+    "content": "大功率二极管触发"
+  },
+  {
+    "id": 329,
+    "question_id": 183,
+    "label": "A",
+    "content": "负荷过流的主保护"
+  },
+  {
+    "id": 330,
+    "question_id": 183,
+    "label": "B",
+    "content": "差动保护的后备保护"
+  },
+  {
+    "id": 331,
+    "question_id": 183,
+    "label": "C",
+    "content": "瓦斯保护的后备保护"
+  },
+  {
+    "id": 332,
+    "question_id": 183,
+    "label": "D",
+    "content": "线圈相间短路的主保护"
+  },
+  {
+    "id": 333,
+    "question_id": 184,
+    "label": "A",
+    "content": "利用过励磁的同步电机进行无功补偿"
+  },
+  {
+    "id": 334,
+    "question_id": 184,
+    "label": "B",
+    "content": "利用调相机做无功功率电源"
+  },
+  {
+    "id": 335,
+    "question_id": 184,
+    "label": "C",
+    "content": "利用电力电容进行无功补偿"
+  },
+  {
+    "id": 336,
+    "question_id": 184,
+    "label": "D",
+    "content": "利用大容量的电动机来带动小功率负载"
+  },
+  {
+    "id": 337,
+    "question_id": 185,
+    "label": "A",
+    "content": "总电流"
+  },
+  {
+    "id": 338,
+    "question_id": 185,
+    "label": "B",
+    "content": "总电阻"
+  },
+  {
+    "id": 339,
+    "question_id": 185,
+    "label": "C",
+    "content": "总阻抗"
+  },
+  {
+    "id": 340,
+    "question_id": 185,
+    "label": "D",
+    "content": "总功率"
+  },
+  {
+    "id": 341,
+    "question_id": 186,
+    "label": "A",
+    "content": "10°"
+  },
+  {
+    "id": 342,
+    "question_id": 186,
+    "label": "B",
+    "content": "12°"
+  },
+  {
+    "id": 343,
+    "question_id": 186,
+    "label": "C",
+    "content": "15°"
+  },
+  {
+    "id": 344,
+    "question_id": 186,
+    "label": "D",
+    "content": "20°"
+  },
+  {
+    "id": 345,
+    "question_id": 187,
+    "label": "A",
+    "content": "铁芯、绕组"
+  },
+  {
+    "id": 346,
+    "question_id": 187,
+    "label": "B",
+    "content": "绝缘结构、油箱"
+  },
+  {
+    "id": 347,
+    "question_id": 187,
+    "label": "C",
+    "content": "绝缘套管、冷却系统"
+  },
+  {
+    "id": 348,
+    "question_id": 187,
+    "label": "D",
+    "content": "以上都包括"
+  },
+  {
+    "id": 349,
+    "question_id": 188,
+    "label": "A",
+    "content": "9～11"
+  },
+  {
+    "id": 350,
+    "question_id": 188,
+    "label": "B",
+    "content": "16～19"
+  },
+  {
+    "id": 351,
+    "question_id": 188,
+    "label": "C",
+    "content": "15～21"
+  },
+  {
+    "id": 352,
+    "question_id": 188,
+    "label": "D",
+    "content": "26～31"
+  },
+  {
+    "id": 353,
+    "question_id": 189,
+    "label": "A",
+    "content": "导线在钳口中时，可用大到小切换量程"
+  },
+  {
+    "id": 354,
+    "question_id": 189,
+    "label": "B",
+    "content": "导线在钳口中时，可用小到大切换量程"
+  },
+  {
+    "id": 355,
+    "question_id": 189,
+    "label": "C",
+    "content": "导线在钳口中时，可任意切换量程"
+  },
+  {
+    "id": 356,
+    "question_id": 189,
+    "label": "D",
+    "content": "导线在钳口中时，不能切换量程"
+  },
+  {
+    "id": 357,
+    "question_id": 190,
+    "label": "A",
+    "content": "端电压与输出功率"
+  },
+  {
+    "id": 358,
+    "question_id": 190,
+    "label": "B",
+    "content": "端电压与转速"
+  },
+  {
+    "id": 359,
+    "question_id": 190,
+    "label": "C",
+    "content": "转速与转矩"
+  },
+  {
+    "id": 360,
+    "question_id": 190,
+    "label": "D",
+    "content": "励磁电流与转速"
+  },
+  {
+    "id": 361,
+    "question_id": 191,
+    "label": "A",
+    "content": "各负载电流相等"
+  },
+  {
+    "id": 362,
+    "question_id": 191,
+    "label": "B",
+    "content": "各负载上电压相等"
+  },
+  {
+    "id": 363,
+    "question_id": 191,
+    "label": "C",
+    "content": "各负载电压电流均对称"
+  },
+  {
+    "id": 364,
+    "question_id": 191,
+    "label": "D",
+    "content": "各负载阻抗相等"
+  },
+  {
+    "id": 365,
+    "question_id": 192,
+    "label": "A",
+    "content": "支持螺钉"
+  },
+  {
+    "id": 366,
+    "question_id": 192,
+    "label": "B",
+    "content": "摩擦弹簧"
+  },
+  {
+    "id": 367,
+    "question_id": 192,
+    "label": "C",
+    "content": "拉杆"
+  },
+  {
+    "id": 368,
+    "question_id": 192,
+    "label": "D",
+    "content": "牵引杆"
+  },
+  {
+    "id": 369,
+    "question_id": 193,
+    "label": "A",
+    "content": "0.2度"
+  },
+  {
+    "id": 370,
+    "question_id": 193,
+    "label": "B",
+    "content": "0.11度"
+  },
+  {
+    "id": 371,
+    "question_id": 193,
+    "label": "C",
+    "content": "110度"
+  },
+  {
+    "id": 372,
+    "question_id": 193,
+    "label": "D",
+    "content": "0.4度"
+  },
+  {
+    "id": 373,
+    "question_id": 194,
+    "label": "A",
+    "content": "二个月一次"
+  },
+  {
+    "id": 374,
+    "question_id": 194,
+    "label": "B",
+    "content": "半年一次"
+  },
+  {
+    "id": 375,
+    "question_id": 194,
+    "label": "C",
+    "content": "一年一次"
+  },
+  {
+    "id": 376,
+    "question_id": 194,
+    "label": "D",
+    "content": "十八个月一次"
+  },
+  {
+    "id": 377,
+    "question_id": 195,
+    "label": "A",
+    "content": "0.6"
+  },
+  {
+    "id": 378,
+    "question_id": 195,
+    "label": "B",
+    "content": "0.7"
+  },
+  {
+    "id": 379,
+    "question_id": 195,
+    "label": "C",
+    "content": "0.75"
+  },
+  {
+    "id": 380,
+    "question_id": 195,
+    "label": "D",
+    "content": "0.85"
+  },
+  {
+    "id": 381,
+    "question_id": 196,
+    "label": "A",
+    "content": "15KV"
+  },
+  {
+    "id": 382,
+    "question_id": 196,
+    "label": "B",
+    "content": "25KV"
+  },
+  {
+    "id": 383,
+    "question_id": 196,
+    "label": "C",
+    "content": "30KV"
+  },
+  {
+    "id": 384,
+    "question_id": 196,
+    "label": "D",
+    "content": "35KV"
+  },
+  {
+    "id": 385,
+    "question_id": 197,
+    "label": "A",
+    "content": "电枢电路内串接起动变阻器起动"
+  },
+  {
+    "id": 386,
+    "question_id": 197,
+    "label": "B",
+    "content": "定子绕组中串接电抗器降压起动"
+  },
+  {
+    "id": 387,
+    "question_id": 197,
+    "label": "C",
+    "content": "自耦变压器降压起动"
+  },
+  {
+    "id": 388,
+    "question_id": 197,
+    "label": "D",
+    "content": "延边三角形降压起动"
+  },
+  {
+    "id": 389,
+    "question_id": 198,
+    "label": "A",
+    "content": "GB260石油产品水分测定法"
+  },
+  {
+    "id": 390,
+    "question_id": 198,
+    "label": "B",
+    "content": "目测"
+  },
+  {
+    "id": 391,
+    "question_id": 198,
+    "label": "C",
+    "content": "蒸发"
+  },
+  {
+    "id": 392,
+    "question_id": 198,
+    "label": "D",
+    "content": "滤湿法"
+  },
+  {
+    "id": 393,
+    "question_id": 199,
+    "label": "A",
+    "content": "电流互感器"
+  },
+  {
+    "id": 394,
+    "question_id": 199,
+    "label": "B",
+    "content": "电压互感器"
+  },
+  {
+    "id": 395,
+    "question_id": 199,
+    "label": "C",
+    "content": "分流器"
+  },
+  {
+    "id": 396,
+    "question_id": 199,
+    "label": "D",
+    "content": "变压器"
+  },
+  {
+    "id": 397,
+    "question_id": 200,
+    "label": "A",
+    "content": "防止触头烧毁"
+  },
+  {
+    "id": 398,
+    "question_id": 200,
+    "label": "B",
+    "content": "加快触头的分断速度"
+  },
+  {
+    "id": 399,
+    "question_id": 200,
+    "label": "C",
+    "content": "减小触头电流"
+  },
+  {
+    "id": 400,
+    "question_id": 200,
+    "label": "D",
+    "content": "减小电弧引起的反电势"
+  },
+  {
+    "id": 401,
+    "question_id": 201,
+    "label": "A",
+    "content": "工作负责人"
+  },
+  {
+    "id": 402,
+    "question_id": 201,
+    "label": "B",
+    "content": "工作许可人"
+  },
+  {
+    "id": 403,
+    "question_id": 201,
+    "label": "C",
+    "content": "工作人员"
+  },
+  {
+    "id": 404,
+    "question_id": 201,
+    "label": "D",
+    "content": "熟悉本工作规程的生产领导"
+  },
+  {
+    "id": 405,
+    "question_id": 202,
+    "label": "A",
+    "content": "0.1级"
+  },
+  {
+    "id": 406,
+    "question_id": 202,
+    "label": "B",
+    "content": "0.2级"
+  },
+  {
+    "id": 407,
+    "question_id": 202,
+    "label": "C",
+    "content": "0.5级"
+  },
+  {
+    "id": 408,
+    "question_id": 202,
+    "label": "D",
+    "content": "1.0级"
+  },
+  {
+    "id": 409,
+    "question_id": 203,
+    "label": "A",
+    "content": "春"
+  },
+  {
+    "id": 410,
+    "question_id": 203,
+    "label": "B",
+    "content": "夏"
+  },
+  {
+    "id": 411,
+    "question_id": 203,
+    "label": "C",
+    "content": "秋"
+  },
+  {
+    "id": 412,
+    "question_id": 203,
+    "label": "D",
+    "content": "雷雨"
+  },
+  {
+    "id": 413,
+    "question_id": 204,
+    "label": "A",
+    "content": "4Ω"
+  },
+  {
+    "id": 414,
+    "question_id": 204,
+    "label": "B",
+    "content": "8Ω"
+  },
+  {
+    "id": 415,
+    "question_id": 204,
+    "label": "C",
+    "content": "10Ω"
+  },
+  {
+    "id": 416,
+    "question_id": 204,
+    "label": "D",
+    "content": "15Ω"
+  },
+  {
+    "id": 417,
+    "question_id": 205,
+    "label": "A",
+    "content": "36%"
+  },
+  {
+    "id": 418,
+    "question_id": 205,
+    "label": "B",
+    "content": "49%"
+  },
+  {
+    "id": 419,
+    "question_id": 205,
+    "label": "C",
+    "content": "70%"
+  },
+  {
+    "id": 420,
+    "question_id": 205,
+    "label": "D",
+    "content": "100%"
+  },
+  {
+    "id": 421,
+    "question_id": 206,
+    "label": "A",
+    "content": "测量仪表的指针需经常作零位调整"
+  },
+  {
+    "id": 422,
+    "question_id": 206,
+    "label": "B",
+    "content": "仪表不使用时，应放置在干燥通风处"
+  },
+  {
+    "id": 423,
+    "question_id": 206,
+    "label": "C",
+    "content": "仪表应轻拿轻放"
+  },
+  {
+    "id": 424,
+    "question_id": 206,
+    "label": "D",
+    "content": "仪表应放在强磁场周围"
+  },
+  {
+    "id": 425,
+    "question_id": 207,
+    "label": "A",
+    "content": "变大"
+  },
+  {
+    "id": 426,
+    "question_id": 207,
+    "label": "B",
+    "content": "变小"
+  },
+  {
+    "id": 427,
+    "question_id": 207,
+    "label": "C",
+    "content": "不变"
+  },
+  {
+    "id": 428,
+    "question_id": 207,
+    "label": "D",
+    "content": "无规律"
+  },
+  {
+    "id": 429,
+    "question_id": 208,
+    "label": "A",
+    "content": "三角"
+  },
+  {
+    "id": 430,
+    "question_id": 208,
+    "label": "B",
+    "content": "水平"
+  },
+  {
+    "id": 431,
+    "question_id": 208,
+    "label": "C",
+    "content": "三角加水平"
+  },
+  {
+    "id": 432,
+    "question_id": 208,
+    "label": "D",
+    "content": "三角加垂直"
+  },
+  {
+    "id": 433,
+    "question_id": 209,
+    "label": "A",
+    "content": "使用万用表前要校准机械零位和电零位"
+  },
+  {
+    "id": 434,
+    "question_id": 209,
+    "label": "B",
+    "content": "测量前要先选好档位"
+  },
+  {
+    "id": 435,
+    "question_id": 209,
+    "label": "C",
+    "content": "禁止带电切换量程"
+  },
+  {
+    "id": 436,
+    "question_id": 209,
+    "label": "D",
+    "content": "不用时，切换开关应停在欧姆档"
+  },
+  {
+    "id": 437,
+    "question_id": 210,
+    "label": "A",
+    "content": "1"
+  },
+  {
+    "id": 438,
+    "question_id": 210,
+    "label": "B",
+    "content": "2"
+  },
+  {
+    "id": 439,
+    "question_id": 210,
+    "label": "C",
+    "content": "3"
+  },
+  {
+    "id": 440,
+    "question_id": 210,
+    "label": "D",
+    "content": "4"
+  },
+  {
+    "id": 441,
+    "question_id": 211,
+    "label": "A",
+    "content": "由高档位到低档位"
+  },
+  {
+    "id": 442,
+    "question_id": 211,
+    "label": "B",
+    "content": "由低档位到高档位"
+  },
+  {
+    "id": 443,
+    "question_id": 211,
+    "label": "C",
+    "content": "在使用前将所有档位校验后"
+  },
+  {
+    "id": 444,
+    "question_id": 211,
+    "label": "D",
+    "content": "任何情况下都需要"
+  },
+  {
+    "id": 445,
+    "question_id": 212,
+    "label": "A",
+    "content": "越大越好"
+  },
+  {
+    "id": 446,
+    "question_id": 212,
+    "label": "B",
+    "content": "越小越好"
+  },
+  {
+    "id": 447,
+    "question_id": 212,
+    "label": "C",
+    "content": "适中为好"
+  },
+  {
+    "id": 448,
+    "question_id": 212,
+    "label": "D",
+    "content": "多大都可以"
+  },
+  {
+    "id": 449,
+    "question_id": 213,
+    "label": "A",
+    "content": "示波器通电后即可立即使用"
+  },
+  {
+    "id": 450,
+    "question_id": 213,
+    "label": "B",
+    "content": "示波器在使用中不应经常开闭电源"
+  },
+  {
+    "id": 451,
+    "question_id": 213,
+    "label": "C",
+    "content": "示波器不使用时，应放置在干燥通风处"
+  },
+  {
+    "id": 452,
+    "question_id": 213,
+    "label": "D",
+    "content": "不经使用的示波器每隔一段时间要让其通电工作一段时间"
+  },
+  {
+    "id": 453,
+    "question_id": 214,
+    "label": "A",
+    "content": "平均值"
+  },
+  {
+    "id": 454,
+    "question_id": 214,
+    "label": "B",
+    "content": "有效值"
+  },
+  {
+    "id": 455,
+    "question_id": 214,
+    "label": "C",
+    "content": "最大值"
+  },
+  {
+    "id": 456,
+    "question_id": 214,
+    "label": "D",
+    "content": "瞬时值"
+  },
+  {
+    "id": 457,
+    "question_id": 215,
+    "label": "A",
+    "content": "15"
+  },
+  {
+    "id": 458,
+    "question_id": 215,
+    "label": "B",
+    "content": "20"
+  },
+  {
+    "id": 459,
+    "question_id": 215,
+    "label": "C",
+    "content": "25"
+  },
+  {
+    "id": 460,
+    "question_id": 215,
+    "label": "D",
+    "content": "30"
+  },
+  {
+    "id": 461,
+    "question_id": 216,
+    "label": "A",
+    "content": "减少线路网损，提高输电效率"
+  },
+  {
+    "id": 462,
+    "question_id": 216,
+    "label": "B",
+    "content": "提高供电设备的利用率"
+  },
+  {
+    "id": 463,
+    "question_id": 216,
+    "label": "C",
+    "content": "增大有功功率"
+  },
+  {
+    "id": 464,
+    "question_id": 216,
+    "label": "D",
+    "content": "A和B说法正确"
+  },
+  {
+    "id": 465,
+    "question_id": 217,
+    "label": "A",
+    "content": "6"
+  },
+  {
+    "id": 466,
+    "question_id": 217,
+    "label": "B",
+    "content": "5"
+  },
+  {
+    "id": 467,
+    "question_id": 217,
+    "label": "C",
+    "content": "4"
+  },
+  {
+    "id": 468,
+    "question_id": 217,
+    "label": "D",
+    "content": "3"
+  },
+  {
+    "id": 469,
+    "question_id": 218,
+    "label": "A",
+    "content": "U→V→W"
+  },
+  {
+    "id": 470,
+    "question_id": 218,
+    "label": "B",
+    "content": "W→V→U"
+  },
+  {
+    "id": 471,
+    "question_id": 218,
+    "label": "C",
+    "content": "U→W→V"
+  },
+  {
+    "id": 472,
+    "question_id": 218,
+    "label": "D",
+    "content": "V→U→W"
+  },
+  {
+    "id": 473,
+    "question_id": 219,
+    "label": "A",
+    "content": "最小截面法"
+  },
+  {
+    "id": 474,
+    "question_id": 219,
+    "label": "B",
+    "content": "允许电流法"
+  },
+  {
+    "id": 475,
+    "question_id": 219,
+    "label": "C",
+    "content": "允许电压损失法"
+  },
+  {
+    "id": 476,
+    "question_id": 219,
+    "label": "D",
+    "content": "经济电流密度法"
+  },
+  {
+    "id": 477,
+    "question_id": 220,
+    "label": "A",
+    "content": "5～15"
+  },
+  {
+    "id": 478,
+    "question_id": 220,
+    "label": "B",
+    "content": "10～15"
+  },
+  {
+    "id": 479,
+    "question_id": 220,
+    "label": "C",
+    "content": "15～20"
+  },
+  {
+    "id": 480,
+    "question_id": 220,
+    "label": "D",
+    "content": "15～30"
+  },
+  {
+    "id": 481,
+    "question_id": 221,
+    "label": "A",
+    "content": "升高阳极电压"
+  },
+  {
+    "id": 482,
+    "question_id": 221,
+    "label": "B",
+    "content": "降低阴极电压"
+  },
+  {
+    "id": 483,
+    "question_id": 221,
+    "label": "C",
+    "content": "断开控制电路"
+  },
+  {
+    "id": 484,
+    "question_id": 221,
+    "label": "D",
+    "content": "正向电流小于最小维持电流"
+  },
+  {
+    "id": 485,
+    "question_id": 222,
+    "label": "A",
+    "content": "向上垂直"
+  },
+  {
+    "id": 486,
+    "question_id": 222,
+    "label": "B",
+    "content": "向上倾斜"
+  },
+  {
+    "id": 487,
+    "question_id": 222,
+    "label": "C",
+    "content": "向下垂直或倾斜"
+  },
+  {
+    "id": 488,
+    "question_id": 222,
+    "label": "D",
+    "content": "水平"
+  },
+  {
+    "id": 489,
+    "question_id": 223,
+    "label": "A",
+    "content": "1℃"
+  },
+  {
+    "id": 490,
+    "question_id": 223,
+    "label": "B",
+    "content": "2℃"
+  },
+  {
+    "id": 491,
+    "question_id": 223,
+    "label": "C",
+    "content": "3℃"
+  },
+  {
+    "id": 492,
+    "question_id": 223,
+    "label": "D",
+    "content": "5℃"
+  },
+  {
+    "id": 493,
+    "question_id": 224,
+    "label": "A",
+    "content": "19W"
+  },
+  {
+    "id": 494,
+    "question_id": 224,
+    "label": "B",
+    "content": "9W"
+  },
+  {
+    "id": 495,
+    "question_id": 224,
+    "label": "C",
+    "content": "10W"
+  },
+  {
+    "id": 496,
+    "question_id": 224,
+    "label": "D",
+    "content": "38"
+  },
+  {
+    "id": 497,
+    "question_id": 225,
+    "label": "A",
+    "content": "每相负载的电流"
+  },
+  {
+    "id": 498,
+    "question_id": 225,
+    "label": "B",
+    "content": "火线的电流"
+  },
+  {
+    "id": 499,
+    "question_id": 225,
+    "label": "C",
+    "content": "电路的总电流"
+  },
+  {
+    "id": 500,
+    "question_id": 225,
+    "label": "D",
+    "content": "电源的电流"
+  },
+  {
+    "id": 501,
+    "question_id": 226,
+    "label": "A",
+    "content": "0.45U2"
+  },
+  {
+    "id": 502,
+    "question_id": 226,
+    "label": "B",
+    "content": "0.9U2"
+  },
+  {
+    "id": 503,
+    "question_id": 226,
+    "label": "C",
+    "content": "1.17U2"
+  },
+  {
+    "id": 504,
+    "question_id": 226,
+    "label": "D",
+    "content": "2.45U2"
+  },
+  {
+    "id": 505,
+    "question_id": 227,
+    "label": "A",
+    "content": "增大"
+  },
+  {
+    "id": 506,
+    "question_id": 227,
+    "label": "B",
+    "content": "减小"
+  },
+  {
+    "id": 507,
+    "question_id": 227,
+    "label": "C",
+    "content": "不变"
+  },
+  {
+    "id": 508,
+    "question_id": 227,
+    "label": "D",
+    "content": "增大或减小"
+  },
+  {
+    "id": 509,
+    "question_id": 228,
+    "label": "A",
+    "content": "外观目视法"
+  },
+  {
+    "id": 510,
+    "question_id": 228,
+    "label": "B",
+    "content": "国标法"
+  },
+  {
+    "id": 511,
+    "question_id": 228,
+    "label": "C",
+    "content": "YS法"
+  },
+  {
+    "id": 512,
+    "question_id": 228,
+    "label": "D",
+    "content": "GB和YS法"
+  },
+  {
+    "id": 513,
+    "question_id": 229,
+    "label": "A",
+    "content": "8mm"
+  },
+  {
+    "id": 514,
+    "question_id": 229,
+    "label": "B",
+    "content": "10mm"
+  },
+  {
+    "id": 515,
+    "question_id": 229,
+    "label": "C",
+    "content": "12mm"
+  },
+  {
+    "id": 516,
+    "question_id": 229,
+    "label": "D",
+    "content": "14mm"
+  },
+  {
+    "id": 517,
+    "question_id": 230,
+    "label": "A",
+    "content": "0.1%"
+  },
+  {
+    "id": 518,
+    "question_id": 230,
+    "label": "B",
+    "content": "0.3%"
+  },
+  {
+    "id": 519,
+    "question_id": 230,
+    "label": "C",
+    "content": "0.5%"
+  },
+  {
+    "id": 520,
+    "question_id": 230,
+    "label": "D",
+    "content": "0.8%"
+  },
+  {
+    "id": 521,
+    "question_id": 231,
+    "label": "A",
+    "content": "中性点"
+  },
+  {
+    "id": 522,
+    "question_id": 231,
+    "label": "B",
+    "content": "负载"
+  },
+  {
+    "id": 523,
+    "question_id": 231,
+    "label": "C",
+    "content": "电源线"
+  },
+  {
+    "id": 524,
+    "question_id": 231,
+    "label": "D",
+    "content": "设备"
+  },
+  {
+    "id": 525,
+    "question_id": 232,
+    "label": "A",
+    "content": "使用试温片"
+  },
+  {
+    "id": 526,
+    "question_id": 232,
+    "label": "B",
+    "content": "使用变色漆"
+  },
+  {
+    "id": 527,
+    "question_id": 232,
+    "label": "C",
+    "content": "使用半导体测温计"
+  },
+  {
+    "id": 528,
+    "question_id": 232,
+    "label": "D",
+    "content": "上述说法都对"
+  },
+  {
+    "id": 529,
+    "question_id": 233,
+    "label": "A",
+    "content": "共集电极"
+  },
+  {
+    "id": 530,
+    "question_id": 233,
+    "label": "B",
+    "content": "共发射极"
+  },
+  {
+    "id": 531,
+    "question_id": 233,
+    "label": "C",
+    "content": "共基极"
+  },
+  {
+    "id": 532,
+    "question_id": 233,
+    "label": "D",
+    "content": "共栅极"
+  },
+  {
+    "id": 533,
+    "question_id": 234,
+    "label": "A",
+    "content": "1%"
+  },
+  {
+    "id": 534,
+    "question_id": 234,
+    "label": "B",
+    "content": "2%"
+  },
+  {
+    "id": 535,
+    "question_id": 234,
+    "label": "C",
+    "content": "3%"
+  },
+  {
+    "id": 536,
+    "question_id": 234,
+    "label": "D",
+    "content": "4%"
+  },
+  {
+    "id": 537,
+    "question_id": 235,
+    "label": "A",
+    "content": "有功功率"
+  },
+  {
+    "id": 538,
+    "question_id": 235,
+    "label": "B",
+    "content": "无功功率"
+  },
+  {
+    "id": 539,
+    "question_id": 235,
+    "label": "C",
+    "content": "瞬时功率"
+  },
+  {
+    "id": 540,
+    "question_id": 235,
+    "label": "D",
+    "content": "视在功率"
+  },
+  {
+    "id": 541,
+    "question_id": 236,
+    "label": "A",
+    "content": "截止失真"
+  },
+  {
+    "id": 542,
+    "question_id": 236,
+    "label": "B",
+    "content": "饱和失真"
+  },
+  {
+    "id": 543,
+    "question_id": 236,
+    "label": "C",
+    "content": "交越失真"
+  },
+  {
+    "id": 544,
+    "question_id": 236,
+    "label": "D",
+    "content": "零点漂移"
+  },
+  {
+    "id": 545,
+    "question_id": 237,
+    "label": "A",
+    "content": "静电系"
+  },
+  {
+    "id": 546,
+    "question_id": 237,
+    "label": "B",
+    "content": "感应系"
+  },
+  {
+    "id": 547,
+    "question_id": 237,
+    "label": "C",
+    "content": "磁电系"
+  },
+  {
+    "id": 548,
+    "question_id": 237,
+    "label": "D",
+    "content": "电磁系"
+  },
+  {
+    "id": 549,
+    "question_id": 238,
+    "label": "A",
+    "content": "放在强磁场周围"
+  },
+  {
+    "id": 550,
+    "question_id": 238,
+    "label": "B",
+    "content": "保持干燥"
+  },
+  {
+    "id": 551,
+    "question_id": 238,
+    "label": "C",
+    "content": "棉纱擦拭"
+  },
+  {
+    "id": 552,
+    "question_id": 238,
+    "label": "D",
+    "content": "轻拿轻放"
+  },
+  {
+    "id": 553,
+    "question_id": 239,
+    "label": "A",
+    "content": "最小量程上"
+  },
+  {
+    "id": 554,
+    "question_id": 239,
+    "label": "B",
+    "content": "中间量程上"
+  },
+  {
+    "id": 555,
+    "question_id": 239,
+    "label": "C",
+    "content": "最大量程上"
+  },
+  {
+    "id": 556,
+    "question_id": 239,
+    "label": "D",
+    "content": "无规定"
+  },
+  {
+    "id": 557,
+    "question_id": 240,
+    "label": "A",
+    "content": "测速元件"
+  },
+  {
+    "id": 558,
+    "question_id": 240,
+    "label": "B",
+    "content": "执行元件"
+  },
+  {
+    "id": 559,
+    "question_id": 240,
+    "label": "C",
+    "content": "能量转模元件"
+  },
+  {
+    "id": 560,
+    "question_id": 240,
+    "label": "D",
+    "content": "放大元件"
+  },
+  {
+    "id": 561,
+    "question_id": 241,
+    "label": "A",
+    "content": "阳极和阴极间加正向电压，门极不加电压"
+  },
+  {
+    "id": 562,
+    "question_id": 241,
+    "label": "B",
+    "content": "阳极和阴极间加反向电压，门极和阴极间加正向电压"
+  },
+  {
+    "id": 563,
+    "question_id": 241,
+    "label": "C",
+    "content": "阳极和阴极，门极和阴极间都加正向电压"
+  },
+  {
+    "id": 564,
+    "question_id": 241,
+    "label": "D",
+    "content": "阳极和阴极间加正向电压，门极加反向电压"
+  },
+  {
+    "id": 565,
+    "question_id": 242,
+    "label": "A",
+    "content": "Pq＝UICosφ"
+  },
+  {
+    "id": 566,
+    "question_id": 242,
+    "label": "B",
+    "content": "Pq＝UIsinφ"
+  },
+  {
+    "id": 567,
+    "question_id": 242,
+    "label": "C",
+    "content": "Pq＝UI"
+  },
+  {
+    "id": 568,
+    "question_id": 242,
+    "label": "D",
+    "content": "Pq＝I2R"
+  },
+  {
+    "id": 569,
+    "question_id": 243,
+    "label": "A",
+    "content": "3"
+  },
+  {
+    "id": 570,
+    "question_id": 243,
+    "label": "B",
+    "content": "6"
+  },
+  {
+    "id": 571,
+    "question_id": 243,
+    "label": "C",
+    "content": "12"
+  },
+  {
+    "id": 572,
+    "question_id": 243,
+    "label": "D",
+    "content": "16"
+  },
+  {
+    "id": 573,
+    "question_id": 244,
+    "label": "A",
+    "content": "标准电阻"
+  },
+  {
+    "id": 574,
+    "question_id": 244,
+    "label": "B",
+    "content": "桥臂电阻"
+  },
+  {
+    "id": 575,
+    "question_id": 244,
+    "label": "C",
+    "content": "接线电阻"
+  },
+  {
+    "id": 576,
+    "question_id": 244,
+    "label": "D",
+    "content": "以上三个量都无关"
+  },
+  {
+    "id": 577,
+    "question_id": 245,
+    "label": "A",
+    "content": "发射结集电结构正偏"
+  },
+  {
+    "id": 578,
+    "question_id": 245,
+    "label": "B",
+    "content": "发射结集电结均反偏"
+  },
+  {
+    "id": 579,
+    "question_id": 245,
+    "label": "C",
+    "content": "发射结正偏集电结反偏"
+  },
+  {
+    "id": 580,
+    "question_id": 245,
+    "label": "D",
+    "content": "发射结反偏集电结正偏"
+  },
+  {
+    "id": 581,
+    "question_id": 246,
+    "label": "A",
+    "content": "1000KVA"
+  },
+  {
+    "id": 582,
+    "question_id": 246,
+    "label": "B",
+    "content": "3000KVA"
+  },
+  {
+    "id": 583,
+    "question_id": 246,
+    "label": "C",
+    "content": "3150KVA"
+  },
+  {
+    "id": 584,
+    "question_id": 246,
+    "label": "D",
+    "content": "3500KVA"
+  },
+  {
+    "id": 585,
+    "question_id": 247,
+    "label": "A",
+    "content": "保持干燥"
+  },
+  {
+    "id": 586,
+    "question_id": 247,
+    "label": "B",
+    "content": "放在强磁场周围"
+  },
+  {
+    "id": 587,
+    "question_id": 247,
+    "label": "C",
+    "content": "轻拿轻放"
+  },
+  {
+    "id": 588,
+    "question_id": 247,
+    "label": "D",
+    "content": "棉纱擦拭"
+  },
+  {
+    "id": 589,
+    "question_id": 248,
+    "label": "A",
+    "content": "继续维持导通"
+  },
+  {
+    "id": 590,
+    "question_id": 248,
+    "label": "B",
+    "content": "转为关断"
+  },
+  {
+    "id": 591,
+    "question_id": 248,
+    "label": "C",
+    "content": "只要阳极－阴极仍有正向电压，管子能继续导通"
+  },
+  {
+    "id": 592,
+    "question_id": 248,
+    "label": "D",
+    "content": "不能确定"
+  },
+  {
+    "id": 593,
+    "question_id": 249,
+    "label": "A",
+    "content": "可以等效地看成是由三个三极管构成"
+  },
+  {
+    "id": 594,
+    "question_id": 249,
+    "label": "B",
+    "content": "可以等效地看成是由一个NPN、一个PNP三极管构成"
+  },
+  {
+    "id": 595,
+    "question_id": 249,
+    "label": "C",
+    "content": "可以等效地看成是由二个NPN三极管构成"
+  },
+  {
+    "id": 596,
+    "question_id": 249,
+    "label": "D",
+    "content": "可以等效地看成是由二个PNP三极管构成"
+  },
+  {
+    "id": 597,
+    "question_id": 250,
+    "label": "A",
+    "content": "交流"
+  },
+  {
+    "id": 598,
+    "question_id": 250,
+    "label": "B",
+    "content": "直流"
+  },
+  {
+    "id": 599,
+    "question_id": 250,
+    "label": "C",
+    "content": "高压"
+  },
+  {
+    "id": 600,
+    "question_id": 250,
+    "label": "D",
+    "content": "低压"
+  },
+  {
+    "id": 601,
+    "question_id": 251,
+    "label": "A",
+    "content": "电压表法和平衡电桥法"
+  },
+  {
+    "id": 602,
+    "question_id": 251,
+    "label": "B",
+    "content": "电流表法和平衡电桥法"
+  },
+  {
+    "id": 603,
+    "question_id": 251,
+    "label": "C",
+    "content": "电压表法和电流表法"
+  },
+  {
+    "id": 604,
+    "question_id": 251,
+    "label": "D",
+    "content": "电压降法和平衡电桥法"
+  },
+  {
+    "id": 605,
+    "question_id": 252,
+    "label": "A",
+    "content": "20%"
+  },
+  {
+    "id": 606,
+    "question_id": 252,
+    "label": "B",
+    "content": "30%"
+  },
+  {
+    "id": 607,
+    "question_id": 252,
+    "label": "C",
+    "content": "40%"
+  },
+  {
+    "id": 608,
+    "question_id": 252,
+    "label": "D",
+    "content": "50%"
+  },
+  {
+    "id": 609,
+    "question_id": 253,
+    "label": "A",
+    "content": "二个"
+  },
+  {
+    "id": 610,
+    "question_id": 253,
+    "label": "B",
+    "content": "三个"
+  },
+  {
+    "id": 611,
+    "question_id": 253,
+    "label": "C",
+    "content": "四个"
+  },
+  {
+    "id": 612,
+    "question_id": 253,
+    "label": "D",
+    "content": "多于四个"
+  },
+  {
+    "id": 613,
+    "question_id": 254,
+    "label": "A",
+    "content": "E1/E2＝N1/N2"
+  },
+  {
+    "id": 614,
+    "question_id": 254,
+    "label": "B",
+    "content": "E1/E2＝N2/N1"
+  },
+  {
+    "id": 615,
+    "question_id": 254,
+    "label": "C",
+    "content": "E1/E2＝N12/N"
+  },
+  {
+    "id": 616,
+    "question_id": 254,
+    "label": "D",
+    "content": "无明显规律"
+  },
+  {
+    "id": 617,
+    "question_id": 255,
+    "label": "A",
+    "content": "发射结集电结构正偏"
+  },
+  {
+    "id": 618,
+    "question_id": 255,
+    "label": "B",
+    "content": "发射结集电结均反偏"
+  },
+  {
+    "id": 619,
+    "question_id": 255,
+    "label": "C",
+    "content": "发射结正偏集电结反偏"
+  },
+  {
+    "id": 620,
+    "question_id": 255,
+    "label": "D",
+    "content": "发射结及偏集电结正偏"
+  },
+  {
+    "id": 621,
+    "question_id": 256,
+    "label": "A",
+    "content": "频率"
+  },
+  {
+    "id": 622,
+    "question_id": 256,
+    "label": "B",
+    "content": "相位"
+  },
+  {
+    "id": 623,
+    "question_id": 256,
+    "label": "C",
+    "content": "初相角"
+  },
+  {
+    "id": 624,
+    "question_id": 256,
+    "label": "D",
+    "content": "相位差"
+  },
+  {
+    "id": 625,
+    "question_id": 257,
+    "label": "A",
+    "content": "－25℃"
+  },
+  {
+    "id": 626,
+    "question_id": 257,
+    "label": "B",
+    "content": "－10℃"
+  },
+  {
+    "id": 627,
+    "question_id": 257,
+    "label": "C",
+    "content": "－20℃"
+  },
+  {
+    "id": 628,
+    "question_id": 257,
+    "label": "D",
+    "content": "无规定"
+  },
+  {
+    "id": 629,
+    "question_id": 258,
+    "label": "A",
+    "content": "将断路器跳合几次"
+  },
+  {
+    "id": 630,
+    "question_id": 258,
+    "label": "B",
+    "content": "手动合闸时去掉千斤顶"
+  },
+  {
+    "id": 631,
+    "question_id": 258,
+    "label": "C",
+    "content": "多次复测"
+  },
+  {
+    "id": 632,
+    "question_id": 258,
+    "label": "D",
+    "content": "取三次分散性最小的值的平均值"
+  },
+  {
+    "id": 633,
+    "question_id": 259,
+    "label": "A",
+    "content": "单相交流电能"
+  },
+  {
+    "id": 634,
+    "question_id": 259,
+    "label": "B",
+    "content": "两相电能"
+  },
+  {
+    "id": 635,
+    "question_id": 259,
+    "label": "C",
+    "content": "直流电能"
+  },
+  {
+    "id": 636,
+    "question_id": 259,
+    "label": "D",
+    "content": "三相电能"
+  },
+  {
+    "id": 637,
+    "question_id": 260,
+    "label": "A",
+    "content": "大气过电压"
+  },
+  {
+    "id": 638,
+    "question_id": 260,
+    "label": "B",
+    "content": "操作过电压"
+  },
+  {
+    "id": 639,
+    "question_id": 260,
+    "label": "C",
+    "content": "谐振过电压"
+  },
+  {
+    "id": 640,
+    "question_id": 260,
+    "label": "D",
+    "content": "工频电压升高"
+  },
+  {
+    "id": 641,
+    "question_id": 261,
+    "label": "A",
+    "content": "1年"
+  },
+  {
+    "id": 642,
+    "question_id": 261,
+    "label": "B",
+    "content": "3年"
+  },
+  {
+    "id": 643,
+    "question_id": 261,
+    "label": "C",
+    "content": "5～10年"
+  },
+  {
+    "id": 644,
+    "question_id": 261,
+    "label": "D",
+    "content": "15～20年"
+  },
+  {
+    "id": 645,
+    "question_id": 262,
+    "label": "A",
+    "content": "用开口三角形电压互感器发出电压信号"
+  },
+  {
+    "id": 646,
+    "question_id": 262,
+    "label": "B",
+    "content": "在三相电流互感器二次中性线上加装电流继电器"
+  },
+  {
+    "id": 647,
+    "question_id": 262,
+    "label": "C",
+    "content": "用零序电流互感器"
+  },
+  {
+    "id": 648,
+    "question_id": 262,
+    "label": "D",
+    "content": "无要求"
+  },
+  {
+    "id": 649,
+    "question_id": 263,
+    "label": "A",
+    "content": "机加工时机床自动走刀时间"
+  },
+  {
+    "id": 650,
+    "question_id": 263,
+    "label": "B",
+    "content": "机加工电钻钻孔时间"
+  },
+  {
+    "id": 651,
+    "question_id": 263,
+    "label": "C",
+    "content": "利用手工制造工件的刮、锉时间"
+  },
+  {
+    "id": 652,
+    "question_id": 263,
+    "label": "D",
+    "content": "在金属切削加工中退刀时间"
+  },
+  {
+    "id": 653,
+    "question_id": 264,
+    "label": "A",
+    "content": "桥式触头"
+  },
+  {
+    "id": 654,
+    "question_id": 264,
+    "label": "B",
+    "content": "指形触头"
+  },
+  {
+    "id": 655,
+    "question_id": 264,
+    "label": "C",
+    "content": "辫形触头"
+  },
+  {
+    "id": 656,
+    "question_id": 264,
+    "label": "D",
+    "content": "对接式触头"
+  },
+  {
+    "id": 657,
+    "question_id": 265,
+    "label": "A",
+    "content": "铸铁"
+  },
+  {
+    "id": 658,
+    "question_id": 265,
+    "label": "B",
+    "content": "铸钢"
+  },
+  {
+    "id": 659,
+    "question_id": 265,
+    "label": "C",
+    "content": "钢板焊接"
+  },
+  {
+    "id": 660,
+    "question_id": 265,
+    "label": "D",
+    "content": "钢管"
+  },
+  {
+    "id": 661,
+    "question_id": 266,
+    "label": "A",
+    "content": "法拉第定律"
+  },
+  {
+    "id": 662,
+    "question_id": 266,
+    "label": "B",
+    "content": "楞次定律"
+  },
+  {
+    "id": 663,
+    "question_id": 266,
+    "label": "C",
+    "content": "安培定则"
+  },
+  {
+    "id": 664,
+    "question_id": 266,
+    "label": "D",
+    "content": "欧姆定律"
+  },
+  {
+    "id": 665,
+    "question_id": 267,
+    "label": "A",
+    "content": "铁芯、绕组、外壳"
+  },
+  {
+    "id": 666,
+    "question_id": 267,
+    "label": "B",
+    "content": "铁芯、外壳、套管"
+  },
+  {
+    "id": 667,
+    "question_id": 267,
+    "label": "C",
+    "content": "绕组、导电杆、变压器"
+  },
+  {
+    "id": 668,
+    "question_id": 267,
+    "label": "D",
+    "content": "铁芯、绕组、外壳、套管及冷却系统"
+  },
+  {
+    "id": 669,
+    "question_id": 268,
+    "label": "A",
+    "content": "50%"
+  },
+  {
+    "id": 670,
+    "question_id": 268,
+    "label": "B",
+    "content": "80%"
+  },
+  {
+    "id": 671,
+    "question_id": 268,
+    "label": "C",
+    "content": "85%"
+  },
+  {
+    "id": 672,
+    "question_id": 268,
+    "label": "D",
+    "content": "90%"
+  },
+  {
+    "id": 673,
+    "question_id": 269,
+    "label": "A",
+    "content": "1/4"
+  },
+  {
+    "id": 674,
+    "question_id": 269,
+    "label": "B",
+    "content": "1/3"
+  },
+  {
+    "id": 675,
+    "question_id": 269,
+    "label": "C",
+    "content": "1/2"
+  },
+  {
+    "id": 676,
+    "question_id": 269,
+    "label": "D",
+    "content": "2/3"
+  },
+  {
+    "id": 677,
+    "question_id": 270,
+    "label": "A",
+    "content": "直流电流"
+  },
+  {
+    "id": 678,
+    "question_id": 270,
+    "label": "B",
+    "content": "交流电流"
+  },
+  {
+    "id": 679,
+    "question_id": 270,
+    "label": "C",
+    "content": "直流电压"
+  },
+  {
+    "id": 680,
+    "question_id": 270,
+    "label": "D",
+    "content": "交流电压"
+  }
+]

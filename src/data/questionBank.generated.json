@@ -1,0 +1,7840 @@
+{
+  "metadata": {
+    "schemaVersion": 1,
+    "generatedAt": "2026-05-07T13:13:45.831Z",
+    "questionCount": 270,
+    "optionCount": 680
+  },
+  "questions": [
+    {
+      "id": 1,
+      "source_no": 1,
+      "type": "true_false",
+      "stem": "晶体管触发电路的输出脉冲宽度宽前沿较陡可靠性较高。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "1.晶体管触发电路的输出脉冲宽度宽前沿较陡可靠性较高。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 2,
+      "source_no": 2,
+      "type": "true_false",
+      "stem": "变电所拉合开关的单一操作中可以不用操作票。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "2.变电所拉合开关的单一操作中可以不用操作票。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 3,
+      "source_no": 3,
+      "type": "true_false",
+      "stem": "直流电动机的转子由电枢铁心、电枢绕组、换向器、风扇、转轴等组成。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "3.直流电动机的转子由电枢铁心、电枢绕组、换向器、风扇、转轴等组成。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 4,
+      "source_no": 4,
+      "type": "true_false",
+      "stem": "架空线路的施工组织应包括杆位测量、挖坑、排杆、组杆、立杆、架线等环节。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "4.架空线路的施工组织应包括杆位测量、挖坑、排杆、组杆、立杆、架线等环节。（\n）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 5,
+      "source_no": 5,
+      "type": "true_false",
+      "stem": "值班室员将断路器利用控制开关手动合闸到故障线路，而继电保护动作将断路器断开 时，自动重合闸装置不应该动作。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "5.值班室员将断路器利用控制开关手动合闸到故障线路，而继电保护动作将断路器断开\n时，自动重合闸装置不应该动作。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 6,
+      "source_no": 6,
+      "type": "true_false",
+      "stem": "集成稳压块属于线性集成电路的范畴。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "6.集成稳压块属于线性集成电路的范畴。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 7,
+      "source_no": 7,
+      "type": "true_false",
+      "stem": "大修后的35KV电力变压器在30℃时测得的介质损失角正切值tgs(%)应不大于1.5%。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "7.大修后的35KV电力变压器在30℃时测得的介质损失角正切值tgs(%)应不大于1.5%。（\n）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 8,
+      "source_no": 8,
+      "type": "true_false",
+      "stem": "TTL\"与非\"门逻辑电路是晶体管-晶体管型集成门电路。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "8.TTL\"与非\"门逻辑电路是晶体管-晶体管型集成门电路。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 9,
+      "source_no": 9,
+      "type": "true_false",
+      "stem": "绝缘靴的交流耐压，以测得的泄漏电流值不超过规定的最大允许泄漏电流值为合格。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "9.绝缘靴的交流耐压，以测得的泄漏电流值不超过规定的最大允许泄漏电流值为合格。\n（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 10,
+      "source_no": 10,
+      "type": "true_false",
+      "stem": "通电导体在磁场中会受到电磁力的作用。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "10.通电导体在磁场中会受到电磁力的作用。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 11,
+      "source_no": 11,
+      "type": "true_false",
+      "stem": "推广先进的操作方法，可以缩短工时定额的辅助时间。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "11.推广先进的操作方法，可以缩短工时定额的辅助时间。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 12,
+      "source_no": 12,
+      "type": "true_false",
+      "stem": "反馈控制是对于可以事先预料的或者是已知的扰动而设的。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "12.反馈控制是对于可以事先预料的或者是已知的扰动而设的。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 13,
+      "source_no": 13,
+      "type": "true_false",
+      "stem": "微型机监控系统的硬件由现场采样、过程通道两部分构成。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "13.微型机监控系统的硬件由现场采样、过程通道两部分构成。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 14,
+      "source_no": 14,
+      "type": "true_false",
+      "stem": "真空断路器合闸合空，经检明是由于掣子扣合距离太少而未过死点，应调整对应螺钉 ，使掣子过死点即可。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "14.真空断路器合闸合空，经检明是由于掣子扣合距离太少而未过死点，应调整对应螺钉\n，使掣子过死点即可。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 15,
+      "source_no": 15,
+      "type": "true_false",
+      "stem": "检查电机轴承是否正常，常用听声音和测温度两种方法。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "15.检查电机轴承是否正常，常用听声音和测温度两种方法。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 16,
+      "source_no": 16,
+      "type": "true_false",
+      "stem": "变电所交接班中如发生事故，未办理手续前应以交班人员为主进行处理。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "16.变电所交接班中如发生事故，未办理手续前应以交班人员为主进行处理。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 17,
+      "source_no": 17,
+      "type": "true_false",
+      "stem": "DTL、TTL、HTL门电路都属于单极型数字集成电路，CMOS门电路则属于双极型数字集 成电路。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "17.DTL、TTL、HTL门电路都属于单极型数字集成电路，CMOS门电路则属于双极型数字集\n成电路。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 18,
+      "source_no": 18,
+      "type": "true_false",
+      "stem": "互感器的试验分为绝缘试验和特性试验两大类。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "18.互感器的试验分为绝缘试验和特性试验两大类。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 19,
+      "source_no": 19,
+      "type": "true_false",
+      "stem": "三相同步电动机只有在采用异步起动时，才需在其转子转速接近同步转速时加入励磁 电源，而其他起动方法则无此要求。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "19.三相同步电动机只有在采用异步起动时，才需在其转子转速接近同步转速时加入励磁\n电源，而其他起动方法则无此要求。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 20,
+      "source_no": 20,
+      "type": "true_false",
+      "stem": "数字电路中\"1\"与\"0\"电平中的\"0\"即没有电压。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "20.数字电路中\"1\"与\"0\"电平中的\"0\"即没有电压。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 21,
+      "source_no": 21,
+      "type": "true_false",
+      "stem": "仪表读数应尽可能准确，以减小测量所产生的系统误差。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "21.仪表读数应尽可能准确，以减小测量所产生的系统误差。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 22,
+      "source_no": 22,
+      "type": "true_false",
+      "stem": "三相对称电路中，相电压超前相应的线电压30°。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "22.三相对称电路中，相电压超前相应的线电压30°。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 23,
+      "source_no": 23,
+      "type": "true_false",
+      "stem": "直流电动机容量越大，其气隙越小。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "23.直流电动机容量越大，其气隙越小。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 24,
+      "source_no": 24,
+      "type": "true_false",
+      "stem": "为消除雷电危害而装设的接地叫防雷接地，其作用是导泄雷电流入地。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "24.为消除雷电危害而装设的接地叫防雷接地，其作用是导泄雷电流入地。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 25,
+      "source_no": 25,
+      "type": "true_false",
+      "stem": "三相负载作星形联接时，无论负载对称与否，线电流必等于相电流。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "25.三相负载作星形联接时，无论负载对称与否，线电流必等于相电流。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 26,
+      "source_no": 26,
+      "type": "true_false",
+      "stem": "交、直流耐压试验的高压回路与接地体的距离必须留有足够的裕度。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "26.交、直流耐压试验的高压回路与接地体的距离必须留有足够的裕度。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 27,
+      "source_no": 27,
+      "type": "true_false",
+      "stem": "相序表是检测电源的正反相序的电工仪表。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "27.相序表是检测电源的正反相序的电工仪表。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 28,
+      "source_no": 28,
+      "type": "true_false",
+      "stem": "定滑轮只能改变力的方向。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "28.定滑轮只能改变力的方向。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 29,
+      "source_no": 29,
+      "type": "true_false",
+      "stem": "高压电动机的过载保护可作用于信号，也可作用于跳闸。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "29.高压电动机的过载保护可作用于信号，也可作用于跳闸。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 30,
+      "source_no": 30,
+      "type": "true_false",
+      "stem": "放大电路放大的实质就是用输入信号控制输出信号。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "30.放大电路放大的实质就是用输入信号控制输出信号。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 31,
+      "source_no": 31,
+      "type": "true_false",
+      "stem": "阀式避雷器中的阀片是一个固定电阻。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "31.阀式避雷器中的阀片是一个固定电阻。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 32,
+      "source_no": 32,
+      "type": "true_false",
+      "stem": "装熔丝时，一定要沿顺时针方向弯过来，压在垫圈下。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "32.装熔丝时，一定要沿顺时针方向弯过来，压在垫圈下。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 33,
+      "source_no": 33,
+      "type": "true_false",
+      "stem": "谐振过电压属于外部过电压。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "33.谐振过电压属于外部过电压。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 34,
+      "source_no": 34,
+      "type": "true_false",
+      "stem": "操作过电压属于内部过电压。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "34.操作过电压属于内部过电压。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 35,
+      "source_no": 35,
+      "type": "true_false",
+      "stem": "用接地电阻测量仪测量线路杆塔接地体的接地电阻时，测量仪电压极与电流极的布置 宜取与线路相垂直的方向。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "35.用接地电阻测量仪测量线路杆塔接地体的接地电阻时，测量仪电压极与电流极的布置\n宜取与线路相垂直的方向。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 36,
+      "source_no": 36,
+      "type": "true_false",
+      "stem": "在1KV以下中性点直接接地系统中，电力变压器中性点的接地电阻值不应大于10Ω。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "36.在1KV以下中性点直接接地系统中，电力变压器中性点的接地电阻值不应大于10Ω。（\n）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 37,
+      "source_no": 37,
+      "type": "true_false",
+      "stem": "可以利用分合10KV跌落式熔断器熔断管的方法来分合空载线路或空载变压器。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "37.可以利用分合10KV跌落式熔断器熔断管的方法来分合空载线路或空载变压器。（\n）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 38,
+      "source_no": 38,
+      "type": "true_false",
+      "stem": "干式电抗器三相水平排列时，三相绕向应相同。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "38.干式电抗器三相水平排列时，三相绕向应相同。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 39,
+      "source_no": 39,
+      "type": "true_false",
+      "stem": "交流耐压试验的关键设备有试验变压器和调压设备。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "39.交流耐压试验的关键设备有试验变压器和调压设备。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 40,
+      "source_no": 40,
+      "type": "true_false",
+      "stem": "两台电力变压器，只要它们的电压等级相同，就可并联运行。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "40.两台电力变压器，只要它们的电压等级相同，就可并联运行。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 41,
+      "source_no": 41,
+      "type": "true_false",
+      "stem": "旧电池不能使收音机正常工作的原因是电池内阻增大。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "41.旧电池不能使收音机正常工作的原因是电池内阻增大。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 42,
+      "source_no": 42,
+      "type": "true_false",
+      "stem": "磁阻的大小与磁路的长度成正比，与磁路截面积和磁导率乘积成反比。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "42.磁阻的大小与磁路的长度成正比，与磁路截面积和磁导率乘积成反比。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 43,
+      "source_no": 43,
+      "type": "true_false",
+      "stem": "高压隔离开关仅起隔离作用，不能操作任何电流。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "43.高压隔离开关仅起隔离作用，不能操作任何电流。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 44,
+      "source_no": 44,
+      "type": "true_false",
+      "stem": "同步电动机起动时，当转速接近其同步转速时，励磁绕组通入直流励磁的目的是产生 同步转矩。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "44.同步电动机起动时，当转速接近其同步转速时，励磁绕组通入直流励磁的目的是产生\n同步转矩。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 45,
+      "source_no": 45,
+      "type": "true_false",
+      "stem": "调整安装的配电柜时，应使其垂直误差不大于柜高1/1000。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "45.调整安装的配电柜时，应使其垂直误差不大于柜高1/1000。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 46,
+      "source_no": 46,
+      "type": "true_false",
+      "stem": "DTL、TTL、HTL门电路都属于单极型数字集成电路，CMOS门电路则属于双极型数字集 成电路。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "46.DTL、TTL、HTL门电路都属于单极型数字集成电路，CMOS门电路则属于双极型数字集\n成电路。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 47,
+      "source_no": 47,
+      "type": "true_false",
+      "stem": "运行中的隔离开关，接触应良好，最高允许温度为50℃，通过的电流不得超过额定值 。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "47.运行中的隔离开关，接触应良好，最高允许温度为50℃，通过的电流不得超过额定值\n。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 48,
+      "source_no": 48,
+      "type": "true_false",
+      "stem": "一般接地导体相互采用焊接连接。扁铁与角钢的搭接长度应小于宽度的两倍。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "48.一般接地导体相互采用焊接连接。扁铁与角钢的搭接长度应小于宽度的两倍。（\n）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 49,
+      "source_no": 49,
+      "type": "true_false",
+      "stem": "交流无触点开关是利用晶闸管伏安特性制成的。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "49.交流无触点开关是利用晶闸管伏安特性制成的。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 50,
+      "source_no": 50,
+      "type": "true_false",
+      "stem": "铁磁物质在外磁场作用下可以被磁化。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "50.铁磁物质在外磁场作用下可以被磁化。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 51,
+      "source_no": 51,
+      "type": "true_false",
+      "stem": "大修后的35KV电力变压器在30℃时测得的介质损失角正切值tgs(%)应不大于1.5%。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "51.大修后的35KV电力变压器在30℃时测得的介质损失角正切值tgs(%)应不大于1.5%。（\n）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 52,
+      "source_no": 52,
+      "type": "true_false",
+      "stem": "主变压器正式运行前为检查变压器绝缘强度和机械强度应做冲击试验。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "52.主变压器正式运行前为检查变压器绝缘强度和机械强度应做冲击试验。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 53,
+      "source_no": 53,
+      "type": "true_false",
+      "stem": "控制柜上的小母线应采用直径小于6毫米的铜棒或铜管。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "53.控制柜上的小母线应采用直径小于6毫米的铜棒或铜管。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 54,
+      "source_no": 54,
+      "type": "true_false",
+      "stem": "单结晶体管触发电路可产生很宽的脉冲，且移相范围较大。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "54.单结晶体管触发电路可产生很宽的脉冲，且移相范围较大。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 55,
+      "source_no": 55,
+      "type": "true_false",
+      "stem": "若一个异或门的两个输入端的电平相同，即同为高电平或同为低电平，则输出为高电 平。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "55.若一个异或门的两个输入端的电平相同，即同为高电平或同为低电平，则输出为高电\n平。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 56,
+      "source_no": 56,
+      "type": "true_false",
+      "stem": "常见备用电源自动投入装置的工作原理是，工作电源中断后电压继电器动作，切断工 作电源的断路器，并通过一系列继电器将备用电源自动投入。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "56.常见备用电源自动投入装置的工作原理是，工作电源中断后电压继电器动作，切断工\n作电源的断路器，并通过一系列继电器将备用电源自动投入。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 57,
+      "source_no": 57,
+      "type": "true_false",
+      "stem": "要产生一个周期性的矩形波应采用多谐振荡电路。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "57.要产生一个周期性的矩形波应采用多谐振荡电路。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 58,
+      "source_no": 58,
+      "type": "true_false",
+      "stem": "为防止并联电容器过负荷，应装设过负荷保护装置。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "58.为防止并联电容器过负荷，应装设过负荷保护装置。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 59,
+      "source_no": 59,
+      "type": "true_false",
+      "stem": "直流放大器能够放大直流信号，也能放大变化缓慢的传递信号。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "59.直流放大器能够放大直流信号，也能放大变化缓慢的传递信号。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 60,
+      "source_no": 60,
+      "type": "true_false",
+      "stem": "工作线路的断路器因继电器保护装置动作跳闸后，备用电源自动投入装置应将备用线 路投入，以保证供电的连续性。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "60.工作线路的断路器因继电器保护装置动作跳闸后，备用电源自动投入装置应将备用线\n路投入，以保证供电的连续性。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 61,
+      "source_no": 61,
+      "type": "true_false",
+      "stem": "单相桥式全控整流电路，有4组触发电压。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "61.单相桥式全控整流电路，有4组触发电压。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 62,
+      "source_no": 62,
+      "type": "true_false",
+      "stem": "大功率三极管工作时应该具有良好的散热条件",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "62.大功率三极管工作时应该具有良好的散热条件（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 63,
+      "source_no": 63,
+      "type": "true_false",
+      "stem": "管型避雷器的外间隙，必须安装牢固，应垂直安装。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "63.管型避雷器的外间隙，必须安装牢固，应垂直安装。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 64,
+      "source_no": 64,
+      "type": "true_false",
+      "stem": "接地的作用就是为了安全，防止因电气设备绝缘损坏而遭受触电。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "64.接地的作用就是为了安全，防止因电气设备绝缘损坏而遭受触电。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 65,
+      "source_no": 65,
+      "type": "true_false",
+      "stem": "已知正弦交流电的\"三要素\"即可写出其解析式。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "65.已知正弦交流电的\"三要素\"即可写出其解析式。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 66,
+      "source_no": 66,
+      "type": "true_false",
+      "stem": "交流耐压试验是鉴定电气设备绝缘强度的最有效和最直接的方法。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "66.交流耐压试验是鉴定电气设备绝缘强度的最有效和最直接的方法。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 67,
+      "source_no": 67,
+      "type": "true_false",
+      "stem": "万用表如果长期不用，应将电池取出，以防电池腐蚀而影响表内其它元件。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "67.万用表如果长期不用，应将电池取出，以防电池腐蚀而影响表内其它元件。（ ）\n√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 68,
+      "source_no": 68,
+      "type": "true_false",
+      "stem": "对于没有分路电阻的FS型避雷器测量其绝缘电阻主要是检查是否由于密封不严而引起 内部受潮，导致绝缘电阻降低。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "68.对于没有分路电阻的FS型避雷器测量其绝缘电阻主要是检查是否由于密封不严而引起\n内部受潮，导致绝缘电阻降低。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 69,
+      "source_no": 69,
+      "type": "true_false",
+      "stem": "测量介质损失角的正切值，可判断电气设备的绝缘状况，且比较灵敏有效。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "69.测量介质损失角的正切值，可判断电气设备的绝缘状况，且比较灵敏有效。（ ）\n√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 70,
+      "source_no": 70,
+      "type": "true_false",
+      "stem": "三相负载如何联接应根据负载的额定电压和三相电源电压的数值而定。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "70.三相负载如何联接应根据负载的额定电压和三相电源电压的数值而定。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 71,
+      "source_no": 71,
+      "type": "true_false",
+      "stem": "对25#新绝缘油的闪点应不高于140℃。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "71.对25#新绝缘油的闪点应不高于140℃。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 72,
+      "source_no": 72,
+      "type": "true_false",
+      "stem": "共集电极接法放大器又称射极输出器输入ＩＢ；输出ＩＣ。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "72.共集电极接法放大器又称射极输出器输入ＩＢ；输出ＩＣ。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 73,
+      "source_no": 73,
+      "type": "true_false",
+      "stem": "工作票必须由专人签发，但签发人不需熟悉工作人员技术水平、设备情况以及电业安 全工作规程。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "73.工作票必须由专人签发，但签发人不需熟悉工作人员技术水平、设备情况以及电业安\n全工作规程。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 74,
+      "source_no": 74,
+      "type": "true_false",
+      "stem": "根据绝缘材料的不同，电力电缆可分为油浸纸绝缘电缆、塑料绝缘电缆和橡胶绝缘电 缆。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "74.根据绝缘材料的不同，电力电缆可分为油浸纸绝缘电缆、塑料绝缘电缆和橡胶绝缘电\n缆。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 75,
+      "source_no": 75,
+      "type": "true_false",
+      "stem": "交流电源的第一相、第二相、第三相及中线的标记文字符号分别是L1、L2、L3和N。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "75.交流电源的第一相、第二相、第三相及中线的标记文字符号分别是L1、L2、L3和N。\n（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 76,
+      "source_no": 76,
+      "type": "true_false",
+      "stem": "铜的抗拉强度优于银。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "76.铜的抗拉强度优于银。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 77,
+      "source_no": 77,
+      "type": "true_false",
+      "stem": "值班人员在巡视配电装置时，对隔离开关不需进行检查。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "77.值班人员在巡视配电装置时，对隔离开关不需进行检查。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 78,
+      "source_no": 78,
+      "type": "true_false",
+      "stem": "常用的立杆方法有，起重机立杆，三脚架立杆，倒落式立杆和架脚立杆。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "78.常用的立杆方法有，起重机立杆，三脚架立杆，倒落式立杆和架脚立杆。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 79,
+      "source_no": 79,
+      "type": "true_false",
+      "stem": "电场中某点到参考点之间的电压就是该点电位。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "79.电场中某点到参考点之间的电压就是该点电位。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 80,
+      "source_no": 80,
+      "type": "true_false",
+      "stem": "登高作业前，应对攀登对象及所使用的各种用具进行仔细的检查。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "80.登高作业前，应对攀登对象及所使用的各种用具进行仔细的检查。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 81,
+      "source_no": 81,
+      "type": "true_false",
+      "stem": "用万用表判断法可判别三相异步电动机定子绕组首、尾端。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "81.用万用表判断法可判别三相异步电动机定子绕组首、尾端。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 82,
+      "source_no": 82,
+      "type": "true_false",
+      "stem": "工作票由上级领导签发。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "82.工作票由上级领导签发。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 83,
+      "source_no": 83,
+      "type": "true_false",
+      "stem": "通信电缆是内外线电工常用的一种产品。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "83.通信电缆是内外线电工常用的一种产品。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 84,
+      "source_no": 84,
+      "type": "true_false",
+      "stem": "BLV型号的导线属于铜芯聚氯乙烯绝缘导线。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "84.BLV型号的导线属于铜芯聚氯乙烯绝缘导线。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 85,
+      "source_no": 85,
+      "type": "true_false",
+      "stem": "一般照明的灯具布置，通常采用均匀布置和选择布置两种方案。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "85.一般照明的灯具布置，通常采用均匀布置和选择布置两种方案。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 86,
+      "source_no": 86,
+      "type": "true_false",
+      "stem": "用指针式万用表识别二极管的极性时，若测的是二极管的正向电阻，那么和标有\"+\" 号端测试棒相连接的是二极管的正极，另一端是负极。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "86.用指针式万用表识别二极管的极性时，若测的是二极管的正向电阻，那么和标有\"+\"\n号端测试棒相连接的是二极管的正极，另一端是负极。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 87,
+      "source_no": 87,
+      "type": "true_false",
+      "stem": "2个10欧电阻并联，再与一个5欧电阻串联，总电阻值为10欧。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "87.2个10欧电阻并联，再与一个5欧电阻串联，总电阻值为10欧。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 88,
+      "source_no": 88,
+      "type": "true_false",
+      "stem": "在纯电阻电路中，电压的相位超前电流的相位。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "88.在纯电阻电路中，电压的相位超前电流的相位。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 89,
+      "source_no": 89,
+      "type": "true_false",
+      "stem": "用万用表测量小功率三极管时，不宜用R1档和R10档。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "89.用万用表测量小功率三极管时，不宜用R1档和R10档。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 90,
+      "source_no": 90,
+      "type": "true_false",
+      "stem": "单相交流电路中，无功功率的计算公式为Pg＝UIsinφ。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "90.单相交流电路中，无功功率的计算公式为Pg＝UIsinφ。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 91,
+      "source_no": 91,
+      "type": "true_false",
+      "stem": "新安装的二次接线回路的每一支路的导线对地电阻应不小于50兆欧。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "91.新安装的二次接线回路的每一支路的导线对地电阻应不小于50兆欧。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 92,
+      "source_no": 92,
+      "type": "true_false",
+      "stem": ".35KV油浸式电压互感器中绝缘油的闪点不低于130℃。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "92..35KV油浸式电压互感器中绝缘油的闪点不低于130℃。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 93,
+      "source_no": 93,
+      "type": "true_false",
+      "stem": "电机安装过程中的校正内容有水平校正和传动装置的校正，而水平校正一般使用水准 器(水平仪)进行。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "93.电机安装过程中的校正内容有水平校正和传动装置的校正，而水平校正一般使用水准\n器(水平仪)进行。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 94,
+      "source_no": 94,
+      "type": "true_false",
+      "stem": "异步计数器中各触发器的CP脉冲源是一样的。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "94.异步计数器中各触发器的CP脉冲源是一样的。（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 95,
+      "source_no": 95,
+      "type": "true_false",
+      "stem": "用短路侦察器检测电枢绕组是否接地时，如毫伏表有读数则说明连接该换向片的线圈 接地。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "95.用短路侦察器检测电枢绕组是否接地时，如毫伏表有读数则说明连接该换向片的线圈\n接地。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 96,
+      "source_no": 96,
+      "type": "true_false",
+      "stem": "为了使晶闸管准确、可靠地被触发，对触发电路要求：触发脉冲电压的前沿要陡。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "96.为了使晶闸管准确、可靠地被触发，对触发电路要求：触发脉冲电压的前沿要陡。（\n）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 97,
+      "source_no": 97,
+      "type": "true_false",
+      "stem": "在磁路基尔霍夫第二定律数学表达式中(HL)表示磁压降。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "97.在磁路基尔霍夫第二定律数学表达式中(HL)表示磁压降。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 98,
+      "source_no": 98,
+      "type": "true_false",
+      "stem": "电压互感器正常运行时，相当于一个空载运行的降压变压器。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "98.电压互感器正常运行时，相当于一个空载运行的降压变压器。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 99,
+      "source_no": 99,
+      "type": "true_false",
+      "stem": "单相桥式半控整流电路为感性负载时，为防止失控现象的出现，一般在电路中接续流 二极管。",
+      "answer": "true",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "99.单相桥式半控整流电路为感性负载时，为防止失控现象的出现，一般在电路中接续流\n二极管。（ ）√",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": true
+    },
+    {
+      "id": 100,
+      "source_no": 100,
+      "type": "true_false",
+      "stem": "对于三相可控整流装置而言，即使三相电源相序正确，电路也不一定能正常工作。",
+      "answer": "false",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "100.对于三相可控整流装置而言，即使三相电源相序正确，电路也不一定能正常工作。\n（ ）×",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [],
+      "normalizedAnswer": false
+    },
+    {
+      "id": 101,
+      "source_no": 101,
+      "type": "single_choice",
+      "stem": "架空线路施工完毕后，三相导线驰度应力求一致，驰度误差应不超过设计值（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "101.架空线路施工完毕后，三相导线驰度应力求一致，驰度误差应不超过设计值（\n）。\nA、 -10%或+5% B、 -10%或+15% C、 -5%或+10% D、 -5%或+15%\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 1,
+          "question_id": 101,
+          "label": "A",
+          "content": "-10%或+5%"
+        },
+        {
+          "id": 2,
+          "question_id": 101,
+          "label": "B",
+          "content": "-10%或+15%"
+        },
+        {
+          "id": 3,
+          "question_id": 101,
+          "label": "C",
+          "content": "-5%或+10%"
+        },
+        {
+          "id": 4,
+          "question_id": 101,
+          "label": "D",
+          "content": "-5%或+15%"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 102,
+      "source_no": 102,
+      "type": "single_choice",
+      "stem": "根据供电系统的供电情况及各类用户的不同用电规律，合理地、有计划地安排各类 用户的用电时间，以充分发挥电、变电设备的潜力，提高供电能力和满足用户需要，称 之为（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "102.根据供电系统的供电情况及各类用户的不同用电规律，合理地、有计划地安排各类\n用户的用电时间，以充分发挥电、变电设备的潜力，提高供电能力和满足用户需要，称\n之为（ ）。\nA、 计划用电 B、 节约用电 C、 经济运行 D、 负荷调整\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 5,
+          "question_id": 102,
+          "label": "A",
+          "content": "计划用电"
+        },
+        {
+          "id": 6,
+          "question_id": 102,
+          "label": "B",
+          "content": "节约用电"
+        },
+        {
+          "id": 7,
+          "question_id": 102,
+          "label": "C",
+          "content": "经济运行"
+        },
+        {
+          "id": 8,
+          "question_id": 102,
+          "label": "D",
+          "content": "负荷调整"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 103,
+      "source_no": 103,
+      "type": "single_choice",
+      "stem": "下列不属于RC移相式振荡器特点的是（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "103.下列不属于RC移相式振荡器特点的是（ ）。\nA、 选频作用较差 B、 振幅不够稳定 C、 频率调节不便 D、 电路复杂\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 9,
+          "question_id": 103,
+          "label": "A",
+          "content": "选频作用较差"
+        },
+        {
+          "id": 10,
+          "question_id": 103,
+          "label": "B",
+          "content": "振幅不够稳定"
+        },
+        {
+          "id": 11,
+          "question_id": 103,
+          "label": "C",
+          "content": "频率调节不便"
+        },
+        {
+          "id": 12,
+          "question_id": 103,
+          "label": "D",
+          "content": "电路复杂"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 104,
+      "source_no": 104,
+      "type": "single_choice",
+      "stem": "如果晶体三极管的集电极电流大于它的最大允许电流，则该管（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "104.如果晶体三极管的集电极电流大于它的最大允许电流，则该管（ ）。\nA、 放大能力降低 B、 击穿 C、 必定过热甚至烧坏 D、 工作正常\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 13,
+          "question_id": 104,
+          "label": "A",
+          "content": "放大能力降低"
+        },
+        {
+          "id": 14,
+          "question_id": 104,
+          "label": "B",
+          "content": "击穿"
+        },
+        {
+          "id": 15,
+          "question_id": 104,
+          "label": "C",
+          "content": "必定过热甚至烧坏"
+        },
+        {
+          "id": 16,
+          "question_id": 104,
+          "label": "D",
+          "content": "工作正常"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 105,
+      "source_no": 105,
+      "type": "single_choice",
+      "stem": "变压器投入运行后，每隔（ ）要大修一次。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "105.变压器投入运行后，每隔（ ）要大修一次。\nA、 1年 B、 3年 C、 5～10年 D、 15～20年\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 17,
+          "question_id": 105,
+          "label": "A",
+          "content": "1年"
+        },
+        {
+          "id": 18,
+          "question_id": 105,
+          "label": "B",
+          "content": "3年"
+        },
+        {
+          "id": 19,
+          "question_id": 105,
+          "label": "C",
+          "content": "5～10年"
+        },
+        {
+          "id": 20,
+          "question_id": 105,
+          "label": "D",
+          "content": "15～20年"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 106,
+      "source_no": 106,
+      "type": "single_choice",
+      "stem": "开关元件反映的信息必须经过（ ）变换成开关量信号后才能送入微机系统。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "106.开关元件反映的信息必须经过（ ）变换成开关量信号后才能送入微机系统。\nA、 模数变换 B、 数模变换 C、 电平变换 D、 放大\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 21,
+          "question_id": 106,
+          "label": "A",
+          "content": "模数变换"
+        },
+        {
+          "id": 22,
+          "question_id": 106,
+          "label": "B",
+          "content": "数模变换"
+        },
+        {
+          "id": 23,
+          "question_id": 106,
+          "label": "C",
+          "content": "电平变换"
+        },
+        {
+          "id": 24,
+          "question_id": 106,
+          "label": "D",
+          "content": "放大"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 107,
+      "source_no": 107,
+      "type": "single_choice",
+      "stem": "定时限过流保护装置的动作电流整定原则是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "107.定时限过流保护装置的动作电流整定原则是（ ）。\nA、 动作电流大于最大负荷电流 B、 动作电流等于额定负荷电流\nC、 动作电流小于最大负荷电流 D、 返回电流小于最大负荷电流\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 25,
+          "question_id": 107,
+          "label": "A",
+          "content": "动作电流大于最大负荷电流"
+        },
+        {
+          "id": 26,
+          "question_id": 107,
+          "label": "B",
+          "content": "动作电流等于额定负荷电流"
+        },
+        {
+          "id": 27,
+          "question_id": 107,
+          "label": "C",
+          "content": "动作电流小于最大负荷电流"
+        },
+        {
+          "id": 28,
+          "question_id": 107,
+          "label": "D",
+          "content": "返回电流小于最大负荷电流"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 108,
+      "source_no": 108,
+      "type": "single_choice",
+      "stem": "交流放大器增加负反馈的目的是（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "108.交流放大器增加负反馈的目的是（ ）。\nA、 提高电压放大倍数 B、 增加输出阻抗 C、 提高工作稳定性 D、\n减小输入阻抗\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 29,
+          "question_id": 108,
+          "label": "A",
+          "content": "提高电压放大倍数"
+        },
+        {
+          "id": 30,
+          "question_id": 108,
+          "label": "B",
+          "content": "增加输出阻抗"
+        },
+        {
+          "id": 31,
+          "question_id": 108,
+          "label": "C",
+          "content": "提高工作稳定性"
+        },
+        {
+          "id": 32,
+          "question_id": 108,
+          "label": "D",
+          "content": "减小输入阻抗"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 109,
+      "source_no": 109,
+      "type": "single_choice",
+      "stem": "互感系数的单位是（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "109.互感系数的单位是（ ）。\nA、 欧姆 B、 伏 C、 1/亨 D、 亨\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 33,
+          "question_id": 109,
+          "label": "A",
+          "content": "欧姆"
+        },
+        {
+          "id": 34,
+          "question_id": 109,
+          "label": "B",
+          "content": "伏"
+        },
+        {
+          "id": 35,
+          "question_id": 109,
+          "label": "C",
+          "content": "1/亨"
+        },
+        {
+          "id": 36,
+          "question_id": 109,
+          "label": "D",
+          "content": "亨"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 110,
+      "source_no": 110,
+      "type": "single_choice",
+      "stem": "将一只1μF的电容接在50HZ，220V交流电源上，通过电容的电流为（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "110.将一只1μF的电容接在50HZ，220V交流电源上，通过电容的电流为（ ）。\nA、 69mA B、 110mA C、 170mA D、 50mA\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 37,
+          "question_id": 110,
+          "label": "A",
+          "content": "69mA"
+        },
+        {
+          "id": 38,
+          "question_id": 110,
+          "label": "B",
+          "content": "110mA"
+        },
+        {
+          "id": 39,
+          "question_id": 110,
+          "label": "C",
+          "content": "170mA"
+        },
+        {
+          "id": 40,
+          "question_id": 110,
+          "label": "D",
+          "content": "50mA"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 111,
+      "source_no": 111,
+      "type": "single_choice",
+      "stem": "当线圈中磁通增加时，感应电流的磁通与原磁通方向（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "111.当线圈中磁通增加时，感应电流的磁通与原磁通方向（ ）。\nA、 相同 B、 相反 C、 无关 D、 相同或相反\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 41,
+          "question_id": 111,
+          "label": "A",
+          "content": "相同"
+        },
+        {
+          "id": 42,
+          "question_id": 111,
+          "label": "B",
+          "content": "相反"
+        },
+        {
+          "id": 43,
+          "question_id": 111,
+          "label": "C",
+          "content": "无关"
+        },
+        {
+          "id": 44,
+          "question_id": 111,
+          "label": "D",
+          "content": "相同或相反"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 112,
+      "source_no": 112,
+      "type": "single_choice",
+      "stem": "二极管为什么可以当作开关来使用（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "112.二极管为什么可以当作开关来使用（ ）。\nA、 二极管具有单向导电性 B、 不改变输入脉冲的形状\nC、 正向电流大于反向电流 D、 同负载有关\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 45,
+          "question_id": 112,
+          "label": "A",
+          "content": "二极管具有单向导电性"
+        },
+        {
+          "id": 46,
+          "question_id": 112,
+          "label": "B",
+          "content": "不改变输入脉冲的形状"
+        },
+        {
+          "id": 47,
+          "question_id": 112,
+          "label": "C",
+          "content": "正向电流大于反向电流"
+        },
+        {
+          "id": 48,
+          "question_id": 112,
+          "label": "D",
+          "content": "同负载有关"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 113,
+      "source_no": 113,
+      "type": "single_choice",
+      "stem": "共射极输出电路中β的表达式是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "113.共射极输出电路中β的表达式是（ ）。\nA、 β＝IB/IC B、 β＝IC/IB C、 β＝IB-IC D、 β＝IC-IB\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 49,
+          "question_id": 113,
+          "label": "A",
+          "content": "β＝IB/IC"
+        },
+        {
+          "id": 50,
+          "question_id": 113,
+          "label": "B",
+          "content": "β＝IC/IB"
+        },
+        {
+          "id": 51,
+          "question_id": 113,
+          "label": "C",
+          "content": "β＝IB-IC"
+        },
+        {
+          "id": 52,
+          "question_id": 113,
+          "label": "D",
+          "content": "β＝IC-IB"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 114,
+      "source_no": 114,
+      "type": "single_choice",
+      "stem": "对于可控硅锯齿波触发电路，若不加倒相级，该电路移相范围为（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "114.对于可控硅锯齿波触发电路，若不加倒相级，该电路移相范围为（ ）。\nA、 90° B、 180° C、 270° D、 150°\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 53,
+          "question_id": 114,
+          "label": "A",
+          "content": "90°"
+        },
+        {
+          "id": 54,
+          "question_id": 114,
+          "label": "B",
+          "content": "180°"
+        },
+        {
+          "id": 55,
+          "question_id": 114,
+          "label": "C",
+          "content": "270°"
+        },
+        {
+          "id": 56,
+          "question_id": 114,
+          "label": "D",
+          "content": "150°"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 115,
+      "source_no": 115,
+      "type": "single_choice",
+      "stem": "下列（ ）不是同步发电机并网条件。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "115.下列（ ）不是同步发电机并网条件。\nA、 发电机电压的平均值等于电网电压平均值 B、\n发电机电压相位与电网电压相位相同\nC、 发电机频率与电网频率相同 D、 发电机电压相序和电网电压相序一致\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 57,
+          "question_id": 115,
+          "label": "A",
+          "content": "发电机电压的平均值等于电网电压平均值"
+        },
+        {
+          "id": 58,
+          "question_id": 115,
+          "label": "B",
+          "content": "发电机电压相位与电网电压相位相同"
+        },
+        {
+          "id": 59,
+          "question_id": 115,
+          "label": "C",
+          "content": "发电机频率与电网频率相同"
+        },
+        {
+          "id": 60,
+          "question_id": 115,
+          "label": "D",
+          "content": "发电机电压相序和电网电压相序一致"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 116,
+      "source_no": 116,
+      "type": "single_choice",
+      "stem": "一般接地导体相互采用焊接连接。扁钢与角钢的搭接长度不应小于宽度的（ ） 倍。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "116.一般接地导体相互采用焊接连接。扁钢与角钢的搭接长度不应小于宽度的（ ）\n倍。\nA、 一 B、 二 C、 三 D、 四\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 61,
+          "question_id": 116,
+          "label": "A",
+          "content": "一"
+        },
+        {
+          "id": 62,
+          "question_id": 116,
+          "label": "B",
+          "content": "二"
+        },
+        {
+          "id": 63,
+          "question_id": 116,
+          "label": "C",
+          "content": "三"
+        },
+        {
+          "id": 64,
+          "question_id": 116,
+          "label": "D",
+          "content": "四"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 117,
+      "source_no": 117,
+      "type": "single_choice",
+      "stem": "对于接地电流56-10KV水发电机组，定子绕组单相接地采取（ ）保护方式。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "117.对于接地电流56-10KV水发电机组，定子绕组单相接地采取（ ）保护方式。\nA、 用开口三角形电压互感器发出电压信号\nB、 在三相电流互感器二次中性线上加装电流继电器\nC、 用零序电流互感器 D、 无要求\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 65,
+          "question_id": 117,
+          "label": "A",
+          "content": "用开口三角形电压互感器发出电压信号"
+        },
+        {
+          "id": 66,
+          "question_id": 117,
+          "label": "B",
+          "content": "在三相电流互感器二次中性线上加装电流继电器"
+        },
+        {
+          "id": 67,
+          "question_id": 117,
+          "label": "C",
+          "content": "用零序电流互感器"
+        },
+        {
+          "id": 68,
+          "question_id": 117,
+          "label": "D",
+          "content": "无要求"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 118,
+      "source_no": 118,
+      "type": "single_choice",
+      "stem": "条形磁体中磁性最强的部位是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "118.条形磁体中磁性最强的部位是（ ）。\nA、 中间 B、 两极 C、 两侧面 D、 内部\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 69,
+          "question_id": 118,
+          "label": "A",
+          "content": "中间"
+        },
+        {
+          "id": 70,
+          "question_id": 118,
+          "label": "B",
+          "content": "两极"
+        },
+        {
+          "id": 71,
+          "question_id": 118,
+          "label": "C",
+          "content": "两侧面"
+        },
+        {
+          "id": 72,
+          "question_id": 118,
+          "label": "D",
+          "content": "内部"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 119,
+      "source_no": 119,
+      "type": "single_choice",
+      "stem": "自感系数的单位是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "119.自感系数的单位是（ ）。\nA、 韦帕 B、 享 C、 1/享 D、 特斯拉\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 73,
+          "question_id": 119,
+          "label": "A",
+          "content": "韦帕"
+        },
+        {
+          "id": 74,
+          "question_id": 119,
+          "label": "B",
+          "content": "享"
+        },
+        {
+          "id": 75,
+          "question_id": 119,
+          "label": "C",
+          "content": "1/享"
+        },
+        {
+          "id": 76,
+          "question_id": 119,
+          "label": "D",
+          "content": "特斯拉"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 120,
+      "source_no": 120,
+      "type": "single_choice",
+      "stem": "安培定则判断（ ）的定则。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "120.安培定则判断（ ）的定则。\nA、 电流方向 B、 磁场方向 C、 电流产生的磁场方向 D、 导体受力\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 77,
+          "question_id": 120,
+          "label": "A",
+          "content": "电流方向"
+        },
+        {
+          "id": 78,
+          "question_id": 120,
+          "label": "B",
+          "content": "磁场方向"
+        },
+        {
+          "id": 79,
+          "question_id": 120,
+          "label": "C",
+          "content": "电流产生的磁场方向"
+        },
+        {
+          "id": 80,
+          "question_id": 120,
+          "label": "D",
+          "content": "导体受力"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 121,
+      "source_no": 121,
+      "type": "single_choice",
+      "stem": "电感耦合振荡器的最大特点是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "121.电感耦合振荡器的最大特点是（ ）。\nA、 适应于要求频率范围较宽的场所 B、 不引起振荡波形中高次谐波分量的增大\nC、 输出波形好 D、 用于工作频率低的场所\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 81,
+          "question_id": 121,
+          "label": "A",
+          "content": "适应于要求频率范围较宽的场所"
+        },
+        {
+          "id": 82,
+          "question_id": 121,
+          "label": "B",
+          "content": "不引起振荡波形中高次谐波分量的增大"
+        },
+        {
+          "id": 83,
+          "question_id": 121,
+          "label": "C",
+          "content": "输出波形好"
+        },
+        {
+          "id": 84,
+          "question_id": 121,
+          "label": "D",
+          "content": "用于工作频率低的场所"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 122,
+      "source_no": 122,
+      "type": "single_choice",
+      "stem": "集成运算放大器的最大特点是（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "122.集成运算放大器的最大特点是（ ）。\nA、 开环增益很大，体积小 B、 开环增益很大，输入阻抗很小\nC、 开环增益很大，输出阻抗高 D、 开环增益很大，输入阻抗高，输出阻抗小\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 85,
+          "question_id": 122,
+          "label": "A",
+          "content": "开环增益很大，体积小"
+        },
+        {
+          "id": 86,
+          "question_id": 122,
+          "label": "B",
+          "content": "开环增益很大，输入阻抗很小"
+        },
+        {
+          "id": 87,
+          "question_id": 122,
+          "label": "C",
+          "content": "开环增益很大，输出阻抗高"
+        },
+        {
+          "id": 88,
+          "question_id": 122,
+          "label": "D",
+          "content": "开环增益很大，输入阻抗高，输出阻抗小"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 123,
+      "source_no": 123,
+      "type": "single_choice",
+      "stem": "电流互感器副边开路运行的后果是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "123.电流互感器副边开路运行的后果是（ ）。\nA、 副边电压为零 B、 副边产生危险高压，铁心过热\nC、 副边电流为零，促使原边电流近似为零\nD、 副边产生危险高压，变换到原边，使原边电压更高\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 89,
+          "question_id": 123,
+          "label": "A",
+          "content": "副边电压为零"
+        },
+        {
+          "id": 90,
+          "question_id": 123,
+          "label": "B",
+          "content": "副边产生危险高压，铁心过热"
+        },
+        {
+          "id": 91,
+          "question_id": 123,
+          "label": "C",
+          "content": "副边电流为零，促使原边电流近似为零"
+        },
+        {
+          "id": 92,
+          "question_id": 123,
+          "label": "D",
+          "content": "副边产生危险高压，变换到原边，使原边电压更高"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 124,
+      "source_no": 124,
+      "type": "single_choice",
+      "stem": "不属于自动控制系统中基本环节的是（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "124.不属于自动控制系统中基本环节的是（ ）。\nA、 反馈环节，放大环节 B、 补偿环节，稳定环节 C、 给定环节 D、\n执行环节\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 93,
+          "question_id": 124,
+          "label": "A",
+          "content": "反馈环节，放大环节"
+        },
+        {
+          "id": 94,
+          "question_id": 124,
+          "label": "B",
+          "content": "补偿环节，稳定环节"
+        },
+        {
+          "id": 95,
+          "question_id": 124,
+          "label": "C",
+          "content": "给定环节"
+        },
+        {
+          "id": 96,
+          "question_id": 124,
+          "label": "D",
+          "content": "执行环节"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 125,
+      "source_no": 125,
+      "type": "single_choice",
+      "stem": "关于甲类功率放大器的特点，叙述正确的是：功放管的静态工作点（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "125.关于甲类功率放大器的特点，叙述正确的是：功放管的静态工作点（ ）。\nA、 选在交流负载线的中点 B、 沿交流负载线下移，使静态集电极电流降低\nC、 沿交流负载线继续下移，使静态集电极电流等于零 D、 选在交流负载线的上方\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 97,
+          "question_id": 125,
+          "label": "A",
+          "content": "选在交流负载线的中点"
+        },
+        {
+          "id": 98,
+          "question_id": 125,
+          "label": "B",
+          "content": "沿交流负载线下移，使静态集电极电流降低"
+        },
+        {
+          "id": 99,
+          "question_id": 125,
+          "label": "C",
+          "content": "沿交流负载线继续下移，使静态集电极电流等于零"
+        },
+        {
+          "id": 100,
+          "question_id": 125,
+          "label": "D",
+          "content": "选在交流负载线的上方"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 126,
+      "source_no": 126,
+      "type": "single_choice",
+      "stem": "变压器的作用原理是什么（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "126.变压器的作用原理是什么（ ）。\nA、 绕组的匝比等于电压比 B、 原、副边绕组的耦合\nC、 由于磁通的变化而产生电势 D、 根据电磁感应原理\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 101,
+          "question_id": 126,
+          "label": "A",
+          "content": "绕组的匝比等于电压比"
+        },
+        {
+          "id": 102,
+          "question_id": 126,
+          "label": "B",
+          "content": "原、副边绕组的耦合"
+        },
+        {
+          "id": 103,
+          "question_id": 126,
+          "label": "C",
+          "content": "由于磁通的变化而产生电势"
+        },
+        {
+          "id": 104,
+          "question_id": 126,
+          "label": "D",
+          "content": "根据电磁感应原理"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 127,
+      "source_no": 127,
+      "type": "single_choice",
+      "stem": "测量电力电缆绝缘电阻时，1000V及以上的电缆用2500V兆欧表，摇速达120转/分后 ，应读取（ ）以后的数值。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "127.测量电力电缆绝缘电阻时，1000V及以上的电缆用2500V兆欧表，摇速达120转/分后\n，应读取（ ）以后的数值。\nA、 0.5分钟 B、 1分钟 C、 2分钟 D、 3分钟\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 105,
+          "question_id": 127,
+          "label": "A",
+          "content": "0.5分钟"
+        },
+        {
+          "id": 106,
+          "question_id": 127,
+          "label": "B",
+          "content": "1分钟"
+        },
+        {
+          "id": 107,
+          "question_id": 127,
+          "label": "C",
+          "content": "2分钟"
+        },
+        {
+          "id": 108,
+          "question_id": 127,
+          "label": "D",
+          "content": "3分钟"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 128,
+      "source_no": 128,
+      "type": "single_choice",
+      "stem": "从劳动定额管理方面判断下列（ ）可以缩短机动时间。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "128.从劳动定额管理方面判断下列（ ）可以缩短机动时间。\nA、 提高设备自动化程度 B、 合理布置工作场地\nC、 延长工人休息时间 D、 缩短设备修理时间\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 109,
+          "question_id": 128,
+          "label": "A",
+          "content": "提高设备自动化程度"
+        },
+        {
+          "id": 110,
+          "question_id": 128,
+          "label": "B",
+          "content": "合理布置工作场地"
+        },
+        {
+          "id": 111,
+          "question_id": 128,
+          "label": "C",
+          "content": "延长工人休息时间"
+        },
+        {
+          "id": 112,
+          "question_id": 128,
+          "label": "D",
+          "content": "缩短设备修理时间"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 129,
+      "source_no": 129,
+      "type": "single_choice",
+      "stem": "当同步电动机在额定电压下带额定负载运行时，调节励磁电流大小，可改变（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "129.当同步电动机在额定电压下带额定负载运行时，调节励磁电流大小，可改变（\n）。\nA、 输入电动机的无功功率 B、 电动机输出转矩\nC、 输入电动机有功功率 D、 同步电动机的转速\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 113,
+          "question_id": 129,
+          "label": "A",
+          "content": "输入电动机的无功功率"
+        },
+        {
+          "id": 114,
+          "question_id": 129,
+          "label": "B",
+          "content": "电动机输出转矩"
+        },
+        {
+          "id": 115,
+          "question_id": 129,
+          "label": "C",
+          "content": "输入电动机有功功率"
+        },
+        {
+          "id": 116,
+          "question_id": 129,
+          "label": "D",
+          "content": "同步电动机的转速"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 130,
+      "source_no": 130,
+      "type": "single_choice",
+      "stem": "运行中的同步发电机因负载的增大使电压频率降低，俗欲将降低的频率提高到规定 值，应（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "130.运行中的同步发电机因负载的增大使电压频率降低，俗欲将降低的频率提高到规定\n值，应（ ）。\nA、 增大励磁电流 B、 减小励磁电流 C、 提高发电机的转速 D、\n降低发电机的转速\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 117,
+          "question_id": 130,
+          "label": "A",
+          "content": "增大励磁电流"
+        },
+        {
+          "id": 118,
+          "question_id": 130,
+          "label": "B",
+          "content": "减小励磁电流"
+        },
+        {
+          "id": 119,
+          "question_id": 130,
+          "label": "C",
+          "content": "提高发电机的转速"
+        },
+        {
+          "id": 120,
+          "question_id": 130,
+          "label": "D",
+          "content": "降低发电机的转速"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 131,
+      "source_no": 131,
+      "type": "single_choice",
+      "stem": "下列关于电机安装的说法，（ ）是正确的。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "131.下列关于电机安装的说法，（ ）是正确的。\nA、 水平安装的电机只须纵向水平即可 B、\n水平安装的电机只须纵向、横向水平即可\nC、 轴传动的电机只要轴向在一个中心线即可\nD、 电机安装必须纵向、横向水平校正和传动装置校正\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 121,
+          "question_id": 131,
+          "label": "A",
+          "content": "水平安装的电机只须纵向水平即可"
+        },
+        {
+          "id": 122,
+          "question_id": 131,
+          "label": "B",
+          "content": "水平安装的电机只须纵向、横向水平即可"
+        },
+        {
+          "id": 123,
+          "question_id": 131,
+          "label": "C",
+          "content": "轴传动的电机只要轴向在一个中心线即可"
+        },
+        {
+          "id": 124,
+          "question_id": 131,
+          "label": "D",
+          "content": "电机安装必须纵向、横向水平校正和传动装置校正"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 132,
+      "source_no": 132,
+      "type": "single_choice",
+      "stem": "钢筋混凝土电杆的整体起吊的施工方案包括（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "132.钢筋混凝土电杆的整体起吊的施工方案包括（ ）。\nA、 施工方法及平面布置，操作注意事项 B、 施工方法及平面布置，安全措施\nC、 施工方法及平面布置，操作注意事项，安全措施\nD、 施工方法及平面布置，工器具的选择，操作注意事项，安全措施\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 125,
+          "question_id": 132,
+          "label": "A",
+          "content": "施工方法及平面布置，操作注意事项"
+        },
+        {
+          "id": 126,
+          "question_id": 132,
+          "label": "B",
+          "content": "施工方法及平面布置，安全措施"
+        },
+        {
+          "id": 127,
+          "question_id": 132,
+          "label": "C",
+          "content": "施工方法及平面布置，操作注意事项，安全措施"
+        },
+        {
+          "id": 128,
+          "question_id": 132,
+          "label": "D",
+          "content": "施工方法及平面布置，工器具的选择，操作注意事项，安全措施"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 133,
+      "source_no": 133,
+      "type": "single_choice",
+      "stem": "三相半波可控整流电路中，每只晶闸管正向通态平均电流为负载平均电流的（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "133.三相半波可控整流电路中，每只晶闸管正向通态平均电流为负载平均电流的（\n）。\nA、 1 B、 1/2 C、 1/3 D、 1/6\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 129,
+          "question_id": 133,
+          "label": "A",
+          "content": "1"
+        },
+        {
+          "id": 130,
+          "question_id": 133,
+          "label": "B",
+          "content": "1/2"
+        },
+        {
+          "id": 131,
+          "question_id": 133,
+          "label": "C",
+          "content": "1/3"
+        },
+        {
+          "id": 132,
+          "question_id": 133,
+          "label": "D",
+          "content": "1/6"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 134,
+      "source_no": 134,
+      "type": "single_choice",
+      "stem": "按工时额定时间的组成，作业时间分为基本时间和辅助时间，下列（ ）工作时 间属辅助时间。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "134.按工时额定时间的组成，作业时间分为基本时间和辅助时间，下列（ ）工作时\n间属辅助时间。\nA、 机加工时机床自动走刀时间 B、 机加工电钻钻孔时间\nC、 利用手工制造工件的刮、锉时间 D、 在金属切削加工中退刀时间\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 133,
+          "question_id": 134,
+          "label": "A",
+          "content": "机加工时机床自动走刀时间"
+        },
+        {
+          "id": 134,
+          "question_id": 134,
+          "label": "B",
+          "content": "机加工电钻钻孔时间"
+        },
+        {
+          "id": 135,
+          "question_id": 134,
+          "label": "C",
+          "content": "利用手工制造工件的刮、锉时间"
+        },
+        {
+          "id": 136,
+          "question_id": 134,
+          "label": "D",
+          "content": "在金属切削加工中退刀时间"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 135,
+      "source_no": 135,
+      "type": "single_choice",
+      "stem": "单相桥式半控整流一般使用（ ）只整流二极管。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "135.单相桥式半控整流一般使用（ ）只整流二极管。\nA、 1 B、 2 C、 3 D、 4\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 137,
+          "question_id": 135,
+          "label": "A",
+          "content": "1"
+        },
+        {
+          "id": 138,
+          "question_id": 135,
+          "label": "B",
+          "content": "2"
+        },
+        {
+          "id": 139,
+          "question_id": 135,
+          "label": "C",
+          "content": "3"
+        },
+        {
+          "id": 140,
+          "question_id": 135,
+          "label": "D",
+          "content": "4"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 136,
+      "source_no": 136,
+      "type": "single_choice",
+      "stem": "制作35KV铝套管式中间接头时，由接头中心向两侧各量（ ）距离作为剖铅记号 。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "136.制作35KV铝套管式中间接头时，由接头中心向两侧各量（ ）距离作为剖铅记号\n。\nA、 150mm B、 225mm C、 300mm D、 325mm\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 141,
+          "question_id": 136,
+          "label": "A",
+          "content": "150mm"
+        },
+        {
+          "id": 142,
+          "question_id": 136,
+          "label": "B",
+          "content": "225mm"
+        },
+        {
+          "id": 143,
+          "question_id": 136,
+          "label": "C",
+          "content": "300mm"
+        },
+        {
+          "id": 144,
+          "question_id": 136,
+          "label": "D",
+          "content": "325mm"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 137,
+      "source_no": 137,
+      "type": "single_choice",
+      "stem": "真空断路器的触头常采取（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "137.真空断路器的触头常采取（ ）。\nA、 桥式触头 B、 指形触头 C、 辫形触头 D、 对接式触头\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 145,
+          "question_id": 137,
+          "label": "A",
+          "content": "桥式触头"
+        },
+        {
+          "id": 146,
+          "question_id": 137,
+          "label": "B",
+          "content": "指形触头"
+        },
+        {
+          "id": 147,
+          "question_id": 137,
+          "label": "C",
+          "content": "辫形触头"
+        },
+        {
+          "id": 148,
+          "question_id": 137,
+          "label": "D",
+          "content": "对接式触头"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 138,
+      "source_no": 138,
+      "type": "single_choice",
+      "stem": "微型计算机是以（ ）为核心，加上存贮器、输入输出接口、系统部线等组成的 。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "138.微型计算机是以（ ）为核心，加上存贮器、输入输出接口、系统部线等组成的\n。\nA、 运算器 B、 控制器 C、 寄存器 D、 微处理器\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 149,
+          "question_id": 138,
+          "label": "A",
+          "content": "运算器"
+        },
+        {
+          "id": 150,
+          "question_id": 138,
+          "label": "B",
+          "content": "控制器"
+        },
+        {
+          "id": 151,
+          "question_id": 138,
+          "label": "C",
+          "content": "寄存器"
+        },
+        {
+          "id": 152,
+          "question_id": 138,
+          "label": "D",
+          "content": "微处理器"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 139,
+      "source_no": 139,
+      "type": "single_choice",
+      "stem": "FN3-10型负荷开关的结构主要有哪些（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "139.FN3-10型负荷开关的结构主要有哪些（ ）。\nA、 有支柱绝缘子，金属框架，灭弧，操作机构\nB、 有动静触头，熔断器，操作机构，支柱绝缘子\nC、 有分闸弹簧，刀闸，支柱绝缘子，缓冲装置\nD、 有操作机构，金属框架，熔断器，缓冲装置\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 153,
+          "question_id": 139,
+          "label": "A",
+          "content": "有支柱绝缘子，金属框架，灭弧，操作机构"
+        },
+        {
+          "id": 154,
+          "question_id": 139,
+          "label": "B",
+          "content": "有动静触头，熔断器，操作机构，支柱绝缘子"
+        },
+        {
+          "id": 155,
+          "question_id": 139,
+          "label": "C",
+          "content": "有分闸弹簧，刀闸，支柱绝缘子，缓冲装置"
+        },
+        {
+          "id": 156,
+          "question_id": 139,
+          "label": "D",
+          "content": "有操作机构，金属框架，熔断器，缓冲装置"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 140,
+      "source_no": 140,
+      "type": "single_choice",
+      "stem": "在线性电路中，叠加原理不适用于（ ）的计算。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "140.在线性电路中，叠加原理不适用于（ ）的计算。\nA、 电压 B、 电流 C、 电动势 D、 功率\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 157,
+          "question_id": 140,
+          "label": "A",
+          "content": "电压"
+        },
+        {
+          "id": 158,
+          "question_id": 140,
+          "label": "B",
+          "content": "电流"
+        },
+        {
+          "id": 159,
+          "question_id": 140,
+          "label": "C",
+          "content": "电动势"
+        },
+        {
+          "id": 160,
+          "question_id": 140,
+          "label": "D",
+          "content": "功率"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 141,
+      "source_no": 141,
+      "type": "single_choice",
+      "stem": "晶闸管工作时只有导通和阻断两种状态，因此可用它制成（ ）开关。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "141.晶闸管工作时只有导通和阻断两种状态，因此可用它制成（ ）开关。\nA、 交流无触点 B、 交流有触点 C、 直流无触点 D、 直流有触点\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 161,
+          "question_id": 141,
+          "label": "A",
+          "content": "交流无触点"
+        },
+        {
+          "id": 162,
+          "question_id": 141,
+          "label": "B",
+          "content": "交流有触点"
+        },
+        {
+          "id": 163,
+          "question_id": 141,
+          "label": "C",
+          "content": "直流无触点"
+        },
+        {
+          "id": 164,
+          "question_id": 141,
+          "label": "D",
+          "content": "直流有触点"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 142,
+      "source_no": 142,
+      "type": "single_choice",
+      "stem": "在发生带负荷错拉刀闸，而弧光未被拉断时，应怎样处理（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "142.在发生带负荷错拉刀闸，而弧光未被拉断时，应怎样处理（ ）。\nA、 立即将刀闸合上 B、 继续拉开刀闸至全开 C、 停止操作 D、\n赶快离开至安全地方\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 165,
+          "question_id": 142,
+          "label": "A",
+          "content": "立即将刀闸合上"
+        },
+        {
+          "id": 166,
+          "question_id": 142,
+          "label": "B",
+          "content": "继续拉开刀闸至全开"
+        },
+        {
+          "id": 167,
+          "question_id": 142,
+          "label": "C",
+          "content": "停止操作"
+        },
+        {
+          "id": 168,
+          "question_id": 142,
+          "label": "D",
+          "content": "赶快离开至安全地方"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 143,
+      "source_no": 143,
+      "type": "single_choice",
+      "stem": "晶闸管完全导通后，阳阴极之间的电压应该（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "143.晶闸管完全导通后，阳阴极之间的电压应该（ ）。\nA、 等于0 B、 小于0 C、 越大越好 D、 越小越好\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 169,
+          "question_id": 143,
+          "label": "A",
+          "content": "等于0"
+        },
+        {
+          "id": 170,
+          "question_id": 143,
+          "label": "B",
+          "content": "小于0"
+        },
+        {
+          "id": 171,
+          "question_id": 143,
+          "label": "C",
+          "content": "越大越好"
+        },
+        {
+          "id": 172,
+          "question_id": 143,
+          "label": "D",
+          "content": "越小越好"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 144,
+      "source_no": 144,
+      "type": "single_choice",
+      "stem": "大型同步电动机的机座一般采用（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "144.大型同步电动机的机座一般采用（ ）。\nA、 铸铁 B、 铸钢 C、 钢板焊接 D、 钢管\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 173,
+          "question_id": 144,
+          "label": "A",
+          "content": "铸铁"
+        },
+        {
+          "id": 174,
+          "question_id": 144,
+          "label": "B",
+          "content": "铸钢"
+        },
+        {
+          "id": 175,
+          "question_id": 144,
+          "label": "C",
+          "content": "钢板焊接"
+        },
+        {
+          "id": 176,
+          "question_id": 144,
+          "label": "D",
+          "content": "钢管"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 145,
+      "source_no": 145,
+      "type": "single_choice",
+      "stem": "直流放大器有下列（ ）形式。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "145.直流放大器有下列（ ）形式。\nA、 直接耦合放大器 B、 差动式直流放大器\nC、 调制式直流放大器和直流运算放大器 D、 含C\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 177,
+          "question_id": 145,
+          "label": "A",
+          "content": "直接耦合放大器"
+        },
+        {
+          "id": 178,
+          "question_id": 145,
+          "label": "B",
+          "content": "差动式直流放大器"
+        },
+        {
+          "id": 179,
+          "question_id": 145,
+          "label": "C",
+          "content": "调制式直流放大器和直流运算放大器"
+        },
+        {
+          "id": 180,
+          "question_id": 145,
+          "label": "D",
+          "content": "含C"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 146,
+      "source_no": 146,
+      "type": "single_choice",
+      "stem": "单结晶体管触发电路的移相范围为（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "146.单结晶体管触发电路的移相范围为（ ）。\nA、 90° B、 120° C、 150° D、 180°\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 181,
+          "question_id": 146,
+          "label": "A",
+          "content": "90°"
+        },
+        {
+          "id": 182,
+          "question_id": 146,
+          "label": "B",
+          "content": "120°"
+        },
+        {
+          "id": 183,
+          "question_id": 146,
+          "label": "C",
+          "content": "150°"
+        },
+        {
+          "id": 184,
+          "question_id": 146,
+          "label": "D",
+          "content": "180°"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 147,
+      "source_no": 147,
+      "type": "single_choice",
+      "stem": "通电线圈插入铁芯后，线圈内的磁通会（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "147.通电线圈插入铁芯后，线圈内的磁通会（ ）。\nA、 增大 B、 减小 C、 不变 D、 可能减小\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 185,
+          "question_id": 147,
+          "label": "A",
+          "content": "增大"
+        },
+        {
+          "id": 186,
+          "question_id": 147,
+          "label": "B",
+          "content": "减小"
+        },
+        {
+          "id": 187,
+          "question_id": 147,
+          "label": "C",
+          "content": "不变"
+        },
+        {
+          "id": 188,
+          "question_id": 147,
+          "label": "D",
+          "content": "可能减小"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 148,
+      "source_no": 148,
+      "type": "single_choice",
+      "stem": "判断感应电动势的大小要用（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "148.判断感应电动势的大小要用（ ）。\nA、 法拉第定律 B、 楞次定律 C、 安培定则 D、 欧姆定律\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 189,
+          "question_id": 148,
+          "label": "A",
+          "content": "法拉第定律"
+        },
+        {
+          "id": 190,
+          "question_id": 148,
+          "label": "B",
+          "content": "楞次定律"
+        },
+        {
+          "id": 191,
+          "question_id": 148,
+          "label": "C",
+          "content": "安培定则"
+        },
+        {
+          "id": 192,
+          "question_id": 148,
+          "label": "D",
+          "content": "欧姆定律"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 149,
+      "source_no": 149,
+      "type": "single_choice",
+      "stem": "已知某三极管的集电极电阻RC＝1KΩ，电源电压UGB＝6V，三极管的发射极直接接地 ，则三极管截止时的集电极电流IC为（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "149.已知某三极管的集电极电阻RC＝1KΩ，电源电压UGB＝6V，三极管的发射极直接接地\n，则三极管截止时的集电极电流IC为（ ）。\nA、 6mA B、 0 C、 ∞ D、 5.3mA\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 193,
+          "question_id": 149,
+          "label": "A",
+          "content": "6mA"
+        },
+        {
+          "id": 194,
+          "question_id": 149,
+          "label": "B",
+          "content": "0"
+        },
+        {
+          "id": 195,
+          "question_id": 149,
+          "label": "C",
+          "content": "∞"
+        },
+        {
+          "id": 196,
+          "question_id": 149,
+          "label": "D",
+          "content": "5.3mA"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 150,
+      "source_no": 150,
+      "type": "single_choice",
+      "stem": "若发现变压器的油温较平时相同负载和相同冷却条件下高出（ ）时，应考虑变 压器内部已发生故障。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "150.若发现变压器的油温较平时相同负载和相同冷却条件下高出（ ）时，应考虑变\n压器内部已发生故障。\nA、 5℃ B、 10℃ C、 15℃ D、 20℃\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 197,
+          "question_id": 150,
+          "label": "A",
+          "content": "5℃"
+        },
+        {
+          "id": 198,
+          "question_id": 150,
+          "label": "B",
+          "content": "10℃"
+        },
+        {
+          "id": 199,
+          "question_id": 150,
+          "label": "C",
+          "content": "15℃"
+        },
+        {
+          "id": 200,
+          "question_id": 150,
+          "label": "D",
+          "content": "20℃"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 151,
+      "source_no": 151,
+      "type": "single_choice",
+      "stem": "110KV以上电力变压器的主要结构有哪些（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "151.110KV以上电力变压器的主要结构有哪些（ ）。\n铁芯、绕组、外壳 B、 铁芯、外壳、套管\nC、 绕组、导电杆、变压器 D、 铁芯、绕组、外壳、套管及冷却系统\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 201,
+          "question_id": 151,
+          "label": "A",
+          "content": "铁芯、绕组、外壳"
+        },
+        {
+          "id": 202,
+          "question_id": 151,
+          "label": "B",
+          "content": "铁芯、外壳、套管"
+        },
+        {
+          "id": 203,
+          "question_id": 151,
+          "label": "C",
+          "content": "绕组、导电杆、变压器"
+        },
+        {
+          "id": 204,
+          "question_id": 151,
+          "label": "D",
+          "content": "铁芯、绕组、外壳、套管及冷却系统"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 152,
+      "source_no": 152,
+      "type": "single_choice",
+      "stem": "判断下列哪一项不属于工时定额的组成部分（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "152.判断下列哪一项不属于工时定额的组成部分（ ）。\nA、 作业时间 B、 工人开会学习时间 C、 休息时间 D、 准备与结束时间\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 205,
+          "question_id": 152,
+          "label": "A",
+          "content": "作业时间"
+        },
+        {
+          "id": 206,
+          "question_id": 152,
+          "label": "B",
+          "content": "工人开会学习时间"
+        },
+        {
+          "id": 207,
+          "question_id": 152,
+          "label": "C",
+          "content": "休息时间"
+        },
+        {
+          "id": 208,
+          "question_id": 152,
+          "label": "D",
+          "content": "准备与结束时间"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 153,
+      "source_no": 153,
+      "type": "single_choice",
+      "stem": "在真空断路器大修后必须检验合闸接触器是否动作灵活，其最低动作电压应是额定 电压的（ ）倍。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "153.在真空断路器大修后必须检验合闸接触器是否动作灵活，其最低动作电压应是额定\n电压的（ ）倍。\nA、 50% B、 80% C、 85% D、 90%\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 209,
+          "question_id": 153,
+          "label": "A",
+          "content": "50%"
+        },
+        {
+          "id": 210,
+          "question_id": 153,
+          "label": "B",
+          "content": "80%"
+        },
+        {
+          "id": 211,
+          "question_id": 153,
+          "label": "C",
+          "content": "85%"
+        },
+        {
+          "id": 212,
+          "question_id": 153,
+          "label": "D",
+          "content": "90%"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 154,
+      "source_no": 154,
+      "type": "single_choice",
+      "stem": "当线圈中的磁通减少时，感应电流的磁通方向与原磁通方向（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "154.当线圈中的磁通减少时，感应电流的磁通方向与原磁通方向（ ）。\nA、 相同 B、 相反 C、 无关 D、 相同或相反\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 213,
+          "question_id": 154,
+          "label": "A",
+          "content": "相同"
+        },
+        {
+          "id": 214,
+          "question_id": 154,
+          "label": "B",
+          "content": "相反"
+        },
+        {
+          "id": 215,
+          "question_id": 154,
+          "label": "C",
+          "content": "无关"
+        },
+        {
+          "id": 216,
+          "question_id": 154,
+          "label": "D",
+          "content": "相同或相反"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 155,
+      "source_no": 155,
+      "type": "single_choice",
+      "stem": "直流电机换向不良的故障原因是（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "155.直流电机换向不良的故障原因是（ ）。\nA、 电磁、负载、化学、温度 B、 机械、电热、化学、绝缘\nC、 电磁、机械、电热、化学 D、 电磁、机械、温度、绝缘\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 217,
+          "question_id": 155,
+          "label": "A",
+          "content": "电磁、负载、化学、温度"
+        },
+        {
+          "id": 218,
+          "question_id": 155,
+          "label": "B",
+          "content": "机械、电热、化学、绝缘"
+        },
+        {
+          "id": 219,
+          "question_id": 155,
+          "label": "C",
+          "content": "电磁、机械、电热、化学"
+        },
+        {
+          "id": 220,
+          "question_id": 155,
+          "label": "D",
+          "content": "电磁、机械、温度、绝缘"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 156,
+      "source_no": 156,
+      "type": "single_choice",
+      "stem": "当换向器表面粗糙，轻度烧伤时，应使用（ ）除去缺陷。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "156.当换向器表面粗糙，轻度烧伤时，应使用（ ）除去缺陷。\nA、 金刚砂布 B、 板锉 C、 N320细砂布 D、 车床\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 221,
+          "question_id": 156,
+          "label": "A",
+          "content": "金刚砂布"
+        },
+        {
+          "id": 222,
+          "question_id": 156,
+          "label": "B",
+          "content": "板锉"
+        },
+        {
+          "id": 223,
+          "question_id": 156,
+          "label": "C",
+          "content": "N320细砂布"
+        },
+        {
+          "id": 224,
+          "question_id": 156,
+          "label": "D",
+          "content": "车床"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 157,
+      "source_no": 157,
+      "type": "single_choice",
+      "stem": "变电所交流回路B相断线10分钟，这时电能表的转速下降为原来的多少（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "157.变电所交流回路B相断线10分钟，这时电能表的转速下降为原来的多少（ ）。\nA、 1/4 B、 1/3 C、 1/2 D、 2/3\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 225,
+          "question_id": 157,
+          "label": "A",
+          "content": "1/4"
+        },
+        {
+          "id": 226,
+          "question_id": 157,
+          "label": "B",
+          "content": "1/3"
+        },
+        {
+          "id": 227,
+          "question_id": 157,
+          "label": "C",
+          "content": "1/2"
+        },
+        {
+          "id": 228,
+          "question_id": 157,
+          "label": "D",
+          "content": "2/3"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 158,
+      "source_no": 158,
+      "type": "single_choice",
+      "stem": "防止环火的有效措施之一是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "158.防止环火的有效措施之一是（ ）。\nA、 选择适当电刷 B、 装置补偿绕组 C、 移动电刷位置 D、 更换换向极\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 229,
+          "question_id": 158,
+          "label": "A",
+          "content": "选择适当电刷"
+        },
+        {
+          "id": 230,
+          "question_id": 158,
+          "label": "B",
+          "content": "装置补偿绕组"
+        },
+        {
+          "id": 231,
+          "question_id": 158,
+          "label": "C",
+          "content": "移动电刷位置"
+        },
+        {
+          "id": 232,
+          "question_id": 158,
+          "label": "D",
+          "content": "更换换向极"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 159,
+      "source_no": 159,
+      "type": "single_choice",
+      "stem": "在闭合电路中，电源端电压随负载的增大而（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "159.在闭合电路中，电源端电压随负载的增大而（ ）。\nA、 减小 B、 增大 C、 不变 D、 不确定\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 233,
+          "question_id": 159,
+          "label": "A",
+          "content": "减小"
+        },
+        {
+          "id": 234,
+          "question_id": 159,
+          "label": "B",
+          "content": "增大"
+        },
+        {
+          "id": 235,
+          "question_id": 159,
+          "label": "C",
+          "content": "不变"
+        },
+        {
+          "id": 236,
+          "question_id": 159,
+          "label": "D",
+          "content": "不确定"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 160,
+      "source_no": 160,
+      "type": "single_choice",
+      "stem": "隔离开关不能用于下述哪种操作（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "160.隔离开关不能用于下述哪种操作（ ）。\nA、 切断短路电流 B、 切断小电流，隔离带电设备\nC、 隔离电源，倒闸操作，切断小电流 D、 隔离电源，隔离故障，侧面操作\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 237,
+          "question_id": 160,
+          "label": "A",
+          "content": "切断短路电流"
+        },
+        {
+          "id": 238,
+          "question_id": 160,
+          "label": "B",
+          "content": "切断小电流，隔离带电设备"
+        },
+        {
+          "id": 239,
+          "question_id": 160,
+          "label": "C",
+          "content": "隔离电源，倒闸操作，切断小电流"
+        },
+        {
+          "id": 240,
+          "question_id": 160,
+          "label": "D",
+          "content": "隔离电源，隔离故障，侧面操作"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 161,
+      "source_no": 161,
+      "type": "single_choice",
+      "stem": "分析和计算复杂电路最基本的方法是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "161.分析和计算复杂电路最基本的方法是（ ）。\nA、 支路电流法 B、 回路电流法 C、 叠加原理 D、 节点电压法\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 241,
+          "question_id": 161,
+          "label": "A",
+          "content": "支路电流法"
+        },
+        {
+          "id": 242,
+          "question_id": 161,
+          "label": "B",
+          "content": "回路电流法"
+        },
+        {
+          "id": 243,
+          "question_id": 161,
+          "label": "C",
+          "content": "叠加原理"
+        },
+        {
+          "id": 244,
+          "question_id": 161,
+          "label": "D",
+          "content": "节点电压法"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 162,
+      "source_no": 162,
+      "type": "single_choice",
+      "stem": "电容耦合振荡器的最大特点是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "162.电容耦合振荡器的最大特点是（ ）。\nA、 输出波形好 B、 适用于工作频率低的场所 C、 频率调节容易 D、\n高次谐波分量大\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 245,
+          "question_id": 162,
+          "label": "A",
+          "content": "输出波形好"
+        },
+        {
+          "id": 246,
+          "question_id": 162,
+          "label": "B",
+          "content": "适用于工作频率低的场所"
+        },
+        {
+          "id": 247,
+          "question_id": 162,
+          "label": "C",
+          "content": "频率调节容易"
+        },
+        {
+          "id": 248,
+          "question_id": 162,
+          "label": "D",
+          "content": "高次谐波分量大"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 163,
+      "source_no": 163,
+      "type": "single_choice",
+      "stem": "好的绝缘油不应具有下列哪种性能（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "163.好的绝缘油不应具有下列哪种性能（ ）。\nA、 粘度大 B、 闪点高 C、 击穿电压高 D、 稳定性高\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 249,
+          "question_id": 163,
+          "label": "A",
+          "content": "粘度大"
+        },
+        {
+          "id": 250,
+          "question_id": 163,
+          "label": "B",
+          "content": "闪点高"
+        },
+        {
+          "id": 251,
+          "question_id": 163,
+          "label": "C",
+          "content": "击穿电压高"
+        },
+        {
+          "id": 252,
+          "question_id": 163,
+          "label": "D",
+          "content": "稳定性高"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 164,
+      "source_no": 164,
+      "type": "single_choice",
+      "stem": "阻容移相触发电路适用于（ ）的单相可控整流装置。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "164.阻容移相触发电路适用于（ ）的单相可控整流装置。\nA、 大功率 B、 控制精度要求高\nC、 小功率，控制精度要求高 D、 小功率，控制精度要求不高\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 253,
+          "question_id": 164,
+          "label": "A",
+          "content": "大功率"
+        },
+        {
+          "id": 254,
+          "question_id": 164,
+          "label": "B",
+          "content": "控制精度要求高"
+        },
+        {
+          "id": 255,
+          "question_id": 164,
+          "label": "C",
+          "content": "小功率，控制精度要求高"
+        },
+        {
+          "id": 256,
+          "question_id": 164,
+          "label": "D",
+          "content": "小功率，控制精度要求不高"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 165,
+      "source_no": 165,
+      "type": "single_choice",
+      "stem": "选择电力变压器容量大小时考虑变压器容量能够得到充分利用，负荷率应为（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "165.选择电力变压器容量大小时考虑变压器容量能够得到充分利用，负荷率应为（\n）。\nA、 30% B、 50% C、 75～90% D、 90～100%\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 257,
+          "question_id": 165,
+          "label": "A",
+          "content": "30%"
+        },
+        {
+          "id": 258,
+          "question_id": 165,
+          "label": "B",
+          "content": "50%"
+        },
+        {
+          "id": 259,
+          "question_id": 165,
+          "label": "C",
+          "content": "75～90%"
+        },
+        {
+          "id": 260,
+          "question_id": 165,
+          "label": "D",
+          "content": "90～100%"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 166,
+      "source_no": 166,
+      "type": "single_choice",
+      "stem": "目前电子电路中常用三端稳压块为集成电路提供稳定的（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "166.目前电子电路中常用三端稳压块为集成电路提供稳定的（ ）。\nA、 直流电流 B、 交流电流 C、 直流电压 D、 交流电压\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 261,
+          "question_id": 166,
+          "label": "A",
+          "content": "直流电流"
+        },
+        {
+          "id": 262,
+          "question_id": 166,
+          "label": "B",
+          "content": "交流电流"
+        },
+        {
+          "id": 263,
+          "question_id": 166,
+          "label": "C",
+          "content": "直流电压"
+        },
+        {
+          "id": 264,
+          "question_id": 166,
+          "label": "D",
+          "content": "交流电压"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 167,
+      "source_no": 167,
+      "type": "single_choice",
+      "stem": "运行中的发电机功率因数不能超过（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "167.运行中的发电机功率因数不能超过（ ）。\nA、 0.8 B、 0.85 C、 0.9 D、 0.95\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 265,
+          "question_id": 167,
+          "label": "A",
+          "content": "0.8"
+        },
+        {
+          "id": 266,
+          "question_id": 167,
+          "label": "B",
+          "content": "0.85"
+        },
+        {
+          "id": 267,
+          "question_id": 167,
+          "label": "C",
+          "content": "0.9"
+        },
+        {
+          "id": 268,
+          "question_id": 167,
+          "label": "D",
+          "content": "0.95"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 168,
+      "source_no": 168,
+      "type": "single_choice",
+      "stem": "变压器油应无气味，若感觉有酸味时，说明（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "168.变压器油应无气味，若感觉有酸味时，说明（ ）。\nA、 油干燥时过热 B、 油内水分含量高 C、 油内产生过电弧 D、 油严重老化\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 269,
+          "question_id": 168,
+          "label": "A",
+          "content": "油干燥时过热"
+        },
+        {
+          "id": 270,
+          "question_id": 168,
+          "label": "B",
+          "content": "油内水分含量高"
+        },
+        {
+          "id": 271,
+          "question_id": 168,
+          "label": "C",
+          "content": "油内产生过电弧"
+        },
+        {
+          "id": 272,
+          "question_id": 168,
+          "label": "D",
+          "content": "油严重老化"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 169,
+      "source_no": 169,
+      "type": "single_choice",
+      "stem": "高压线路的档距城市和居民区为（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "169.高压线路的档距城市和居民区为（ ）。\nA、 25～30mm B、 30～40mm C、 40～50mm D、 60～100mm\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 273,
+          "question_id": 169,
+          "label": "A",
+          "content": "25～30mm"
+        },
+        {
+          "id": 274,
+          "question_id": 169,
+          "label": "B",
+          "content": "30～40mm"
+        },
+        {
+          "id": 275,
+          "question_id": 169,
+          "label": "C",
+          "content": "40～50mm"
+        },
+        {
+          "id": 276,
+          "question_id": 169,
+          "label": "D",
+          "content": "60～100mm"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 170,
+      "source_no": 170,
+      "type": "single_choice",
+      "stem": "电力电缆故障发生的原因有哪些（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "170.电力电缆故障发生的原因有哪些（ ）。\nA、 机械损伤，绝缘受潮，绝缘老化 B、 绝缘受潮，绝缘老化，保护层腐蚀\nC、 过电压，过热 D、\n机械损伤，绝缘受潮，绝缘老化，保护层腐蚀，过电压，过热\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 277,
+          "question_id": 170,
+          "label": "A",
+          "content": "机械损伤，绝缘受潮，绝缘老化"
+        },
+        {
+          "id": 278,
+          "question_id": 170,
+          "label": "B",
+          "content": "绝缘受潮，绝缘老化，保护层腐蚀"
+        },
+        {
+          "id": 279,
+          "question_id": 170,
+          "label": "C",
+          "content": "过电压，过热"
+        },
+        {
+          "id": 280,
+          "question_id": 170,
+          "label": "D",
+          "content": "机械损伤，绝缘受潮，绝缘老化，保护层腐蚀，过电压，过热"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 171,
+      "source_no": 171,
+      "type": "single_choice",
+      "stem": "变压器投入运行后，每隔（ ）要小修一次。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "171.变压器投入运行后，每隔（ ）要小修一次。\nA、 1年 B、 2年 C、 3年 D、 4年\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 281,
+          "question_id": 171,
+          "label": "A",
+          "content": "1年"
+        },
+        {
+          "id": 282,
+          "question_id": 171,
+          "label": "B",
+          "content": "2年"
+        },
+        {
+          "id": 283,
+          "question_id": 171,
+          "label": "C",
+          "content": "3年"
+        },
+        {
+          "id": 284,
+          "question_id": 171,
+          "label": "D",
+          "content": "4年"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 172,
+      "source_no": 172,
+      "type": "single_choice",
+      "stem": "下列有关积复励发电机串励绕组的叙述中，错误的是（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "172.下列有关积复励发电机串励绕组的叙述中，错误的是（ ）。\nA、 补偿负载时电枢回路的电阻压降 B、 补偿电枢反应的的去磁作用\nC、 串励绕组与并励绕组产生的磁通方向相反 D、\n使发电机在一定负载范围内，基本上保持端电压的恒定\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 285,
+          "question_id": 172,
+          "label": "A",
+          "content": "补偿负载时电枢回路的电阻压降"
+        },
+        {
+          "id": 286,
+          "question_id": 172,
+          "label": "B",
+          "content": "补偿电枢反应的的去磁作用"
+        },
+        {
+          "id": 287,
+          "question_id": 172,
+          "label": "C",
+          "content": "串励绕组与并励绕组产生的磁通方向相反"
+        },
+        {
+          "id": 288,
+          "question_id": 172,
+          "label": "D",
+          "content": "使发电机在一定负载范围内，基本上保持端电压的恒定"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 173,
+      "source_no": 173,
+      "type": "single_choice",
+      "stem": "热继电器反复短时工作，操作次数过多，应如何排除（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "173.热继电器反复短时工作，操作次数过多，应如何排除（ ）。\nA、 适用合适的可返回时间系数的热继电器 B、 合理选用热继电器\nC、 选带防震装置的专用热继电器 D、 更换适合工作条件的热继电器\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 289,
+          "question_id": 173,
+          "label": "A",
+          "content": "适用合适的可返回时间系数的热继电器"
+        },
+        {
+          "id": 290,
+          "question_id": 173,
+          "label": "B",
+          "content": "合理选用热继电器"
+        },
+        {
+          "id": 291,
+          "question_id": 173,
+          "label": "C",
+          "content": "选带防震装置的专用热继电器"
+        },
+        {
+          "id": 292,
+          "question_id": 173,
+          "label": "D",
+          "content": "更换适合工作条件的热继电器"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 174,
+      "source_no": 174,
+      "type": "single_choice",
+      "stem": "电力变压器在额定电压下的冲击合闸试验要求是：在更换绕组后的预防性试验中应 合闸（ ）次。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "174.电力变压器在额定电压下的冲击合闸试验要求是：在更换绕组后的预防性试验中应\n合闸（ ）次。\nA、 三 B、 四 C、 五 D、 六\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 293,
+          "question_id": 174,
+          "label": "A",
+          "content": "三"
+        },
+        {
+          "id": 294,
+          "question_id": 174,
+          "label": "B",
+          "content": "四"
+        },
+        {
+          "id": 295,
+          "question_id": 174,
+          "label": "C",
+          "content": "五"
+        },
+        {
+          "id": 296,
+          "question_id": 174,
+          "label": "D",
+          "content": "六"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 175,
+      "source_no": 175,
+      "type": "single_choice",
+      "stem": "运行中的变压器，如果分接开关的导电部分接触不良则会产生什么现象（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "175.运行中的变压器，如果分接开关的导电部分接触不良则会产生什么现象（ ）。\nA、 过热现象，甚至烧毁整个变压器 B、 放电打火使变压器老化\nC、 一次电流不稳定，使变压器绕组发热 D、 产生过电压\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 297,
+          "question_id": 175,
+          "label": "A",
+          "content": "过热现象，甚至烧毁整个变压器"
+        },
+        {
+          "id": 298,
+          "question_id": 175,
+          "label": "B",
+          "content": "放电打火使变压器老化"
+        },
+        {
+          "id": 299,
+          "question_id": 175,
+          "label": "C",
+          "content": "一次电流不稳定，使变压器绕组发热"
+        },
+        {
+          "id": 300,
+          "question_id": 175,
+          "label": "D",
+          "content": "产生过电压"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 176,
+      "source_no": 176,
+      "type": "single_choice",
+      "stem": "电压测量法是在给设备或电路（ ）的情况下，通过测量关键的电压(或电位)大 小并同正常值比较，从而寻找故障点的方法。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "176.电压测量法是在给设备或电路（ ）的情况下，通过测量关键的电压(或电位)大\n小并同正常值比较，从而寻找故障点的方法。\nA、 通电 B、 不通电 C、 通电或不通电均可 D、 无规定\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 301,
+          "question_id": 176,
+          "label": "A",
+          "content": "通电"
+        },
+        {
+          "id": 302,
+          "question_id": 176,
+          "label": "B",
+          "content": "不通电"
+        },
+        {
+          "id": 303,
+          "question_id": 176,
+          "label": "C",
+          "content": "通电或不通电均可"
+        },
+        {
+          "id": 304,
+          "question_id": 176,
+          "label": "D",
+          "content": "无规定"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 177,
+      "source_no": 177,
+      "type": "single_choice",
+      "stem": "铜芯电缆用于二次回路时，规定在带有阻抗保护的电压回路用的导线截面积是（ ）mm2。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "177.铜芯电缆用于二次回路时，规定在带有阻抗保护的电压回路用的导线截面积是（\n）mm2。\nA、 1.5 B、 2.5 C、 4.0 D、 6.0\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 305,
+          "question_id": 177,
+          "label": "A",
+          "content": "1.5"
+        },
+        {
+          "id": 306,
+          "question_id": 177,
+          "label": "B",
+          "content": "2.5"
+        },
+        {
+          "id": 307,
+          "question_id": 177,
+          "label": "C",
+          "content": "4.0"
+        },
+        {
+          "id": 308,
+          "question_id": 177,
+          "label": "D",
+          "content": "6.0"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 178,
+      "source_no": 178,
+      "type": "single_choice",
+      "stem": "对于有分路电阻的阀型避雷器，当分路电阻断裂时，其电导电流怎样变化（ ） 。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "178.对于有分路电阻的阀型避雷器，当分路电阻断裂时，其电导电流怎样变化（ ）\n。\nA、 明显下降 B、 下降至零 C、 急剧增加 D、 不变\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 309,
+          "question_id": 178,
+          "label": "A",
+          "content": "明显下降"
+        },
+        {
+          "id": 310,
+          "question_id": 178,
+          "label": "B",
+          "content": "下降至零"
+        },
+        {
+          "id": 311,
+          "question_id": 178,
+          "label": "C",
+          "content": "急剧增加"
+        },
+        {
+          "id": 312,
+          "question_id": 178,
+          "label": "D",
+          "content": "不变"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 179,
+      "source_no": 179,
+      "type": "single_choice",
+      "stem": "17化成二进制数为（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "179.17化成二进制数为（ ）。\nA、 10001 B、 10101 C、 10111 D、 10010\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 313,
+          "question_id": 179,
+          "label": "A",
+          "content": "10001"
+        },
+        {
+          "id": 314,
+          "question_id": 179,
+          "label": "B",
+          "content": "10101"
+        },
+        {
+          "id": 315,
+          "question_id": 179,
+          "label": "C",
+          "content": "10111"
+        },
+        {
+          "id": 316,
+          "question_id": 179,
+          "label": "D",
+          "content": "10010"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 180,
+      "source_no": 180,
+      "type": "single_choice",
+      "stem": "HTL与TTL与非门相比，具有（ ）的特点。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "180.HTL与TTL与非门相比，具有（ ）的特点。\nA、 HTL比TTL集成度高 B、 HTL比TTL运行速度高\nC、 HTL比TTL抗干扰能力高 D、 各种性能都一样\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 317,
+          "question_id": 180,
+          "label": "A",
+          "content": "HTL比TTL集成度高"
+        },
+        {
+          "id": 318,
+          "question_id": 180,
+          "label": "B",
+          "content": "HTL比TTL运行速度高"
+        },
+        {
+          "id": 319,
+          "question_id": 180,
+          "label": "C",
+          "content": "HTL比TTL抗干扰能力高"
+        },
+        {
+          "id": 320,
+          "question_id": 180,
+          "label": "D",
+          "content": "各种性能都一样"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 181,
+      "source_no": 181,
+      "type": "single_choice",
+      "stem": "MF30型万用表采用的是（ ）测量机构。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "181.MF30型万用表采用的是（ ）测量机构。\nA、 电磁系 B、 感应系 C、 磁电系 D、 电动系\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 321,
+          "question_id": 181,
+          "label": "A",
+          "content": "电磁系"
+        },
+        {
+          "id": 322,
+          "question_id": 181,
+          "label": "B",
+          "content": "感应系"
+        },
+        {
+          "id": 323,
+          "question_id": 181,
+          "label": "C",
+          "content": "磁电系"
+        },
+        {
+          "id": 324,
+          "question_id": 181,
+          "label": "D",
+          "content": "电动系"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 182,
+      "source_no": 182,
+      "type": "single_choice",
+      "stem": "下列（ ）触发方式不属于可控硅触发电路。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "182.下列（ ）触发方式不属于可控硅触发电路。\nA、 阻容触发 B、 桥式移相触发 C、 饱和电抗器触发 D、 大功率二极管触发\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 325,
+          "question_id": 182,
+          "label": "A",
+          "content": "阻容触发"
+        },
+        {
+          "id": 326,
+          "question_id": 182,
+          "label": "B",
+          "content": "桥式移相触发"
+        },
+        {
+          "id": 327,
+          "question_id": 182,
+          "label": "C",
+          "content": "饱和电抗器触发"
+        },
+        {
+          "id": 328,
+          "question_id": 182,
+          "label": "D",
+          "content": "大功率二极管触发"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 183,
+      "source_no": 183,
+      "type": "single_choice",
+      "stem": "变压器装设的过流保护是变压器的（ ）保护。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "183.变压器装设的过流保护是变压器的（ ）保护。\nA、 负荷过流的主保护 B、 差动保护的后备保护\nC、 瓦斯保护的后备保护 D、 线圈相间短路的主保护\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 329,
+          "question_id": 183,
+          "label": "A",
+          "content": "负荷过流的主保护"
+        },
+        {
+          "id": 330,
+          "question_id": 183,
+          "label": "B",
+          "content": "差动保护的后备保护"
+        },
+        {
+          "id": 331,
+          "question_id": 183,
+          "label": "C",
+          "content": "瓦斯保护的后备保护"
+        },
+        {
+          "id": 332,
+          "question_id": 183,
+          "label": "D",
+          "content": "线圈相间短路的主保护"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 184,
+      "source_no": 184,
+      "type": "single_choice",
+      "stem": "下列不属于提高功率因数方法的是（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "184.下列不属于提高功率因数方法的是（ ）。\nA、 利用过励磁的同步电机进行无功补偿 B、 利用调相机做无功功率电源\nC、 利用电力电容进行无功补偿 D、 利用大容量的电动机来带动小功率负载\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 333,
+          "question_id": 184,
+          "label": "A",
+          "content": "利用过励磁的同步电机进行无功补偿"
+        },
+        {
+          "id": 334,
+          "question_id": 184,
+          "label": "B",
+          "content": "利用调相机做无功功率电源"
+        },
+        {
+          "id": 335,
+          "question_id": 184,
+          "label": "C",
+          "content": "利用电力电容进行无功补偿"
+        },
+        {
+          "id": 336,
+          "question_id": 184,
+          "label": "D",
+          "content": "利用大容量的电动机来带动小功率负载"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 185,
+      "source_no": 185,
+      "type": "single_choice",
+      "stem": "电路的视在功率等于总电压与（ ）的乘积。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "185.电路的视在功率等于总电压与（ ）的乘积。\nA、 总电流 B、 总电阻 C、 总阻抗 D、 总功率\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 337,
+          "question_id": 185,
+          "label": "A",
+          "content": "总电流"
+        },
+        {
+          "id": 338,
+          "question_id": 185,
+          "label": "B",
+          "content": "总电阻"
+        },
+        {
+          "id": 339,
+          "question_id": 185,
+          "label": "C",
+          "content": "总阻抗"
+        },
+        {
+          "id": 340,
+          "question_id": 185,
+          "label": "D",
+          "content": "总功率"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 186,
+      "source_no": 186,
+      "type": "single_choice",
+      "stem": "变压器在运输和装卸中要求倾斜角度不应大于（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "186.变压器在运输和装卸中要求倾斜角度不应大于（ ）。\nA、 10° B、 12° C、 15° D、 20°\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 341,
+          "question_id": 186,
+          "label": "A",
+          "content": "10°"
+        },
+        {
+          "id": 342,
+          "question_id": 186,
+          "label": "B",
+          "content": "12°"
+        },
+        {
+          "id": 343,
+          "question_id": 186,
+          "label": "C",
+          "content": "15°"
+        },
+        {
+          "id": 344,
+          "question_id": 186,
+          "label": "D",
+          "content": "20°"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 187,
+      "source_no": 187,
+      "type": "single_choice",
+      "stem": "电力变压器由（ ）主要部分构成。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "187.电力变压器由（ ）主要部分构成。\nA、 铁芯、绕组 B、 绝缘结构、油箱 C、 绝缘套管、冷却系统 D、\n以上都包括\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 345,
+          "question_id": 187,
+          "label": "A",
+          "content": "铁芯、绕组"
+        },
+        {
+          "id": 346,
+          "question_id": 187,
+          "label": "B",
+          "content": "绝缘结构、油箱"
+        },
+        {
+          "id": 347,
+          "question_id": 187,
+          "label": "C",
+          "content": "绝缘套管、冷却系统"
+        },
+        {
+          "id": 348,
+          "question_id": 187,
+          "label": "D",
+          "content": "以上都包括"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 188,
+      "source_no": 188,
+      "type": "single_choice",
+      "stem": "6KVFS型避雷器大修后工频放电电压范围应为（ ）KV。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "188.6KVFS型避雷器大修后工频放电电压范围应为（ ）KV。\nA、 9～11 B、 16～19 C、 15～21 D、 26～31\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 349,
+          "question_id": 188,
+          "label": "A",
+          "content": "9～11"
+        },
+        {
+          "id": 350,
+          "question_id": 188,
+          "label": "B",
+          "content": "16～19"
+        },
+        {
+          "id": 351,
+          "question_id": 188,
+          "label": "C",
+          "content": "15～21"
+        },
+        {
+          "id": 352,
+          "question_id": 188,
+          "label": "D",
+          "content": "26～31"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 189,
+      "source_no": 189,
+      "type": "single_choice",
+      "stem": "关于钳形电流表的使用，下列（ ）种说法是正确的。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "189.关于钳形电流表的使用，下列（ ）种说法是正确的。\nA、 导线在钳口中时，可用大到小切换量程 B、\n导线在钳口中时，可用小到大切换量程 C、 导线在钳口中时，可任意切换量程\nD、 导线在钳口中时，不能切换量程\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 353,
+          "question_id": 189,
+          "label": "A",
+          "content": "导线在钳口中时，可用大到小切换量程"
+        },
+        {
+          "id": 354,
+          "question_id": 189,
+          "label": "B",
+          "content": "导线在钳口中时，可用小到大切换量程"
+        },
+        {
+          "id": 355,
+          "question_id": 189,
+          "label": "C",
+          "content": "导线在钳口中时，可任意切换量程"
+        },
+        {
+          "id": 356,
+          "question_id": 189,
+          "label": "D",
+          "content": "导线在钳口中时，不能切换量程"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 190,
+      "source_no": 190,
+      "type": "single_choice",
+      "stem": "直流电动机的机械特性指的是（ ）之间的关系。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "190.直流电动机的机械特性指的是（ ）之间的关系。\nA、 端电压与输出功率 B、 端电压与转速 C、 转速与转矩 D、\n励磁电流与转速\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 357,
+          "question_id": 190,
+          "label": "A",
+          "content": "端电压与输出功率"
+        },
+        {
+          "id": 358,
+          "question_id": 190,
+          "label": "B",
+          "content": "端电压与转速"
+        },
+        {
+          "id": 359,
+          "question_id": 190,
+          "label": "C",
+          "content": "转速与转矩"
+        },
+        {
+          "id": 360,
+          "question_id": 190,
+          "label": "D",
+          "content": "励磁电流与转速"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 191,
+      "source_no": 191,
+      "type": "single_choice",
+      "stem": "三相不对称负载星形联接在三相四线制电流中则（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "191.三相不对称负载星形联接在三相四线制电流中则（ ）。\nA、 各负载电流相等 B、 各负载上电压相等\nC、 各负载电压电流均对称 D、 各负载阻抗相等\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 361,
+          "question_id": 191,
+          "label": "A",
+          "content": "各负载电流相等"
+        },
+        {
+          "id": 362,
+          "question_id": 191,
+          "label": "B",
+          "content": "各负载上电压相等"
+        },
+        {
+          "id": 363,
+          "question_id": 191,
+          "label": "C",
+          "content": "各负载电压电流均对称"
+        },
+        {
+          "id": 364,
+          "question_id": 191,
+          "label": "D",
+          "content": "各负载阻抗相等"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 192,
+      "source_no": 192,
+      "type": "single_choice",
+      "stem": "CS2型手动操作机构分闸角度的调整，应调整（ ）部件。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "192.CS2型手动操作机构分闸角度的调整，应调整（ ）部件。\nA、 支持螺钉 B、 摩擦弹簧 C、 拉杆 D、 牵引杆\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 365,
+          "question_id": 192,
+          "label": "A",
+          "content": "支持螺钉"
+        },
+        {
+          "id": 366,
+          "question_id": 192,
+          "label": "B",
+          "content": "摩擦弹簧"
+        },
+        {
+          "id": 367,
+          "question_id": 192,
+          "label": "C",
+          "content": "拉杆"
+        },
+        {
+          "id": 368,
+          "question_id": 192,
+          "label": "D",
+          "content": "牵引杆"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 193,
+      "source_no": 193,
+      "type": "single_choice",
+      "stem": "灯泡电压220伏，电路中电流0.5安，通电1小时消耗的电能是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "193.灯泡电压220伏，电路中电流0.5安，通电1小时消耗的电能是（ ）。\nA、 0.2度 B、 0.11度 C、 110度 D、 0.4度\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 369,
+          "question_id": 193,
+          "label": "A",
+          "content": "0.2度"
+        },
+        {
+          "id": 370,
+          "question_id": 193,
+          "label": "B",
+          "content": "0.11度"
+        },
+        {
+          "id": 371,
+          "question_id": 193,
+          "label": "C",
+          "content": "110度"
+        },
+        {
+          "id": 372,
+          "question_id": 193,
+          "label": "D",
+          "content": "0.4度"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 194,
+      "source_no": 194,
+      "type": "single_choice",
+      "stem": "带电作业工具的电气试验周期为（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "194.带电作业工具的电气试验周期为（ ）。\nA、 二个月一次 B、 半年一次 C、 一年一次 D、 十八个月一次\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 373,
+          "question_id": 194,
+          "label": "A",
+          "content": "二个月一次"
+        },
+        {
+          "id": 374,
+          "question_id": 194,
+          "label": "B",
+          "content": "半年一次"
+        },
+        {
+          "id": 375,
+          "question_id": 194,
+          "label": "C",
+          "content": "一年一次"
+        },
+        {
+          "id": 376,
+          "question_id": 194,
+          "label": "D",
+          "content": "十八个月一次"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 195,
+      "source_no": 195,
+      "type": "single_choice",
+      "stem": "电力电缆进行泄漏电流试验时，应在加压0.25、0.5（ ）和1.0倍的试验电压时 ，每点停留1分钟读取泄漏电流。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "195.电力电缆进行泄漏电流试验时，应在加压0.25、0.5（ ）和1.0倍的试验电压时\n，每点停留1分钟读取泄漏电流。\nA、 0.6 B、 0.7 C、 0.75 D、 0.85\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 377,
+          "question_id": 195,
+          "label": "A",
+          "content": "0.6"
+        },
+        {
+          "id": 378,
+          "question_id": 195,
+          "label": "B",
+          "content": "0.7"
+        },
+        {
+          "id": 379,
+          "question_id": 195,
+          "label": "C",
+          "content": "0.75"
+        },
+        {
+          "id": 380,
+          "question_id": 195,
+          "label": "D",
+          "content": "0.85"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 196,
+      "source_no": 196,
+      "type": "single_choice",
+      "stem": "对于DB-45型新绝缘油，电气强度试验电压不低于（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "196.对于DB-45型新绝缘油，电气强度试验电压不低于（ ）。\nA、 15KV B、 25KV C、 30KV D、 35KV\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 381,
+          "question_id": 196,
+          "label": "A",
+          "content": "15KV"
+        },
+        {
+          "id": 382,
+          "question_id": 196,
+          "label": "B",
+          "content": "25KV"
+        },
+        {
+          "id": 383,
+          "question_id": 196,
+          "label": "C",
+          "content": "30KV"
+        },
+        {
+          "id": 384,
+          "question_id": 196,
+          "label": "D",
+          "content": "35KV"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 197,
+      "source_no": 197,
+      "type": "single_choice",
+      "stem": "下列属于直流电动机起动方法的是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "197.下列属于直流电动机起动方法的是（ ）。\nA、 电枢电路内串接起动变阻器起动 B、 定子绕组中串接电抗器降压起动\nC、 自耦变压器降压起动 D、 延边三角形降压起动\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 385,
+          "question_id": 197,
+          "label": "A",
+          "content": "电枢电路内串接起动变阻器起动"
+        },
+        {
+          "id": 386,
+          "question_id": 197,
+          "label": "B",
+          "content": "定子绕组中串接电抗器降压起动"
+        },
+        {
+          "id": 387,
+          "question_id": 197,
+          "label": "C",
+          "content": "自耦变压器降压起动"
+        },
+        {
+          "id": 388,
+          "question_id": 197,
+          "label": "D",
+          "content": "延边三角形降压起动"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 198,
+      "source_no": 198,
+      "type": "single_choice",
+      "stem": "绝缘油水分测定的方法是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "198.绝缘油水分测定的方法是（ ）。\nA、 GB260石油产品水分测定法 B、 目测 C、 蒸发 D、 滤湿法\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 389,
+          "question_id": 198,
+          "label": "A",
+          "content": "GB260石油产品水分测定法"
+        },
+        {
+          "id": 390,
+          "question_id": 198,
+          "label": "B",
+          "content": "目测"
+        },
+        {
+          "id": 391,
+          "question_id": 198,
+          "label": "C",
+          "content": "蒸发"
+        },
+        {
+          "id": 392,
+          "question_id": 198,
+          "label": "D",
+          "content": "滤湿法"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 199,
+      "source_no": 199,
+      "type": "single_choice",
+      "stem": "用来测量交流电流的钳形电流表是由（ ）和电流表组成的。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "199.用来测量交流电流的钳形电流表是由（ ）和电流表组成的。\nA、 电流互感器 B、 电压互感器 C、 分流器 D、 变压器\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 393,
+          "question_id": 199,
+          "label": "A",
+          "content": "电流互感器"
+        },
+        {
+          "id": 394,
+          "question_id": 199,
+          "label": "B",
+          "content": "电压互感器"
+        },
+        {
+          "id": 395,
+          "question_id": 199,
+          "label": "C",
+          "content": "分流器"
+        },
+        {
+          "id": 396,
+          "question_id": 199,
+          "label": "D",
+          "content": "变压器"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 200,
+      "source_no": 200,
+      "type": "single_choice",
+      "stem": "接触器中灭弧装置的作用是（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "200.接触器中灭弧装置的作用是（ ）。\nA、 防止触头烧毁 B、 加快触头的分断速度\nC、 减小触头电流 D、 减小电弧引起的反电势\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 397,
+          "question_id": 200,
+          "label": "A",
+          "content": "防止触头烧毁"
+        },
+        {
+          "id": 398,
+          "question_id": 200,
+          "label": "B",
+          "content": "加快触头的分断速度"
+        },
+        {
+          "id": 399,
+          "question_id": 200,
+          "label": "C",
+          "content": "减小触头电流"
+        },
+        {
+          "id": 400,
+          "question_id": 200,
+          "label": "D",
+          "content": "减小电弧引起的反电势"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 201,
+      "source_no": 201,
+      "type": "single_choice",
+      "stem": "（ ）可以签发电气设备工作票。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "201.（ ）可以签发电气设备工作票。\nA、 工作负责人 B、 工作许可人 C、 工作人员 D、\n熟悉本工作规程的生产领导\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 401,
+          "question_id": 201,
+          "label": "A",
+          "content": "工作负责人"
+        },
+        {
+          "id": 402,
+          "question_id": 201,
+          "label": "B",
+          "content": "工作许可人"
+        },
+        {
+          "id": 403,
+          "question_id": 201,
+          "label": "C",
+          "content": "工作人员"
+        },
+        {
+          "id": 404,
+          "question_id": 201,
+          "label": "D",
+          "content": "熟悉本工作规程的生产领导"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 202,
+      "source_no": 202,
+      "type": "single_choice",
+      "stem": "欲测量250V电压，要求测量的相对误差不大于±0.5%，如果选用量程为300V的电压表 ，其准确度等级为（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "202.欲测量250V电压，要求测量的相对误差不大于±0.5%，如果选用量程为300V的电压表\n，其准确度等级为（ ）。\nA、 0.1级 B、 0.2级 C、 0.5级 D、 1.0级\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 405,
+          "question_id": 202,
+          "label": "A",
+          "content": "0.1级"
+        },
+        {
+          "id": 406,
+          "question_id": 202,
+          "label": "B",
+          "content": "0.2级"
+        },
+        {
+          "id": 407,
+          "question_id": 202,
+          "label": "C",
+          "content": "0.5级"
+        },
+        {
+          "id": 408,
+          "question_id": 202,
+          "label": "D",
+          "content": "1.0级"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 203,
+      "source_no": 203,
+      "type": "single_choice",
+      "stem": "对发电厂、变电所内的阀型避雷器每年（ ）季节前要测量其绝缘电阻。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "203.对发电厂、变电所内的阀型避雷器每年（ ）季节前要测量其绝缘电阻。\nA、 春 B、 夏 C、 秋 D、 雷雨\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 409,
+          "question_id": 203,
+          "label": "A",
+          "content": "春"
+        },
+        {
+          "id": 410,
+          "question_id": 203,
+          "label": "B",
+          "content": "夏"
+        },
+        {
+          "id": 411,
+          "question_id": 203,
+          "label": "C",
+          "content": "秋"
+        },
+        {
+          "id": 412,
+          "question_id": 203,
+          "label": "D",
+          "content": "雷雨"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 204,
+      "source_no": 204,
+      "type": "single_choice",
+      "stem": "架空线路的接地电阻值不应大于（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "204.架空线路的接地电阻值不应大于（ ）。\nA、 4Ω B、 8Ω C、 10Ω D、 15Ω\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 413,
+          "question_id": 204,
+          "label": "A",
+          "content": "4Ω"
+        },
+        {
+          "id": 414,
+          "question_id": 204,
+          "label": "B",
+          "content": "8Ω"
+        },
+        {
+          "id": 415,
+          "question_id": 204,
+          "label": "C",
+          "content": "10Ω"
+        },
+        {
+          "id": 416,
+          "question_id": 204,
+          "label": "D",
+          "content": "15Ω"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 205,
+      "source_no": 205,
+      "type": "single_choice",
+      "stem": "三相鼠笼式异步电动机用自耦变压器70%的抽头降压起动时，电动机的起动转矩是全 压起动转矩的（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "205.三相鼠笼式异步电动机用自耦变压器70%的抽头降压起动时，电动机的起动转矩是全\n压起动转矩的（ ）。\nA、 36% B、 49% C、 70% D、 100%\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 417,
+          "question_id": 205,
+          "label": "A",
+          "content": "36%"
+        },
+        {
+          "id": 418,
+          "question_id": 205,
+          "label": "B",
+          "content": "49%"
+        },
+        {
+          "id": 419,
+          "question_id": 205,
+          "label": "C",
+          "content": "70%"
+        },
+        {
+          "id": 420,
+          "question_id": 205,
+          "label": "D",
+          "content": "100%"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 206,
+      "source_no": 206,
+      "type": "single_choice",
+      "stem": "下列关于仪表的维护，（ ）是不正确的。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "206.下列关于仪表的维护，（ ）是不正确的。\nA、 测量仪表的指针需经常作零位调整 B、 仪表不使用时，应放置在干燥通风处\nC、 仪表应轻拿轻放 D、 仪表应放在强磁场周围\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 421,
+          "question_id": 206,
+          "label": "A",
+          "content": "测量仪表的指针需经常作零位调整"
+        },
+        {
+          "id": 422,
+          "question_id": 206,
+          "label": "B",
+          "content": "仪表不使用时，应放置在干燥通风处"
+        },
+        {
+          "id": 423,
+          "question_id": 206,
+          "label": "C",
+          "content": "仪表应轻拿轻放"
+        },
+        {
+          "id": 424,
+          "question_id": 206,
+          "label": "D",
+          "content": "仪表应放在强磁场周围"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 207,
+      "source_no": 207,
+      "type": "single_choice",
+      "stem": "在可控整流电路中，输出电压随控制角的变大而（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "207.在可控整流电路中，输出电压随控制角的变大而（ ）。\nA、 变大 B、 变小 C、 不变 D、 无规律\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 425,
+          "question_id": 207,
+          "label": "A",
+          "content": "变大"
+        },
+        {
+          "id": 426,
+          "question_id": 207,
+          "label": "B",
+          "content": "变小"
+        },
+        {
+          "id": 427,
+          "question_id": 207,
+          "label": "C",
+          "content": "不变"
+        },
+        {
+          "id": 428,
+          "question_id": 207,
+          "label": "D",
+          "content": "无规律"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 208,
+      "source_no": 208,
+      "type": "single_choice",
+      "stem": "10(6)KV瓷横担双回配电线路的杆头布置最常见的是（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "208.10(6)KV瓷横担双回配电线路的杆头布置最常见的是（ ）。\nA、 三角 B、 水平 C、 三角加水平 D、 三角加垂直\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 429,
+          "question_id": 208,
+          "label": "A",
+          "content": "三角"
+        },
+        {
+          "id": 430,
+          "question_id": 208,
+          "label": "B",
+          "content": "水平"
+        },
+        {
+          "id": 431,
+          "question_id": 208,
+          "label": "C",
+          "content": "三角加水平"
+        },
+        {
+          "id": 432,
+          "question_id": 208,
+          "label": "D",
+          "content": "三角加垂直"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 209,
+      "source_no": 209,
+      "type": "single_choice",
+      "stem": "下列关于万用表的使用，（ ）不是正确的。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "209.下列关于万用表的使用，（ ）不是正确的。\nA、 使用万用表前要校准机械零位和电零位 B、 测量前要先选好档位\nC、 禁止带电切换量程 D、 不用时，切换开关应停在欧姆档\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 433,
+          "question_id": 209,
+          "label": "A",
+          "content": "使用万用表前要校准机械零位和电零位"
+        },
+        {
+          "id": 434,
+          "question_id": 209,
+          "label": "B",
+          "content": "测量前要先选好档位"
+        },
+        {
+          "id": 435,
+          "question_id": 209,
+          "label": "C",
+          "content": "禁止带电切换量程"
+        },
+        {
+          "id": 436,
+          "question_id": 209,
+          "label": "D",
+          "content": "不用时，切换开关应停在欧姆档"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 210,
+      "source_no": 210,
+      "type": "single_choice",
+      "stem": "单相半波可控整流电路，有（ ）组触发电压。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "210.单相半波可控整流电路，有（ ）组触发电压。\nA、 1 B、 2 C、 3 D、 4\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 437,
+          "question_id": 210,
+          "label": "A",
+          "content": "1"
+        },
+        {
+          "id": 438,
+          "question_id": 210,
+          "label": "B",
+          "content": "2"
+        },
+        {
+          "id": 439,
+          "question_id": 210,
+          "label": "C",
+          "content": "3"
+        },
+        {
+          "id": 440,
+          "question_id": 210,
+          "label": "D",
+          "content": "4"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 211,
+      "source_no": 211,
+      "type": "single_choice",
+      "stem": "万用表测电阻时，（ ）情况下换档后需要重新校准调整。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "211.万用表测电阻时，（ ）情况下换档后需要重新校准调整。\nA、 由高档位到低档位 B、 由低档位到高档位\nC、 在使用前将所有档位校验后 D、 任何情况下都需要\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 441,
+          "question_id": 211,
+          "label": "A",
+          "content": "由高档位到低档位"
+        },
+        {
+          "id": 442,
+          "question_id": 211,
+          "label": "B",
+          "content": "由低档位到高档位"
+        },
+        {
+          "id": 443,
+          "question_id": 211,
+          "label": "C",
+          "content": "在使用前将所有档位校验后"
+        },
+        {
+          "id": 444,
+          "question_id": 211,
+          "label": "D",
+          "content": "任何情况下都需要"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 212,
+      "source_no": 212,
+      "type": "single_choice",
+      "stem": "变压器油要对流散热，因此凝固点（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "212.变压器油要对流散热，因此凝固点（ ）。\nA、 越大越好 B、 越小越好 C、 适中为好 D、 多大都可以\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 445,
+          "question_id": 212,
+          "label": "A",
+          "content": "越大越好"
+        },
+        {
+          "id": 446,
+          "question_id": 212,
+          "label": "B",
+          "content": "越小越好"
+        },
+        {
+          "id": 447,
+          "question_id": 212,
+          "label": "C",
+          "content": "适中为好"
+        },
+        {
+          "id": 448,
+          "question_id": 212,
+          "label": "D",
+          "content": "多大都可以"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 213,
+      "source_no": 213,
+      "type": "single_choice",
+      "stem": "下列关于示波器的使用，（ ）是不正确。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "213.下列关于示波器的使用，（ ）是不正确。\nA、 示波器通电后即可立即使用 B、 示波器在使用中不应经常开闭电源\nC、 示波器不使用时，应放置在干燥通风处\nD、 不经使用的示波器每隔一段时间要让其通电工作一段时间\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 449,
+          "question_id": 213,
+          "label": "A",
+          "content": "示波器通电后即可立即使用"
+        },
+        {
+          "id": 450,
+          "question_id": 213,
+          "label": "B",
+          "content": "示波器在使用中不应经常开闭电源"
+        },
+        {
+          "id": 451,
+          "question_id": 213,
+          "label": "C",
+          "content": "示波器不使用时，应放置在干燥通风处"
+        },
+        {
+          "id": 452,
+          "question_id": 213,
+          "label": "D",
+          "content": "不经使用的示波器每隔一段时间要让其通电工作一段时间"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 214,
+      "source_no": 214,
+      "type": "single_choice",
+      "stem": "用交流电压表测得交流电压的数值是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "214.用交流电压表测得交流电压的数值是（ ）。\nA、 平均值 B、 有效值 C、 最大值 D、 瞬时值\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 453,
+          "question_id": 214,
+          "label": "A",
+          "content": "平均值"
+        },
+        {
+          "id": 454,
+          "question_id": 214,
+          "label": "B",
+          "content": "有效值"
+        },
+        {
+          "id": 455,
+          "question_id": 214,
+          "label": "C",
+          "content": "最大值"
+        },
+        {
+          "id": 456,
+          "question_id": 214,
+          "label": "D",
+          "content": "瞬时值"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 215,
+      "source_no": 215,
+      "type": "single_choice",
+      "stem": "接地摇表的电位探针和电流探针应沿直线相距（ ）米分别插入地中。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "215.接地摇表的电位探针和电流探针应沿直线相距（ ）米分别插入地中。\nA、 15 B、 20 C、 25 D、 30\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 457,
+          "question_id": 215,
+          "label": "A",
+          "content": "15"
+        },
+        {
+          "id": 458,
+          "question_id": 215,
+          "label": "B",
+          "content": "20"
+        },
+        {
+          "id": 459,
+          "question_id": 215,
+          "label": "C",
+          "content": "25"
+        },
+        {
+          "id": 460,
+          "question_id": 215,
+          "label": "D",
+          "content": "30"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 216,
+      "source_no": 216,
+      "type": "single_choice",
+      "stem": "提高电网功率因数的意义是（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "216.提高电网功率因数的意义是（ ）。\nA、 减少线路网损，提高输电效率 B、 提高供电设备的利用率\nC、 增大有功功率 D、 A和B说法正确\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 461,
+          "question_id": 216,
+          "label": "A",
+          "content": "减少线路网损，提高输电效率"
+        },
+        {
+          "id": 462,
+          "question_id": 216,
+          "label": "B",
+          "content": "提高供电设备的利用率"
+        },
+        {
+          "id": 463,
+          "question_id": 216,
+          "label": "C",
+          "content": "增大有功功率"
+        },
+        {
+          "id": 464,
+          "question_id": 216,
+          "label": "D",
+          "content": "A和B说法正确"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 217,
+      "source_no": 217,
+      "type": "single_choice",
+      "stem": "我国规定的电力系统中性点接地的方式有（ ）种。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "217.我国规定的电力系统中性点接地的方式有（ ）种。\nA、 6 B、 5 C、 4 D、 3\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 465,
+          "question_id": 217,
+          "label": "A",
+          "content": "6"
+        },
+        {
+          "id": 466,
+          "question_id": 217,
+          "label": "B",
+          "content": "5"
+        },
+        {
+          "id": 467,
+          "question_id": 217,
+          "label": "C",
+          "content": "4"
+        },
+        {
+          "id": 468,
+          "question_id": 217,
+          "label": "D",
+          "content": "3"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 218,
+      "source_no": 218,
+      "type": "single_choice",
+      "stem": "下列电源相序（ ）是正相序。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "218.下列电源相序（ ）是正相序。\nA、 U→V→W B、 W→V→U C、 U→W→V D、 V→U→W\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 469,
+          "question_id": 218,
+          "label": "A",
+          "content": "U→V→W"
+        },
+        {
+          "id": 470,
+          "question_id": 218,
+          "label": "B",
+          "content": "W→V→U"
+        },
+        {
+          "id": 471,
+          "question_id": 218,
+          "label": "C",
+          "content": "U→W→V"
+        },
+        {
+          "id": 472,
+          "question_id": 218,
+          "label": "D",
+          "content": "V→U→W"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 219,
+      "source_no": 219,
+      "type": "single_choice",
+      "stem": "当负荷较大线路较长时，导线的选择应采用（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "219.当负荷较大线路较长时，导线的选择应采用（ ）。\nA、 最小截面法 B、 允许电流法 C、 允许电压损失法 D、 经济电流密度法\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 473,
+          "question_id": 219,
+          "label": "A",
+          "content": "最小截面法"
+        },
+        {
+          "id": 474,
+          "question_id": 219,
+          "label": "B",
+          "content": "允许电流法"
+        },
+        {
+          "id": 475,
+          "question_id": 219,
+          "label": "C",
+          "content": "允许电压损失法"
+        },
+        {
+          "id": 476,
+          "question_id": 219,
+          "label": "D",
+          "content": "经济电流密度法"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 220,
+      "source_no": 220,
+      "type": "single_choice",
+      "stem": "10KV跌落式熔断器安装时，熔管轴线与地面的垂线夹角为（ ）度。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "220.10KV跌落式熔断器安装时，熔管轴线与地面的垂线夹角为（ ）度。\nA、 5～15 B、 10～15 C、 15～20 D、 15～30\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 477,
+          "question_id": 220,
+          "label": "A",
+          "content": "5～15"
+        },
+        {
+          "id": 478,
+          "question_id": 220,
+          "label": "B",
+          "content": "10～15"
+        },
+        {
+          "id": 479,
+          "question_id": 220,
+          "label": "C",
+          "content": "15～20"
+        },
+        {
+          "id": 480,
+          "question_id": 220,
+          "label": "D",
+          "content": "15～30"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 221,
+      "source_no": 221,
+      "type": "single_choice",
+      "stem": "单向可控硅由导通变为截止要满足（ ）条件。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "221.单向可控硅由导通变为截止要满足（ ）条件。\nA、 升高阳极电压 B、 降低阴极电压\nC、 断开控制电路 D、 正向电流小于最小维持电流\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 481,
+          "question_id": 221,
+          "label": "A",
+          "content": "升高阳极电压"
+        },
+        {
+          "id": 482,
+          "question_id": 221,
+          "label": "B",
+          "content": "降低阴极电压"
+        },
+        {
+          "id": 483,
+          "question_id": 221,
+          "label": "C",
+          "content": "断开控制电路"
+        },
+        {
+          "id": 484,
+          "question_id": 221,
+          "label": "D",
+          "content": "正向电流小于最小维持电流"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 222,
+      "source_no": 222,
+      "type": "single_choice",
+      "stem": "排气式避雷器正确的安装是将其闭口端固定，并使开口端位置（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "222.排气式避雷器正确的安装是将其闭口端固定，并使开口端位置（ ）。\nA、 向上垂直 B、 向上倾斜 C、 向下垂直或倾斜 D、 水平\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 485,
+          "question_id": 222,
+          "label": "A",
+          "content": "向上垂直"
+        },
+        {
+          "id": 486,
+          "question_id": 222,
+          "label": "B",
+          "content": "向上倾斜"
+        },
+        {
+          "id": 487,
+          "question_id": 222,
+          "label": "C",
+          "content": "向下垂直或倾斜"
+        },
+        {
+          "id": 488,
+          "question_id": 222,
+          "label": "D",
+          "content": "水平"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 223,
+      "source_no": 223,
+      "type": "single_choice",
+      "stem": "运行中的绝缘油的闪点应不比新油的标准降低（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "223.运行中的绝缘油的闪点应不比新油的标准降低（ ）。\nA、 1℃ B、 2℃ C、 3℃ D、 5℃\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 489,
+          "question_id": 223,
+          "label": "A",
+          "content": "1℃"
+        },
+        {
+          "id": 490,
+          "question_id": 223,
+          "label": "B",
+          "content": "2℃"
+        },
+        {
+          "id": 491,
+          "question_id": 223,
+          "label": "C",
+          "content": "3℃"
+        },
+        {
+          "id": 492,
+          "question_id": 223,
+          "label": "D",
+          "content": "5℃"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 224,
+      "source_no": 224,
+      "type": "single_choice",
+      "stem": "\"220、100W\"的灯泡经一段导线接在220V电源上时，它的实际功率为81W，则导线上 损耗的功率是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "224.\"220、100W\"的灯泡经一段导线接在220V电源上时，它的实际功率为81W，则导线上\n损耗的功率是（ ）。\nA、 19W B、 9W C、 10W D、 38\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 493,
+          "question_id": 224,
+          "label": "A",
+          "content": "19W"
+        },
+        {
+          "id": 494,
+          "question_id": 224,
+          "label": "B",
+          "content": "9W"
+        },
+        {
+          "id": 495,
+          "question_id": 224,
+          "label": "C",
+          "content": "10W"
+        },
+        {
+          "id": 496,
+          "question_id": 224,
+          "label": "D",
+          "content": "38"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 225,
+      "source_no": 225,
+      "type": "single_choice",
+      "stem": "三相电路中相电流是通过（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "225.三相电路中相电流是通过（ ）。\nA、 每相负载的电流 B、 火线的电流 C、 电路的总电流 D、 电源的电流\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 497,
+          "question_id": 225,
+          "label": "A",
+          "content": "每相负载的电流"
+        },
+        {
+          "id": 498,
+          "question_id": 225,
+          "label": "B",
+          "content": "火线的电流"
+        },
+        {
+          "id": 499,
+          "question_id": 225,
+          "label": "C",
+          "content": "电路的总电流"
+        },
+        {
+          "id": 500,
+          "question_id": 225,
+          "label": "D",
+          "content": "电源的电流"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 226,
+      "source_no": 226,
+      "type": "single_choice",
+      "stem": "单相串波整流脉动直流电压平均值为（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "226.单相串波整流脉动直流电压平均值为（ ）。\nA、 0.45U2 B、 0.9U2 C、 1.17U2 D、 2.45U2\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 501,
+          "question_id": 226,
+          "label": "A",
+          "content": "0.45U2"
+        },
+        {
+          "id": 502,
+          "question_id": 226,
+          "label": "B",
+          "content": "0.9U2"
+        },
+        {
+          "id": 503,
+          "question_id": 226,
+          "label": "C",
+          "content": "1.17U2"
+        },
+        {
+          "id": 504,
+          "question_id": 226,
+          "label": "D",
+          "content": "2.45U2"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 227,
+      "source_no": 227,
+      "type": "single_choice",
+      "stem": "纯电容正弦交流电路中，增大电源频率时，其它条件不变，电路中电流会（ ） 。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "227.纯电容正弦交流电路中，增大电源频率时，其它条件不变，电路中电流会（ ）\n。\nA、 增大 B、 减小 C、 不变 D、 增大或减小\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 505,
+          "question_id": 227,
+          "label": "A",
+          "content": "增大"
+        },
+        {
+          "id": 506,
+          "question_id": 227,
+          "label": "B",
+          "content": "减小"
+        },
+        {
+          "id": 507,
+          "question_id": 227,
+          "label": "C",
+          "content": "不变"
+        },
+        {
+          "id": 508,
+          "question_id": 227,
+          "label": "D",
+          "content": "增大或减小"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 228,
+      "source_no": 228,
+      "type": "single_choice",
+      "stem": "绝缘油质量分析试验项目中，检验杂质指标用（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "228.绝缘油质量分析试验项目中，检验杂质指标用（ ）。\nA、 外观目视法 B、 国标法 C、 YS法 D、 GB和YS法\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 509,
+          "question_id": 228,
+          "label": "A",
+          "content": "外观目视法"
+        },
+        {
+          "id": 510,
+          "question_id": 228,
+          "label": "B",
+          "content": "国标法"
+        },
+        {
+          "id": 511,
+          "question_id": 228,
+          "label": "C",
+          "content": "YS法"
+        },
+        {
+          "id": 512,
+          "question_id": 228,
+          "label": "D",
+          "content": "GB和YS法"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 229,
+      "source_no": 229,
+      "type": "single_choice",
+      "stem": "6KV干包式终端头安装时，包屏蔽层的长度自应力堆最大直径处开始至与铅(铝)包搭 接（ ）左右处为止。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "229.6KV干包式终端头安装时，包屏蔽层的长度自应力堆最大直径处开始至与铅(铝)包搭\n接（ ）左右处为止。\nA、 8mm B、 10mm C、 12mm D、 14mm\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 513,
+          "question_id": 229,
+          "label": "A",
+          "content": "8mm"
+        },
+        {
+          "id": 514,
+          "question_id": 229,
+          "label": "B",
+          "content": "10mm"
+        },
+        {
+          "id": 515,
+          "question_id": 229,
+          "label": "C",
+          "content": "12mm"
+        },
+        {
+          "id": 516,
+          "question_id": 229,
+          "label": "D",
+          "content": "14mm"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 230,
+      "source_no": 230,
+      "type": "single_choice",
+      "stem": "常温下测得再生介损不符合标准时，对试油升温至90℃时的tgδ值应不大于（ ） 。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "230.常温下测得再生介损不符合标准时，对试油升温至90℃时的tgδ值应不大于（ ）\n。\nA、 0.1% B、 0.3% C、 0.5% D、 0.8%\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 517,
+          "question_id": 230,
+          "label": "A",
+          "content": "0.1%"
+        },
+        {
+          "id": 518,
+          "question_id": 230,
+          "label": "B",
+          "content": "0.3%"
+        },
+        {
+          "id": 519,
+          "question_id": 230,
+          "label": "C",
+          "content": "0.5%"
+        },
+        {
+          "id": 520,
+          "question_id": 230,
+          "label": "D",
+          "content": "0.8%"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 231,
+      "source_no": 231,
+      "type": "single_choice",
+      "stem": "接地就是（ ）不接地，而设备外壳接地的供电运行方式。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "231.接地就是（ ）不接地，而设备外壳接地的供电运行方式。\nA、 中性点 B、 负载 C、 电源线 D、 设备\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 521,
+          "question_id": 231,
+          "label": "A",
+          "content": "中性点"
+        },
+        {
+          "id": 522,
+          "question_id": 231,
+          "label": "B",
+          "content": "负载"
+        },
+        {
+          "id": 523,
+          "question_id": 231,
+          "label": "C",
+          "content": "电源线"
+        },
+        {
+          "id": 524,
+          "question_id": 231,
+          "label": "D",
+          "content": "设备"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 232,
+      "source_no": 232,
+      "type": "single_choice",
+      "stem": "变电所户内母线过热常用（ ）方法进行测试。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "232.变电所户内母线过热常用（ ）方法进行测试。\nA、 使用试温片 B、 使用变色漆 C、 使用半导体测温计 D、 上述说法都对\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 525,
+          "question_id": 232,
+          "label": "A",
+          "content": "使用试温片"
+        },
+        {
+          "id": 526,
+          "question_id": 232,
+          "label": "B",
+          "content": "使用变色漆"
+        },
+        {
+          "id": 527,
+          "question_id": 232,
+          "label": "C",
+          "content": "使用半导体测温计"
+        },
+        {
+          "id": 528,
+          "question_id": 232,
+          "label": "D",
+          "content": "上述说法都对"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 233,
+      "source_no": 233,
+      "type": "single_choice",
+      "stem": "采用那种（ ）放大电路具有倒相作用。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "233.采用那种（ ）放大电路具有倒相作用。\nA、 共集电极 B、 共发射极 C、 共基极 D、 共栅极\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 529,
+          "question_id": 233,
+          "label": "A",
+          "content": "共集电极"
+        },
+        {
+          "id": 530,
+          "question_id": 233,
+          "label": "B",
+          "content": "共发射极"
+        },
+        {
+          "id": 531,
+          "question_id": 233,
+          "label": "C",
+          "content": "共基极"
+        },
+        {
+          "id": 532,
+          "question_id": 233,
+          "label": "D",
+          "content": "共栅极"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 234,
+      "source_no": 234,
+      "type": "single_choice",
+      "stem": "对于1600KVA以上的变压器，各相绕组间电阻的差值，不应大于三相平均值的（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "234.对于1600KVA以上的变压器，各相绕组间电阻的差值，不应大于三相平均值的（\n）。\nA、 1% B、 2% C、 3% D、 4%\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 533,
+          "question_id": 234,
+          "label": "A",
+          "content": "1%"
+        },
+        {
+          "id": 534,
+          "question_id": 234,
+          "label": "B",
+          "content": "2%"
+        },
+        {
+          "id": 535,
+          "question_id": 234,
+          "label": "C",
+          "content": "3%"
+        },
+        {
+          "id": 536,
+          "question_id": 234,
+          "label": "D",
+          "content": "4%"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 235,
+      "source_no": 235,
+      "type": "single_choice",
+      "stem": "在交流电路中总电压与总电流的乘积叫交流电路的（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "235.在交流电路中总电压与总电流的乘积叫交流电路的（ ）。\nA、 有功功率 B、 无功功率 C、 瞬时功率 D、 视在功率\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 537,
+          "question_id": 235,
+          "label": "A",
+          "content": "有功功率"
+        },
+        {
+          "id": 538,
+          "question_id": 235,
+          "label": "B",
+          "content": "无功功率"
+        },
+        {
+          "id": 539,
+          "question_id": 235,
+          "label": "C",
+          "content": "瞬时功率"
+        },
+        {
+          "id": 540,
+          "question_id": 235,
+          "label": "D",
+          "content": "视在功率"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 236,
+      "source_no": 236,
+      "type": "single_choice",
+      "stem": "差动放大电路是为克服（ ）而设计。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "236.差动放大电路是为克服（ ）而设计。\nA、 截止失真 B、 饱和失真 C、 交越失真 D、 零点漂移\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 541,
+          "question_id": 236,
+          "label": "A",
+          "content": "截止失真"
+        },
+        {
+          "id": 542,
+          "question_id": 236,
+          "label": "B",
+          "content": "饱和失真"
+        },
+        {
+          "id": 543,
+          "question_id": 236,
+          "label": "C",
+          "content": "交越失真"
+        },
+        {
+          "id": 544,
+          "question_id": 236,
+          "label": "D",
+          "content": "零点漂移"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 237,
+      "source_no": 237,
+      "type": "single_choice",
+      "stem": "安装式交流电流表通常采用（ ）测量机构。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "237.安装式交流电流表通常采用（ ）测量机构。\nA、 静电系 B、 感应系 C、 磁电系 D、 电磁系\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 545,
+          "question_id": 237,
+          "label": "A",
+          "content": "静电系"
+        },
+        {
+          "id": 546,
+          "question_id": 237,
+          "label": "B",
+          "content": "感应系"
+        },
+        {
+          "id": 547,
+          "question_id": 237,
+          "label": "C",
+          "content": "磁电系"
+        },
+        {
+          "id": 548,
+          "question_id": 237,
+          "label": "D",
+          "content": "电磁系"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 238,
+      "source_no": 238,
+      "type": "single_choice",
+      "stem": "仪器仪表的维护存放，不应采取（ ）措施。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "238.仪器仪表的维护存放，不应采取（ ）措施。\nA、 放在强磁场周围 B、 保持干燥 C、 棉纱擦拭 D、 轻拿轻放\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 549,
+          "question_id": 238,
+          "label": "A",
+          "content": "放在强磁场周围"
+        },
+        {
+          "id": 550,
+          "question_id": 238,
+          "label": "B",
+          "content": "保持干燥"
+        },
+        {
+          "id": 551,
+          "question_id": 238,
+          "label": "C",
+          "content": "棉纱擦拭"
+        },
+        {
+          "id": 552,
+          "question_id": 238,
+          "label": "D",
+          "content": "轻拿轻放"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 239,
+      "source_no": 239,
+      "type": "single_choice",
+      "stem": "电缆直流耐压试验开始前，微安表量程应置于（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "239.电缆直流耐压试验开始前，微安表量程应置于（ ）。\nA、 最小量程上 B、 中间量程上 C、 最大量程上 D、 无规定\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 553,
+          "question_id": 239,
+          "label": "A",
+          "content": "最小量程上"
+        },
+        {
+          "id": 554,
+          "question_id": 239,
+          "label": "B",
+          "content": "中间量程上"
+        },
+        {
+          "id": 555,
+          "question_id": 239,
+          "label": "C",
+          "content": "最大量程上"
+        },
+        {
+          "id": 556,
+          "question_id": 239,
+          "label": "D",
+          "content": "无规定"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 240,
+      "source_no": 240,
+      "type": "single_choice",
+      "stem": "在自动控制系统中测速发电机常作为（ ）使用。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "240.在自动控制系统中测速发电机常作为（ ）使用。\nA、 测速元件 B、 执行元件 C、 能量转模元件 D、 放大元件\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 557,
+          "question_id": 240,
+          "label": "A",
+          "content": "测速元件"
+        },
+        {
+          "id": 558,
+          "question_id": 240,
+          "label": "B",
+          "content": "执行元件"
+        },
+        {
+          "id": 559,
+          "question_id": 240,
+          "label": "C",
+          "content": "能量转模元件"
+        },
+        {
+          "id": 560,
+          "question_id": 240,
+          "label": "D",
+          "content": "放大元件"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 241,
+      "source_no": 241,
+      "type": "single_choice",
+      "stem": "晶闸管导通的条件是（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "241.晶闸管导通的条件是（ ）。\nA、 阳极和阴极间加正向电压，门极不加电压\nB、 阳极和阴极间加反向电压，门极和阴极间加正向电压\nC、 阳极和阴极，门极和阴极间都加正向电压\nD、 阳极和阴极间加正向电压，门极加反向电压\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 561,
+          "question_id": 241,
+          "label": "A",
+          "content": "阳极和阴极间加正向电压，门极不加电压"
+        },
+        {
+          "id": 562,
+          "question_id": 241,
+          "label": "B",
+          "content": "阳极和阴极间加反向电压，门极和阴极间加正向电压"
+        },
+        {
+          "id": 563,
+          "question_id": 241,
+          "label": "C",
+          "content": "阳极和阴极，门极和阴极间都加正向电压"
+        },
+        {
+          "id": 564,
+          "question_id": 241,
+          "label": "D",
+          "content": "阳极和阴极间加正向电压，门极加反向电压"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 242,
+      "source_no": 242,
+      "type": "single_choice",
+      "stem": "单相交流电路无功功率计算公式是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "242.单相交流电路无功功率计算公式是（ ）。\nA、 Pq＝UICosφ B、 Pq＝UIsinφ C、 Pq＝UI D、 Pq＝I2R\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 565,
+          "question_id": 242,
+          "label": "A",
+          "content": "Pq＝UICosφ"
+        },
+        {
+          "id": 566,
+          "question_id": 242,
+          "label": "B",
+          "content": "Pq＝UIsinφ"
+        },
+        {
+          "id": 567,
+          "question_id": 242,
+          "label": "C",
+          "content": "Pq＝UI"
+        },
+        {
+          "id": 568,
+          "question_id": 242,
+          "label": "D",
+          "content": "Pq＝I2R"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 243,
+      "source_no": 243,
+      "type": "single_choice",
+      "stem": "油浸自冷式变压器在其事故过负荷1.6倍、环境温度0℃时，允许持续时间为（ ） 小时。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "243.油浸自冷式变压器在其事故过负荷1.6倍、环境温度0℃时，允许持续时间为（ ）\n小时。\nA、 3 B、 6 C、 12 D、 16\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 569,
+          "question_id": 243,
+          "label": "A",
+          "content": "3"
+        },
+        {
+          "id": 570,
+          "question_id": 243,
+          "label": "B",
+          "content": "6"
+        },
+        {
+          "id": 571,
+          "question_id": 243,
+          "label": "C",
+          "content": "12"
+        },
+        {
+          "id": 572,
+          "question_id": 243,
+          "label": "D",
+          "content": "16"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 244,
+      "source_no": 244,
+      "type": "single_choice",
+      "stem": "用直流双臂电桥测量小电阻其被测电阻值与（ ）无关。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "244.用直流双臂电桥测量小电阻其被测电阻值与（ ）无关。\nA、 标准电阻 B、 桥臂电阻 C、 接线电阻 D、 以上三个量都无关\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 573,
+          "question_id": 244,
+          "label": "A",
+          "content": "标准电阻"
+        },
+        {
+          "id": 574,
+          "question_id": 244,
+          "label": "B",
+          "content": "桥臂电阻"
+        },
+        {
+          "id": 575,
+          "question_id": 244,
+          "label": "C",
+          "content": "接线电阻"
+        },
+        {
+          "id": 576,
+          "question_id": 244,
+          "label": "D",
+          "content": "以上三个量都无关"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 245,
+      "source_no": 245,
+      "type": "single_choice",
+      "stem": "晶体三极管要处于饱和状态必须满足（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "245.晶体三极管要处于饱和状态必须满足（ ）。\nA、 发射结集电结构正偏 B、 发射结集电结均反偏\nC、 发射结正偏集电结反偏 D、 发射结反偏集电结正偏\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 577,
+          "question_id": 245,
+          "label": "A",
+          "content": "发射结集电结构正偏"
+        },
+        {
+          "id": 578,
+          "question_id": 245,
+          "label": "B",
+          "content": "发射结集电结均反偏"
+        },
+        {
+          "id": 579,
+          "question_id": 245,
+          "label": "C",
+          "content": "发射结正偏集电结反偏"
+        },
+        {
+          "id": 580,
+          "question_id": 245,
+          "label": "D",
+          "content": "发射结反偏集电结正偏"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 246,
+      "source_no": 246,
+      "type": "single_choice",
+      "stem": "对容量为（ ）及以上的变压器应在大修或有必要时进行绕组连同套管一起的介 质损失角正切值的测量。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "246.对容量为（ ）及以上的变压器应在大修或有必要时进行绕组连同套管一起的介\n质损失角正切值的测量。\nA、 1000KVA B、 3000KVA C、 3150KVA D、 3500KVA\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 581,
+          "question_id": 246,
+          "label": "A",
+          "content": "1000KVA"
+        },
+        {
+          "id": 582,
+          "question_id": 246,
+          "label": "B",
+          "content": "3000KVA"
+        },
+        {
+          "id": 583,
+          "question_id": 246,
+          "label": "C",
+          "content": "3150KVA"
+        },
+        {
+          "id": 584,
+          "question_id": 246,
+          "label": "D",
+          "content": "3500KVA"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 247,
+      "source_no": 247,
+      "type": "single_choice",
+      "stem": "仪器仪表的维护存放，不应采取（ ）措施。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "247.仪器仪表的维护存放，不应采取（ ）措施。\nA、 保持干燥 B、 放在强磁场周围 C、 轻拿轻放 D、 棉纱擦拭\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 585,
+          "question_id": 247,
+          "label": "A",
+          "content": "保持干燥"
+        },
+        {
+          "id": 586,
+          "question_id": 247,
+          "label": "B",
+          "content": "放在强磁场周围"
+        },
+        {
+          "id": 587,
+          "question_id": 247,
+          "label": "C",
+          "content": "轻拿轻放"
+        },
+        {
+          "id": 588,
+          "question_id": 247,
+          "label": "D",
+          "content": "棉纱擦拭"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 248,
+      "source_no": 248,
+      "type": "single_choice",
+      "stem": "触发导通的晶闸管，当阳极电流减小到低于维持电流时，晶闸管的状态是（ ） 。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "248.触发导通的晶闸管，当阳极电流减小到低于维持电流时，晶闸管的状态是（ ）\n。\nA、 继续维持导通 B、 转为关断\nC、 只要阳极－阴极仍有正向电压，管子能继续导通 D、 不能确定\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 589,
+          "question_id": 248,
+          "label": "A",
+          "content": "继续维持导通"
+        },
+        {
+          "id": 590,
+          "question_id": 248,
+          "label": "B",
+          "content": "转为关断"
+        },
+        {
+          "id": 591,
+          "question_id": 248,
+          "label": "C",
+          "content": "只要阳极－阴极仍有正向电压，管子能继续导通"
+        },
+        {
+          "id": 592,
+          "question_id": 248,
+          "label": "D",
+          "content": "不能确定"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 249,
+      "source_no": 249,
+      "type": "single_choice",
+      "stem": "关于单向晶闸管的构成下述说法正确的是（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "249.关于单向晶闸管的构成下述说法正确的是（ ）。\nA、 可以等效地看成是由三个三极管构成\nB、 可以等效地看成是由一个NPN、一个PNP三极管构成\nC、 可以等效地看成是由二个NPN三极管构成\nD、 可以等效地看成是由二个PNP三极管构成\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 593,
+          "question_id": 249,
+          "label": "A",
+          "content": "可以等效地看成是由三个三极管构成"
+        },
+        {
+          "id": 594,
+          "question_id": 249,
+          "label": "B",
+          "content": "可以等效地看成是由一个NPN、一个PNP三极管构成"
+        },
+        {
+          "id": 595,
+          "question_id": 249,
+          "label": "C",
+          "content": "可以等效地看成是由二个NPN三极管构成"
+        },
+        {
+          "id": 596,
+          "question_id": 249,
+          "label": "D",
+          "content": "可以等效地看成是由二个PNP三极管构成"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 250,
+      "source_no": 250,
+      "type": "single_choice",
+      "stem": "用电压降法测量变压器的直流电阻，应采用（ ）电源。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "250.用电压降法测量变压器的直流电阻，应采用（ ）电源。\nA、 交流 B、 直流 C、 高压 D、 低压\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 597,
+          "question_id": 250,
+          "label": "A",
+          "content": "交流"
+        },
+        {
+          "id": 598,
+          "question_id": 250,
+          "label": "B",
+          "content": "直流"
+        },
+        {
+          "id": 599,
+          "question_id": 250,
+          "label": "C",
+          "content": "高压"
+        },
+        {
+          "id": 600,
+          "question_id": 250,
+          "label": "D",
+          "content": "低压"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 251,
+      "source_no": 251,
+      "type": "single_choice",
+      "stem": "变压器绕组的直流电阻测量方法通常有（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "251.变压器绕组的直流电阻测量方法通常有（ ）。\nA、 电压表法和平衡电桥法 B、 电流表法和平衡电桥法\nC、 电压表法和电流表法 D、 电压降法和平衡电桥法\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 601,
+          "question_id": 251,
+          "label": "A",
+          "content": "电压表法和平衡电桥法"
+        },
+        {
+          "id": 602,
+          "question_id": 251,
+          "label": "B",
+          "content": "电流表法和平衡电桥法"
+        },
+        {
+          "id": 603,
+          "question_id": 251,
+          "label": "C",
+          "content": "电压表法和电流表法"
+        },
+        {
+          "id": 604,
+          "question_id": 251,
+          "label": "D",
+          "content": "电压降法和平衡电桥法"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 252,
+      "source_no": 252,
+      "type": "single_choice",
+      "stem": "室外变压器的正常过负荷值不得超过其额定容量的（ ）。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "252.室外变压器的正常过负荷值不得超过其额定容量的（ ）。\nA、 20% B、 30% C、 40% D、 50%\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 605,
+          "question_id": 252,
+          "label": "A",
+          "content": "20%"
+        },
+        {
+          "id": 606,
+          "question_id": 252,
+          "label": "B",
+          "content": "30%"
+        },
+        {
+          "id": 607,
+          "question_id": 252,
+          "label": "C",
+          "content": "40%"
+        },
+        {
+          "id": 608,
+          "question_id": 252,
+          "label": "D",
+          "content": "50%"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 253,
+      "source_no": 253,
+      "type": "single_choice",
+      "stem": "单向晶闸管内部有（ ）PN结。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "253.单向晶闸管内部有（ ）PN结。\nA、 二个 B、 三个 C、 四个 D、 多于四个\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 609,
+          "question_id": 253,
+          "label": "A",
+          "content": "二个"
+        },
+        {
+          "id": 610,
+          "question_id": 253,
+          "label": "B",
+          "content": "三个"
+        },
+        {
+          "id": 611,
+          "question_id": 253,
+          "label": "C",
+          "content": "四个"
+        },
+        {
+          "id": 612,
+          "question_id": 253,
+          "label": "D",
+          "content": "多于四个"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 254,
+      "source_no": 254,
+      "type": "single_choice",
+      "stem": "变压器的初、次级电动势E1、E2和初、次级线圈匝数N1、N2之间的关系为（ ） 。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "254.变压器的初、次级电动势E1、E2和初、次级线圈匝数N1、N2之间的关系为（ ）\n。\nA、 E1/E2＝N1/N2 B、 E1/E2＝N2/N1 C、 E1/E2＝N12/N D、 无明显规律\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 613,
+          "question_id": 254,
+          "label": "A",
+          "content": "E1/E2＝N1/N2"
+        },
+        {
+          "id": 614,
+          "question_id": 254,
+          "label": "B",
+          "content": "E1/E2＝N2/N1"
+        },
+        {
+          "id": 615,
+          "question_id": 254,
+          "label": "C",
+          "content": "E1/E2＝N12/N"
+        },
+        {
+          "id": 616,
+          "question_id": 254,
+          "label": "D",
+          "content": "无明显规律"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 255,
+      "source_no": 255,
+      "type": "single_choice",
+      "stem": "晶体三极管要处于放大状态必须满足（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "255.晶体三极管要处于放大状态必须满足（ ）。\nA、 发射结集电结构正偏 B、 发射结集电结均反偏\nC、 发射结正偏集电结反偏 D、 发射结及偏集电结正偏\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 617,
+          "question_id": 255,
+          "label": "A",
+          "content": "发射结集电结构正偏"
+        },
+        {
+          "id": 618,
+          "question_id": 255,
+          "label": "B",
+          "content": "发射结集电结均反偏"
+        },
+        {
+          "id": 619,
+          "question_id": 255,
+          "label": "C",
+          "content": "发射结正偏集电结反偏"
+        },
+        {
+          "id": 620,
+          "question_id": 255,
+          "label": "D",
+          "content": "发射结及偏集电结正偏"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 256,
+      "source_no": 256,
+      "type": "single_choice",
+      "stem": "在解析式u＝Umsin(ωt+φ)中，φ表示（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "256.在解析式u＝Umsin(ωt+φ)中，φ表示（ ）。\nA、 频率 B、 相位 C、 初相角 D、 相位差\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 621,
+          "question_id": 256,
+          "label": "A",
+          "content": "频率"
+        },
+        {
+          "id": 622,
+          "question_id": 256,
+          "label": "B",
+          "content": "相位"
+        },
+        {
+          "id": 623,
+          "question_id": 256,
+          "label": "C",
+          "content": "初相角"
+        },
+        {
+          "id": 624,
+          "question_id": 256,
+          "label": "D",
+          "content": "相位差"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 257,
+      "source_no": 257,
+      "type": "single_choice",
+      "stem": "DB-25型绝缘油运行中取样试验，按标准规定凝点不高于（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "257.DB-25型绝缘油运行中取样试验，按标准规定凝点不高于（ ）。\nA、 －25℃ B、 －10℃ C、 －20℃ D、 无规定\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 625,
+          "question_id": 257,
+          "label": "A",
+          "content": "－25℃"
+        },
+        {
+          "id": 626,
+          "question_id": 257,
+          "label": "B",
+          "content": "－10℃"
+        },
+        {
+          "id": 627,
+          "question_id": 257,
+          "label": "C",
+          "content": "－20℃"
+        },
+        {
+          "id": 628,
+          "question_id": 257,
+          "label": "D",
+          "content": "无规定"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 258,
+      "source_no": 258,
+      "type": "single_choice",
+      "stem": "断路器每相导电回路电阻的阻值很小，应用（ ）方法测取。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "258.断路器每相导电回路电阻的阻值很小，应用（ ）方法测取。\nA、 将断路器跳合几次 B、 手动合闸时去掉千斤顶\nC、 多次复测 D、 取三次分散性最小的值的平均值\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 629,
+          "question_id": 258,
+          "label": "A",
+          "content": "将断路器跳合几次"
+        },
+        {
+          "id": 630,
+          "question_id": 258,
+          "label": "B",
+          "content": "手动合闸时去掉千斤顶"
+        },
+        {
+          "id": 631,
+          "question_id": 258,
+          "label": "C",
+          "content": "多次复测"
+        },
+        {
+          "id": 632,
+          "question_id": 258,
+          "label": "D",
+          "content": "取三次分散性最小的值的平均值"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 259,
+      "source_no": 259,
+      "type": "single_choice",
+      "stem": "用感应系单相电能表，不能测量下列（ ）电能。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "259.用感应系单相电能表，不能测量下列（ ）电能。\nA、 单相交流电能 B、 两相电能 C、 直流电能 D、 三相电能\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 633,
+          "question_id": 259,
+          "label": "A",
+          "content": "单相交流电能"
+        },
+        {
+          "id": 634,
+          "question_id": 259,
+          "label": "B",
+          "content": "两相电能"
+        },
+        {
+          "id": 635,
+          "question_id": 259,
+          "label": "C",
+          "content": "直流电能"
+        },
+        {
+          "id": 636,
+          "question_id": 259,
+          "label": "D",
+          "content": "三相电能"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 260,
+      "source_no": 260,
+      "type": "single_choice",
+      "stem": "避雷器用于电气设备的（ ）保护。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "260.避雷器用于电气设备的（ ）保护。\nA、 大气过电压 B、 操作过电压 C、 谐振过电压 D、 工频电压升高\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 637,
+          "question_id": 260,
+          "label": "A",
+          "content": "大气过电压"
+        },
+        {
+          "id": 638,
+          "question_id": 260,
+          "label": "B",
+          "content": "操作过电压"
+        },
+        {
+          "id": 639,
+          "question_id": 260,
+          "label": "C",
+          "content": "谐振过电压"
+        },
+        {
+          "id": 640,
+          "question_id": 260,
+          "label": "D",
+          "content": "工频电压升高"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 261,
+      "source_no": 261,
+      "type": "single_choice",
+      "stem": "变压器投入运行后，每隔（ ）要大修一次。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "261.变压器投入运行后，每隔（ ）要大修一次。\nA、 1年 B、 3年 C、 5～10年 D、 15～20年\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 641,
+          "question_id": 261,
+          "label": "A",
+          "content": "1年"
+        },
+        {
+          "id": 642,
+          "question_id": 261,
+          "label": "B",
+          "content": "3年"
+        },
+        {
+          "id": 643,
+          "question_id": 261,
+          "label": "C",
+          "content": "5～10年"
+        },
+        {
+          "id": 644,
+          "question_id": 261,
+          "label": "D",
+          "content": "15～20年"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 262,
+      "source_no": 262,
+      "type": "single_choice",
+      "stem": "对于接地电流56-10KV水发电机组，定子绕组单相接地采取（ ）保护方式。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "262.对于接地电流56-10KV水发电机组，定子绕组单相接地采取（ ）保护方式。\nA、 用开口三角形电压互感器发出电压信号\nB、 在三相电流互感器二次中性线上加装电流继电器\nC、 用零序电流互感器 D、 无要求\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 645,
+          "question_id": 262,
+          "label": "A",
+          "content": "用开口三角形电压互感器发出电压信号"
+        },
+        {
+          "id": 646,
+          "question_id": 262,
+          "label": "B",
+          "content": "在三相电流互感器二次中性线上加装电流继电器"
+        },
+        {
+          "id": 647,
+          "question_id": 262,
+          "label": "C",
+          "content": "用零序电流互感器"
+        },
+        {
+          "id": 648,
+          "question_id": 262,
+          "label": "D",
+          "content": "无要求"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 263,
+      "source_no": 263,
+      "type": "single_choice",
+      "stem": "按工时额定时间的组成，作业时间分为基本时间和辅助时间，下列（ ）工作时 间属辅助时间。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "263.按工时额定时间的组成，作业时间分为基本时间和辅助时间，下列（ ）工作时\n间属辅助时间。\nA、 机加工时机床自动走刀时间 B、 机加工电钻钻孔时间\nC、 利用手工制造工件的刮、锉时间 D、 在金属切削加工中退刀时间\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 649,
+          "question_id": 263,
+          "label": "A",
+          "content": "机加工时机床自动走刀时间"
+        },
+        {
+          "id": 650,
+          "question_id": 263,
+          "label": "B",
+          "content": "机加工电钻钻孔时间"
+        },
+        {
+          "id": 651,
+          "question_id": 263,
+          "label": "C",
+          "content": "利用手工制造工件的刮、锉时间"
+        },
+        {
+          "id": 652,
+          "question_id": 263,
+          "label": "D",
+          "content": "在金属切削加工中退刀时间"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 264,
+      "source_no": 264,
+      "type": "single_choice",
+      "stem": "真空断路器的触头常采取（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "264.真空断路器的触头常采取（ ）。\nA、 桥式触头 B、 指形触头 C、 辫形触头 D、 对接式触头\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 653,
+          "question_id": 264,
+          "label": "A",
+          "content": "桥式触头"
+        },
+        {
+          "id": 654,
+          "question_id": 264,
+          "label": "B",
+          "content": "指形触头"
+        },
+        {
+          "id": 655,
+          "question_id": 264,
+          "label": "C",
+          "content": "辫形触头"
+        },
+        {
+          "id": 656,
+          "question_id": 264,
+          "label": "D",
+          "content": "对接式触头"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 265,
+      "source_no": 265,
+      "type": "single_choice",
+      "stem": "大型同步电动机的机座一般采用（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "265.大型同步电动机的机座一般采用（ ）。\nA、 铸铁 B、 铸钢 C、 钢板焊接 D、 钢管\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 657,
+          "question_id": 265,
+          "label": "A",
+          "content": "铸铁"
+        },
+        {
+          "id": 658,
+          "question_id": 265,
+          "label": "B",
+          "content": "铸钢"
+        },
+        {
+          "id": 659,
+          "question_id": 265,
+          "label": "C",
+          "content": "钢板焊接"
+        },
+        {
+          "id": 660,
+          "question_id": 265,
+          "label": "D",
+          "content": "钢管"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 266,
+      "source_no": 266,
+      "type": "single_choice",
+      "stem": "判断感应电动势的大小要用（ ）。",
+      "answer": "A",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "266.判断感应电动势的大小要用（ ）。\nA、 法拉第定律 B、 楞次定律 C、 安培定则 D、 欧姆定律\n【参考答案】A",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 661,
+          "question_id": 266,
+          "label": "A",
+          "content": "法拉第定律"
+        },
+        {
+          "id": 662,
+          "question_id": 266,
+          "label": "B",
+          "content": "楞次定律"
+        },
+        {
+          "id": 663,
+          "question_id": 266,
+          "label": "C",
+          "content": "安培定则"
+        },
+        {
+          "id": 664,
+          "question_id": 266,
+          "label": "D",
+          "content": "欧姆定律"
+        }
+      ],
+      "normalizedAnswer": [
+        "A"
+      ]
+    },
+    {
+      "id": 267,
+      "source_no": 267,
+      "type": "single_choice",
+      "stem": "110KV以上电力变压器的主要结构有哪些（ ）。",
+      "answer": "D",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "267.110KV以上电力变压器的主要结构有哪些（ ）。\n铁芯、绕组、外壳 B、 铁芯、外壳、套管\nC、 绕组、导电杆、变压器 D、 铁芯、绕组、外壳、套管及冷却系统\n【参考答案】D",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 665,
+          "question_id": 267,
+          "label": "A",
+          "content": "铁芯、绕组、外壳"
+        },
+        {
+          "id": 666,
+          "question_id": 267,
+          "label": "B",
+          "content": "铁芯、外壳、套管"
+        },
+        {
+          "id": 667,
+          "question_id": 267,
+          "label": "C",
+          "content": "绕组、导电杆、变压器"
+        },
+        {
+          "id": 668,
+          "question_id": 267,
+          "label": "D",
+          "content": "铁芯、绕组、外壳、套管及冷却系统"
+        }
+      ],
+      "normalizedAnswer": [
+        "D"
+      ]
+    },
+    {
+      "id": 268,
+      "source_no": 268,
+      "type": "single_choice",
+      "stem": "在真空断路器大修后必须检验合闸接触器是否动作灵活，其最低动作电压应是额定 电压的（ ）倍。",
+      "answer": "B",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "268.在真空断路器大修后必须检验合闸接触器是否动作灵活，其最低动作电压应是额定\n电压的（ ）倍。\nA、 50% B、 80% C、 85% D、 90%\n【参考答案】B",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 669,
+          "question_id": 268,
+          "label": "A",
+          "content": "50%"
+        },
+        {
+          "id": 670,
+          "question_id": 268,
+          "label": "B",
+          "content": "80%"
+        },
+        {
+          "id": 671,
+          "question_id": 268,
+          "label": "C",
+          "content": "85%"
+        },
+        {
+          "id": 672,
+          "question_id": 268,
+          "label": "D",
+          "content": "90%"
+        }
+      ],
+      "normalizedAnswer": [
+        "B"
+      ]
+    },
+    {
+      "id": 269,
+      "source_no": 269,
+      "type": "single_choice",
+      "stem": "变电所交流回路B相断线10分钟，这时电能表的转速下降为原来的多少（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "269.变电所交流回路B相断线10分钟，这时电能表的转速下降为原来的多少（ ）。\nA、 1/4 B、 1/3 C、 1/2 D、 2/3\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 673,
+          "question_id": 269,
+          "label": "A",
+          "content": "1/4"
+        },
+        {
+          "id": 674,
+          "question_id": 269,
+          "label": "B",
+          "content": "1/3"
+        },
+        {
+          "id": 675,
+          "question_id": 269,
+          "label": "C",
+          "content": "1/2"
+        },
+        {
+          "id": 676,
+          "question_id": 269,
+          "label": "D",
+          "content": "2/3"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    },
+    {
+      "id": 270,
+      "source_no": 270,
+      "type": "single_choice",
+      "stem": "目前电子电路中常用三端稳压块为集成电路提供稳定的（ ）。",
+      "answer": "C",
+      "source_file": "电工三级学习资料.doc",
+      "raw_text": "270.目前电子电路中常用三端稳压块为集成电路提供稳定的（ ）。\nA、 直流电流 B、 交流电流 C、 直流电压 D、 交流电压\n【参考答案】C",
+      "created_at": "2026-05-07 10:51:24",
+      "options": [
+        {
+          "id": 677,
+          "question_id": 270,
+          "label": "A",
+          "content": "直流电流"
+        },
+        {
+          "id": 678,
+          "question_id": 270,
+          "label": "B",
+          "content": "交流电流"
+        },
+        {
+          "id": 679,
+          "question_id": 270,
+          "label": "C",
+          "content": "直流电压"
+        },
+        {
+          "id": 680,
+          "question_id": 270,
+          "label": "D",
+          "content": "交流电压"
+        }
+      ],
+      "normalizedAnswer": [
+        "C"
+      ]
+    }
+  ]
+}
