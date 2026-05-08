@@ -1,0 +1,131 @@
+{
+  "id": "sample-import-bank",
+  "title": "导入测试模拟题库",
+  "questions": [
+    {
+      "id": 1,
+      "type": "true_false",
+      "stem": "JSON Schema 可以用来描述 JSON 数据结构和字段约束。",
+      "answer": "true",
+      "options": [
+        {
+          "label": "true",
+          "content": "正确"
+        },
+        {
+          "label": "false",
+          "content": "错误"
+        }
+      ],
+      "explanation": "JSON Schema 的用途就是定义 JSON 文档的结构、类型、必填字段和其他约束。"
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "stem": "下面哪一个字段是当前题库 JSON 根对象的必填字段？",
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "content": "state"
+        },
+        {
+          "label": "B",
+          "content": "questions"
+        },
+        {
+          "label": "C",
+          "content": "createdAt"
+        },
+        {
+          "label": "D",
+          "content": "version"
+        }
+      ],
+      "explanation": "当前 schema 要求根对象必须包含 id、title 和 questions；state 是可选练习状态。"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "stem": "以下哪些题型是当前应用明确支持的题型？",
+      "answer": [
+        "A",
+        "B",
+        "C"
+      ],
+      "options": [
+        {
+          "label": "A",
+          "content": "判断题 true_false"
+        },
+        {
+          "label": "B",
+          "content": "单选题 single_choice"
+        },
+        {
+          "label": "C",
+          "content": "多选题 multiple_choice"
+        },
+        {
+          "label": "D",
+          "content": "填空题 fill_blank"
+        }
+      ],
+      "explanation": "应用当前内置了判断题、单选题和多选题的展示与判分逻辑。"
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "stem": "导入一套新题库后，旧题库的答题记录会怎样？",
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "content": "被新题库覆盖"
+        },
+        {
+          "label": "B",
+          "content": "自动清空"
+        },
+        {
+          "label": "C",
+          "content": "保留在原题库中"
+        },
+        {
+          "label": "D",
+          "content": "合并到新题库"
+        }
+      ],
+      "explanation": "多题库模式下，每套题库都有自己的答题记录、错题本和当前进度。"
+    },
+    {
+      "id": 5,
+      "type": "true_false",
+      "stem": "多选题答案推荐使用字符串数组，例如 [\"A\", \"C\"]。",
+      "answer": "true",
+      "options": [
+        {
+          "label": "true",
+          "content": "正确"
+        },
+        {
+          "label": "false",
+          "content": "错误"
+        }
+      ],
+      "explanation": "当前 schema 允许多选答案使用数组，也兼容分隔字符串；数组更清晰稳定。"
+    }
+  ],
+  "state": {
+    "currentIndex": 1,
+    "wrongIndex": 0,
+    "answers": {
+      "1": {
+        "selected": "true",
+        "correct": true,
+        "updatedAt": "2026-05-08T00:00:00.000Z"
+      }
+    },
+    "wrongBook": {}
+  }
+}

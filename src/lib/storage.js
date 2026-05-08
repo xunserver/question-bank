@@ -2,6 +2,7 @@ import builtinQuestionBank from '../../question-bank.json';
 
 export const STORAGE_KEY = 'question_bank_state_v1';
 export const BANK_STORAGE_KEY = 'question_bank_data_v1';
+export const LIBRARY_STORAGE_KEY = 'question_bank_library_v2';
 
 export const defaultState = {
   currentIndex: 0,
@@ -10,6 +11,33 @@ export const defaultState = {
   wrongBook: {},
   mode: 'practice',
 };
+
+export const DEFAULT_BANK_NAME = '默认题库';
+export const DEFAULT_BANK_ID = 'builtin';
+
+function createId(prefix = 'bank') {
+  if (typeof crypto !== 'undefined' && crypto.randomUUID) return `${prefix}-${crypto.randomUUID()}`;
+  return `${prefix}-${Date.now()}-${Math.random().toString(36).slice(2, 10)}`;
+}
+
+function normalizeBankName(name, fallback = DEFAULT_BANK_NAME) {
+  const text = String(name ?? '').trim();
+  return text || fallback;
+}
+
+export function createQuestionBankEntry({ id, name, title, questions, state }) {
+  const bank = validateQuestionBank({ questions });
+  const nextState = pruneStateForQuestions(validateUserState(state ?? {}), bank.questions);
+  const resolvedTitle = normalizeBankName(title ?? name);
+
+  return {
+    id: String(id ?? createId()),
+    title: resolvedTitle,
+    name: resolvedTitle,
+    questions: bank.questions,
+    state: nextState,
+  };
+}
 
 export function readState() {
   try {
@@ -39,8 +67,29 @@ export function writeQuestionBank(bank) {
   localStorage.setItem(BANK_STORAGE_KEY, JSON.stringify(bank));
 }
 
+export function readLibrary() {
+  try {
+    const raw = localStorage.getItem(LIBRARY_STORAGE_KEY);
+    if (raw) return validateLibrary(JSON.parse(raw));
+  } catch {
+    // Fall through to v1 migration.
+  }
+
+  return migrateLegacyLibrary();
+}
+
+export function writeLibrary(library) {
+  localStorage.setItem(LIBRARY_STORAGE_KEY, JSON.stringify(validateLibrary(library)));
+}
+
 export function getBuiltinQuestionBank() {
-  return validateQuestionBank(builtinQuestionBank);
+  const bank = validateQuestionBank(builtinQuestionBank);
+  return {
+    id: String(builtinQuestionBank.id ?? DEFAULT_BANK_ID),
+    title: normalizeBankName(builtinQuestionBank.title ?? builtinQuestionBank.name),
+    name: normalizeBankName(builtinQuestionBank.title ?? builtinQuestionBank.name),
+    questions: bank.questions,
+  };
 }
 
 export function validateQuestionBank(data) {
@@ -91,16 +140,41 @@ export function validateQuestionBank(data) {
   return { questions: normalizedQuestions };
 }
 
+export function validateLibrary(data) {
+  const banks = data?.banks;
+  if (!Array.isArray(banks) || banks.length === 0) {
+    return migrateLegacyLibrary();
+  }
+
+  const normalizedBanks = banks.map((bank, index) =>
+    createQuestionBankEntry({
+      id: bank?.id ?? `bank-${index + 1}`,
+      title: bank?.title ?? bank?.name ?? `${DEFAULT_BANK_NAME} ${index + 1}`,
+      questions: bank?.questions,
+      state: bank?.state,
+    }),
+  );
+  const activeBankId = normalizedBanks.some((bank) => bank.id === data?.activeBankId)
+    ? String(data.activeBankId)
+    : normalizedBanks[0].id;
+
+  return {
+    activeBankId,
+    banks: normalizedBanks,
+  };
+}
+
 export function validateUserState(data) {
   const state = data;
   if (!state || typeof state !== 'object') throw new Error('用户数据格式不正确');
+  const supportedModes = ['practice', 'overview', 'wrong', 'data'];
 
   return {
     currentIndex: state.currentIndex ?? 0,
     wrongIndex: state.wrongIndex ?? 0,
     answers: state.answers && typeof state.answers === 'object' ? state.answers : {},
     wrongBook: state.wrongBook && typeof state.wrongBook === 'object' ? state.wrongBook : {},
-    mode: defaultState.mode,
+    mode: supportedModes.includes(state.mode) ? state.mode : defaultState.mode,
   };
 }
 
@@ -116,12 +190,41 @@ export function exportableState(state) {
 export function validateBackup(data) {
   if (Array.isArray(data?.questions)) {
     return {
+      id: String(data.id ?? '').trim(),
+      title: String(data.title ?? data.name ?? '').trim(),
+      name: String(data.name ?? data.title ?? '').trim(),
       bank: validateQuestionBank(data),
       state: validateUserState(data.state ?? {}),
     };
   }
 
   throw new Error('完整数据文件格式不正确');
+}
+
+export function exportableBank(bank) {
+  return {
+    id: String(bank?.id ?? '').trim(),
+    title: normalizeBankName(bank?.title ?? bank?.name),
+    name: normalizeBankName(bank?.title ?? bank?.name),
+    questions: validateQuestionBank({ questions: bank?.questions }).questions,
+    state: exportableState(bank?.state ?? {}),
+  };
+}
+
+function migrateLegacyLibrary() {
+  const bank = readQuestionBank();
+  const state = validateUserState(readState());
+  const entry = createQuestionBankEntry({
+    id: bank.id,
+    title: bank.title,
+    questions: bank.questions,
+    state,
+  });
+
+  return {
+    activeBankId: entry.id,
+    banks: [entry],
+  };
 }
 
 export function pruneStateForQuestions(state, questions) {

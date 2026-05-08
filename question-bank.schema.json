@@ -2,11 +2,27 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://example.com/question-bank.schema.json",
   "title": "Question Bank Import Data",
-  "description": "question-bank 应用当前支持导入的 JSON 数据格式。根对象必须包含 questions 数组；state 为完整数据导出时携带的可选练习状态。",
+  "description": "question-bank 应用当前支持导入的单套题库 JSON 数据格式。根对象必须包含 id、title 和 questions；state 为该题库的可选练习状态。导入时会新增为一套独立题库。",
   "type": "object",
-  "required": ["questions"],
+  "required": ["id", "title", "questions"],
   "additionalProperties": false,
   "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[A-Za-z0-9][A-Za-z0-9_-]*$",
+      "description": "题库唯一标识。建议使用稳定的英文、数字、下划线或短横线。"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "兼容字段，作用同 title。"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "description": "题库标题。导入后用于题库切换列表。"
+    },
     "questions": {
       "type": "array",
       "description": "题目列表。导入后应用会按 id 升序展示。",
@@ -204,7 +220,7 @@
       "type": "object",
       "additionalProperties": true,
       "properties": {
-        "answer": {
+        "selected": {
           "oneOf": [
             { "type": "string" },
             {
@@ -213,6 +229,16 @@
             }
           ],
           "description": "用户提交的答案。"
+        },
+        "answer": {
+          "oneOf": [
+            { "type": "string" },
+            {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          ],
+          "description": "兼容字段，旧工具可使用；应用当前导出使用 selected。"
         },
         "correct": {
           "type": "boolean",
@@ -223,6 +249,9 @@
   },
   "examples": [
     {
+      "id": "sample-bank",
+      "name": "示例题库",
+      "title": "示例题库",
       "questions": [
         {
           "id": 1,
