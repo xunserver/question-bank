@@ -1,0 +1,264 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/question-bank.schema.json",
+  "title": "Question Bank Import Data",
+  "description": "question-bank 应用当前支持导入的 JSON 数据格式。根对象必须包含 questions 数组；state 为完整数据导出时携带的可选练习状态。",
+  "type": "object",
+  "required": ["questions"],
+  "additionalProperties": false,
+  "properties": {
+    "questions": {
+      "type": "array",
+      "description": "题目列表。导入后应用会按 id 升序展示。",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/question" }
+    },
+    "state": {
+      "$ref": "#/$defs/state",
+      "description": "可选的用户练习状态。只生成题库时可以省略。"
+    }
+  },
+  "$defs": {
+    "question": {
+      "type": "object",
+      "description": "一道题目。id、type、stem、answer 为导入必填字段；explanation 省略时导入为 empty string。",
+      "required": ["id", "type", "stem", "answer"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "题目唯一编号。建议在整个 questions 数组中保持唯一。"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["true_false", "single_choice", "multiple_choice"],
+          "description": "题型：true_false 判断题，single_choice 单选题，multiple_choice 多选题。"
+        },
+        "stem": {
+          "type": "string",
+          "minLength": 1,
+          "description": "题干文本。"
+        },
+        "answer": {
+          "description": "标准答案。判断题使用 true/false 字符串；单选题使用一个选项 label；多选题推荐使用 label 数组，也兼容逗号、顿号、空格分隔的字符串。",
+          "oneOf": [
+            {
+              "type": "string",
+              "minLength": 1
+            },
+            {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              },
+              "uniqueItems": true
+            }
+          ]
+        },
+        "options": {
+          "type": "array",
+          "description": "选项列表。判断题可省略，导入时会自动补为 true/false；单选题和多选题应提供选项。",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/option" }
+        },
+        "explanation": {
+          "type": "string",
+          "description": "答案解析。可为空字符串。"
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": { "type": { "const": "true_false" } },
+            "required": ["type"]
+          },
+          "then": {
+            "properties": {
+              "answer": {
+                "type": "string",
+                "enum": ["true", "false"]
+              },
+              "options": {
+                "type": "array",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": { "$ref": "#/$defs/option" },
+                "contains": {
+                  "type": "object",
+                  "required": ["label"],
+                  "properties": {
+                    "label": { "const": "true" }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "type": { "const": "single_choice" } },
+            "required": ["type"]
+          },
+          "then": {
+            "required": ["options"],
+            "properties": {
+              "answer": {
+                "type": "string",
+                "minLength": 1
+              },
+              "options": {
+                "type": "array",
+                "minItems": 2,
+                "items": { "$ref": "#/$defs/option" }
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "properties": { "type": { "const": "multiple_choice" } },
+            "required": ["type"]
+          },
+          "then": {
+            "required": ["options"],
+            "properties": {
+              "answer": {
+                "oneOf": [
+                  {
+                    "type": "string",
+                    "minLength": 2
+                  },
+                  {
+                    "type": "array",
+                    "minItems": 2,
+                    "items": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "uniqueItems": true
+                  }
+                ]
+              },
+              "options": {
+                "type": "array",
+                "minItems": 2,
+                "items": { "$ref": "#/$defs/option" }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "option": {
+      "type": "object",
+      "required": ["label", "content"],
+      "additionalProperties": false,
+      "properties": {
+        "label": {
+          "type": "string",
+          "minLength": 1,
+          "description": "选项标识。选择题通常使用 A、B、C、D；判断题使用 true、false。"
+        },
+        "content": {
+          "type": "string",
+          "minLength": 1,
+          "description": "选项内容。"
+        }
+      }
+    },
+    "state": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "currentIndex": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "当前练习题目的零基下标。"
+        },
+        "wrongIndex": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "错题本当前题目的零基下标。"
+        },
+        "answers": {
+          "type": "object",
+          "description": "答题记录，key 为题目 id。",
+          "additionalProperties": { "$ref": "#/$defs/answerRecord" }
+        },
+        "wrongBook": {
+          "type": "object",
+          "description": "错题本记录，key 为题目 id，value 通常为 true。",
+          "additionalProperties": {
+            "oneOf": [
+              { "type": "boolean" },
+              { "type": "object" }
+            ]
+          }
+        }
+      }
+    },
+    "answerRecord": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "answer": {
+          "oneOf": [
+            { "type": "string" },
+            {
+              "type": "array",
+              "items": { "type": "string" }
+            }
+          ],
+          "description": "用户提交的答案。"
+        },
+        "correct": {
+          "type": "boolean",
+          "description": "该次答案是否正确。"
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "questions": [
+        {
+          "id": 1,
+          "type": "true_false",
+          "stem": "变电所拉合开关的单一操作中可以不用操作票。",
+          "answer": "true",
+          "options": [
+            { "label": "true", "content": "正确" },
+            { "label": "false", "content": "错误" }
+          ],
+          "explanation": "符合规程和现场制度时，单一简单操作可以不使用操作票。"
+        },
+        {
+          "id": 2,
+          "type": "single_choice",
+          "stem": "下列哪一项是单选题答案？",
+          "answer": "A",
+          "options": [
+            { "label": "A", "content": "选项 A" },
+            { "label": "B", "content": "选项 B" }
+          ],
+          "explanation": "单选题答案使用一个选项 label。"
+        },
+        {
+          "id": 3,
+          "type": "multiple_choice",
+          "stem": "下列哪些项是多选题答案？",
+          "answer": ["A", "C"],
+          "options": [
+            { "label": "A", "content": "选项 A" },
+            { "label": "B", "content": "选项 B" },
+            { "label": "C", "content": "选项 C" }
+          ],
+          "explanation": "多选题推荐使用数组表示答案。"
+        }
+      ]
+    }
+  ]
+}
