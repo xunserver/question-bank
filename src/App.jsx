@@ -1,4 +1,4 @@
-import { useRef, useMemo, useState } from 'react';
+import { useEffect, useRef, useMemo, useState } from 'react';
 import { AppHeader } from './components/AppHeader';
 import { Tab } from './components/Tab';
 import { DataPanel } from './views/DataPanel';
@@ -47,6 +47,13 @@ export function App() {
   const answered = Boolean(savedAnswer) && !retryingWrongMultiple;
   const selectedAnswer = multipleChoice && !answered && !showAnswer ? draftAnswer : savedAnswer;
   const isCorrect = answered && isAnswerCorrect(currentQuestion, savedAnswer);
+
+  function isEditableTarget(target) {
+    return (
+      target instanceof HTMLElement &&
+      (target.isContentEditable || ['INPUT', 'TEXTAREA', 'SELECT', 'BUTTON'].includes(target.tagName))
+    );
+  }
 
   function commitState(updater) {
     setState((prev) => {
@@ -129,6 +136,26 @@ export function App() {
     setShowAnswer(false);
     setDraftAnswer('');
   }
+
+  useEffect(() => {
+    function handleKeyDown(event) {
+      if (event.defaultPrevented || isEditableTarget(event.target)) return;
+      if (!currentQuestion || !['practice', 'wrong'].includes(state.mode)) return;
+
+      if (event.key === 'ArrowLeft') {
+        event.preventDefault();
+        move(-1);
+      }
+
+      if (event.key === 'ArrowRight') {
+        event.preventDefault();
+        move(1);
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [currentQuestion, state.mode, currentIndex, activeList.length]);
 
   function jumpToQuestion(index) {
     commitState((prev) => ({
